@@ -1,0 +1,389 @@
+﻿Metro Area,Unemployment Rate,Rank
+"Ames, IA Metropolitan Statistical Area",1.2,1
+"Iowa City, IA Metropolitan Statistical Area",1.5,2
+"Mankato-North Mankato, MN Metropolitan Statistical Area",1.6,3
+"Columbia, MO Metropolitan Statistical Area",1.8,4
+"Dubuque, IA Metropolitan Statistical Area",1.8,4
+"Burlington-South Burlington, VT Metropolitan NECTA",1.9,6
+"Des Moines-West Des Moines, IA Metropolitan Statistical Area",1.9,6
+"Fargo, ND-MN Metropolitan Statistical Area",1.9,6
+"Rochester, MN Metropolitan Statistical Area",1.9,6
+"Waterloo-Cedar Falls, IA Metropolitan Statistical Area",1.9,6
+"Dover-Durham, NH-ME Metropolitan NECTA",2,11
+"Grand Forks, ND-MN Metropolitan Statistical Area",2,11
+"Jefferson City, MO Metropolitan Statistical Area",2,11
+"Madison, WI Metropolitan Statistical Area",2,11
+"Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area",2,11
+"Idaho Falls, ID Metropolitan Statistical Area",2.1,16
+"La Crosse-Onalaska, WI-MN Metropolitan Statistical Area",2.1,16
+"Manchester, NH Metropolitan NECTA",2.1,16
+"Midland, TX Metropolitan Statistical Area",2.1,16
+"Portsmouth, NH-ME Metropolitan NECTA",2.1,16
+"Sioux City, IA-NE-SD Metropolitan Statistical Area",2.1,16
+"Springfield, MO Metropolitan Statistical Area",2.1,16
+"Cedar Rapids, IA Metropolitan Statistical Area",2.2,23
+"Fond du Lac, WI Metropolitan Statistical Area",2.2,23
+"Lincoln, NE Metropolitan Statistical Area",2.2,23
+"St. Cloud, MN Metropolitan Statistical Area",2.2,23
+"Sheboygan, WI Metropolitan Statistical Area",2.2,23
+"Wausau, WI Metropolitan Statistical Area",2.2,23
+"Appleton, WI Metropolitan Statistical Area",2.3,29
+"Green Bay, WI Metropolitan Statistical Area",2.3,29
+"Joplin, MO Metropolitan Statistical Area",2.3,29
+"Logan, UT-ID Metropolitan Statistical Area",2.3,29
+"Oshkosh-Neenah, WI Metropolitan Statistical Area",2.3,29
+"St. Joseph, MO-KS Metropolitan Statistical Area",2.3,29
+"Sioux Falls, SD Metropolitan Statistical Area",2.3,29
+"Bismarck, ND Metropolitan Statistical Area",2.4,36
+"Boston-Cambridge-Nashua, MA-NH Metropolitan NECTA",2.4,36
+"Cape Girardeau, MO-IL Metropolitan Statistical Area",2.4,36
+"Charlottesville, VA Metropolitan Statistical Area",2.4,36
+"Eau Claire, WI Metropolitan Statistical Area",2.4,36
+"Pocatello, ID Metropolitan Statistical Area",2.4,36
+"San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area",2.4,36
+"Amarillo, TX Metropolitan Statistical Area",2.5,43
+"Boise City, ID Metropolitan Statistical Area",2.5,43
+"Danbury, CT Metropolitan NECTA",2.5,43
+"Fayetteville-Springdale-Rogers, AR-MO Metropolitan Statistical Area",2.5,43
+"Grand Rapids-Wyoming, MI Metropolitan Statistical Area",2.5,43
+"Manhattan, KS Metropolitan Statistical Area",2.5,43
+"Omaha-Council Bluffs, NE-IA Metropolitan Statistical Area",2.5,43
+"Provo-Orem, UT Metropolitan Statistical Area",2.5,43
+"San Francisco-Oakland-Hayward, CA Metropolitan Statistical Area",2.5,43
+"Santa Rosa, CA Metropolitan Statistical Area",2.5,43
+"Staunton-Waynesboro, VA Metropolitan Statistical Area",2.5,43
+"Urban Honolulu, HI Metropolitan Statistical Area",2.5,43
+"Winchester, VA-WV Metropolitan Statistical Area",2.5,43
+"Ann Arbor, MI Metropolitan Statistical Area",2.6,56
+"Charleston-North Charleston, SC Metropolitan Statistical Area",2.6,56
+"Crestview-Fort Walton Beach-Destin, FL Metropolitan Statistical Area",2.6,56
+"Enid, OK Metropolitan Statistical Area",2.6,56
+"Gainesville, GA Metropolitan Statistical Area",2.6,56
+"Grand Island, NE Metropolitan Statistical Area",2.6,56
+"Kahului-Wailuku-Lahaina, HI Metropolitan Statistical Area",2.6,56
+"Lawrence, KS Metropolitan Statistical Area",2.6,56
+"Nashville-Davidson--Murfreesboro--Franklin, TN Metropolitan Statistical Area",2.6,56
+"Odessa, TX Metropolitan Statistical Area",2.6,56
+"Oklahoma City, OK Metropolitan Statistical Area",2.6,56
+"Roanoke, VA Metropolitan Statistical Area",2.6,56
+"Austin-Round Rock, TX Metropolitan Statistical Area",2.7,68
+"College Station-Bryan, TX Metropolitan Statistical Area",2.7,68
+"Columbus, IN Metropolitan Statistical Area",2.7,68
+"Harrisonburg, VA Metropolitan Statistical Area",2.7,68
+"Kansas City, MO-KS Metropolitan Statistical Area",2.7,68
+"Lexington-Fayette, KY Metropolitan Statistical Area",2.7,68
+"Lubbock, TX Metropolitan Statistical Area",2.7,68
+"Napa, CA Metropolitan Statistical Area",2.7,68
+"Orlando-Kissimmee-Sanford, FL Metropolitan Statistical Area",2.7,68
+"Portland-South Portland, ME Metropolitan NECTA",2.7,68
+"Salt Lake City, UT Metropolitan Statistical Area",2.7,68
+"San Luis Obispo-Paso Robles-Arroyo Grande, CA Metropolitan Statistical Area",2.7,68
+"Trenton, NJ Metropolitan Statistical Area",2.7,68
+"Worcester, MA-CT Metropolitan NECTA",2.7,68
+"Asheville, NC Metropolitan Statistical Area",2.8,82
+"Gainesville, FL Metropolitan Statistical Area",2.8,82
+"Gettysburg, PA Metropolitan Statistical Area",2.8,82
+"Greenville-Anderson-Mauldin, SC Metropolitan Statistical Area",2.8,82
+"Jonesboro, AR Metropolitan Statistical Area",2.8,82
+"Ogden-Clearfield, UT Metropolitan Statistical Area",2.8,82
+"State College, PA Metropolitan Statistical Area",2.8,82
+"Blacksburg-Christiansburg-Radford, VA Metropolitan Statistical Area",2.9,89
+"Boulder, CO Metropolitan Statistical Area",2.9,89
+"Cape Coral-Fort Myers, FL Metropolitan Statistical Area",2.9,89
+"Fort Collins, CO Metropolitan Statistical Area",2.9,89
+"Hilton Head Island-Bluffton-Beaufort, SC Metropolitan Statistical Area",2.9,89
+"Huntsville, AL Metropolitan Statistical Area",2.9,89
+"Ithaca, NY Metropolitan Statistical Area",2.9,89
+"Jacksonville, FL Metropolitan Statistical Area",2.9,89
+"Leominster-Gardner, MA Metropolitan NECTA",2.9,89
+"Milwaukee-Waukesha-West Allis, WI Metropolitan Statistical Area",2.9,89
+"North Port-Sarasota-Bradenton, FL Metropolitan Statistical Area",2.9,89
+"Pensacola-Ferry Pass-Brent, FL Metropolitan Statistical Area",2.9,89
+"Richmond, VA Metropolitan Statistical Area",2.9,89
+"St. Louis, MO-IL Metropolitan Statistical Area(1)",2.9,89
+"Spartanburg, SC Metropolitan Statistical Area",2.9,89
+"Tulsa, OK Metropolitan Statistical Area",2.9,89
+"Athens-Clarke County, GA Metropolitan Statistical Area",3,105
+"Columbia, SC Metropolitan Statistical Area",3,105
+"Corvallis, OR Metropolitan Statistical Area",3,105
+"Duluth, MN-WI Metropolitan Statistical Area",3,105
+"Durham-Chapel Hill, NC Metropolitan Statistical Area",3,105
+"Elkhart-Goshen, IN Metropolitan Statistical Area",3,105
+"Greeley, CO Metropolitan Statistical Area",3,105
+"Hartford-West Hartford-East Hartford, CT Metropolitan NECTA",3,105
+"Lancaster, PA Metropolitan Statistical Area",3,105
+"Little Rock-North Little Rock-Conway, AR Metropolitan Statistical Area",3,105
+"Lynchburg, VA Metropolitan Statistical Area",3,105
+"Naples-Immokalee-Marco Island, FL Metropolitan Statistical Area",3,105
+"New Haven, CT Metropolitan NECTA",3,105
+"Norwich-New London-Westerly, CT-RI Metropolitan NECTA",3,105
+"Palm Bay-Melbourne-Titusville, FL Metropolitan Statistical Area",3,105
+"Raleigh, NC Metropolitan Statistical Area",3,105
+"Rapid City, SD Metropolitan Statistical Area",3,105
+"San Angelo, TX Metropolitan Statistical Area",3,105
+"Sherman-Denison, TX Metropolitan Statistical Area",3,105
+"Tallahassee, FL Metropolitan Statistical Area",3,105
+"Tampa-St. Petersburg-Clearwater, FL Metropolitan Statistical Area",3,105
+"Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area",3,105
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Statistical Area",3,105
+"Abilene, TX Metropolitan Statistical Area",3.1,128
+"Albany-Schenectady-Troy, NY Metropolitan Statistical Area",3.1,128
+"Auburn-Opelika, AL Metropolitan Statistical Area",3.1,128
+"Billings, MT Metropolitan Statistical Area",3.1,128
+"Birmingham-Hoover, AL Metropolitan Statistical Area",3.1,128
+"Bowling Green, KY Metropolitan Statistical Area",3.1,128
+"Bridgeport-Stamford-Norwalk, CT Metropolitan NECTA",3.1,128
+"Coeur d'Alene, ID Metropolitan Statistical Area",3.1,128
+"Decatur, AL Metropolitan Statistical Area",3.1,128
+"Dover, DE Metropolitan Statistical Area",3.1,128
+"Kalamazoo-Portage, MI Metropolitan Statistical Area",3.1,128
+"Kingston, NY Metropolitan Statistical Area",3.1,128
+"Lansing-East Lansing, MI Metropolitan Statistical Area",3.1,128
+"Lewiston, ID-WA Metropolitan Statistical Area",3.1,128
+"Miami-Fort Lauderdale-West Palm Beach, FL Metropolitan Statistical Area",3.1,128
+"Missoula, MT Metropolitan Statistical Area",3.1,128
+"Racine, WI Metropolitan Statistical Area",3.1,128
+"St. George, UT Metropolitan Statistical Area",3.1,128
+"San Antonio-New Braunfels, TX Metropolitan Statistical Area",3.1,128
+"Springfield, MA-CT Metropolitan NECTA",3.1,128
+"Topeka, KS Metropolitan Statistical Area",3.1,128
+"Wichita Falls, TX Metropolitan Statistical Area",3.1,128
+"Atlanta-Sandy Springs-Roswell, GA Metropolitan Statistical Area",3.2,150
+"Barnstable Town, MA Metropolitan NECTA",3.2,150
+"Burlington, NC Metropolitan Statistical Area",3.2,150
+"Chambersburg-Waynesboro, PA Metropolitan Statistical Area",3.2,150
+"Charlotte-Concord-Gastonia, NC-SC Metropolitan Statistical Area",3.2,150
+"Chattanooga, TN-GA Metropolitan Statistical Area",3.2,150
+"Dallas-Fort Worth-Arlington, TX Metropolitan Statistical Area",3.2,150
+"Daphne-Fairhope-Foley, AL Metropolitan Statistical Area",3.2,150
+"Fort Wayne, IN Metropolitan Statistical Area",3.2,150
+"Hickory-Lenoir-Morganton, NC Metropolitan Statistical Area",3.2,150
+"Knoxville, TN Metropolitan Statistical Area",3.2,150
+"Lafayette-West Lafayette, IN Metropolitan Statistical Area",3.2,150
+"Lewiston-Auburn, ME Metropolitan NECTA",3.2,150
+"Midland, MI Metropolitan Statistical Area",3.2,150
+"Owensboro, KY Metropolitan Statistical Area",3.2,150
+"San Diego-Carlsbad, CA Metropolitan Statistical Area",3.2,150
+"Savannah, GA Metropolitan Statistical Area",3.2,150
+"Tuscaloosa, AL Metropolitan Statistical Area",3.2,150
+"Waco, TX Metropolitan Statistical Area",3.2,150
+"Wichita, KS Metropolitan Statistical Area",3.2,150
+"Bangor, ME Metropolitan NECTA",3.3,170
+"Brunswick, GA Metropolitan Statistical Area",3.3,170
+"California-Lexington Park, MD Metropolitan Statistical Area",3.3,170
+"Deltona-Daytona Beach-Ormond Beach, FL Metropolitan Statistical Area",3.3,170
+"Denver-Aurora-Lakewood, CO Metropolitan Statistical Area",3.3,170
+"Evansville, IN-KY Metropolitan Statistical Area",3.3,170
+"Harrisburg-Carlisle, PA Metropolitan Statistical Area",3.3,170
+"Jackson, MI Metropolitan Statistical Area",3.3,170
+"New York-Newark-Jersey City, NY-NJ-PA Metropolitan Statistical Area",3.3,170
+"Pittsfield, MA Metropolitan NECTA",3.3,170
+"Reno, NV Metropolitan Statistical Area",3.3,170
+"Winston-Salem, NC Metropolitan Statistical Area",3.3,170
+"Cleveland, TN Metropolitan Statistical Area",3.4,182
+"Fort Smith, AR-OK Metropolitan Statistical Area",3.4,182
+"Great Falls, MT Metropolitan Statistical Area",3.4,182
+"Indianapolis-Carmel-Anderson, IN Metropolitan Statistical Area",3.4,182
+"Kingsport-Bristol-Bristol, TN-VA Metropolitan Statistical Area",3.4,182
+"Lake Charles, LA Metropolitan Statistical Area",3.4,182
+"Lakeland-Winter Haven, FL Metropolitan Statistical Area",3.4,182
+"Lawton, OK Metropolitan Statistical Area",3.4,182
+"Lebanon, PA Metropolitan Statistical Area",3.4,182
+"Louisville/Jefferson County, KY-IN Metropolitan Statistical Area",3.4,182
+"Montgomery, AL Metropolitan Statistical Area",3.4,182
+"Port St. Lucie, FL Metropolitan Statistical Area",3.4,182
+"Rochester, NY Metropolitan Statistical Area",3.4,182
+"Santa Maria-Santa Barbara, CA Metropolitan Statistical Area",3.4,182
+"Tyler, TX Metropolitan Statistical Area",3.4,182
+"Valdosta, GA Metropolitan Statistical Area",3.4,182
+"York-Hanover, PA Metropolitan Statistical Area",3.4,182
+"Augusta-Richmond County, GA-SC Metropolitan Statistical Area",3.5,199
+"Baltimore-Columbia-Towson, MD Metropolitan Statistical Area",3.5,199
+"Battle Creek, MI Metropolitan Statistical Area",3.5,199
+"Cheyenne, WY Metropolitan Statistical Area",3.5,199
+"Cincinnati, OH-KY-IN Metropolitan Statistical Area",3.5,199
+"Columbus, OH Metropolitan Statistical Area",3.5,199
+"Elizabethtown-Fort Knox, KY Metropolitan Statistical Area",3.5,199
+"Jackson, TN Metropolitan Statistical Area",3.5,199
+"Janesville-Beloit, WI Metropolitan Statistical Area",3.5,199
+"Laredo, TX Metropolitan Statistical Area",3.5,199
+"Morristown, TN Metropolitan Statistical Area",3.5,199
+"Punta Gorda, FL Metropolitan Statistical Area",3.5,199
+"Sacramento--Roseville--Arden-Arcade, CA Metropolitan Statistical Area",3.5,199
+"Syracuse, NY Metropolitan Statistical Area",3.5,199
+"Buffalo-Cheektowaga-Niagara Falls, NY Metropolitan Statistical Area",3.6,213
+"Dothan, AL Metropolitan Statistical Area",3.6,213
+"Elmira, NY Metropolitan Statistical Area",3.6,213
+"Florence, SC Metropolitan Statistical Area",3.6,213
+"Florence-Muscle Shoals, AL Metropolitan Statistical Area",3.6,213
+"Gadsden, AL Metropolitan Statistical Area",3.6,213
+"Greensboro-High Point, NC Metropolitan Statistical Area",3.6,213
+"Hagerstown-Martinsburg, MD-WV Metropolitan Statistical Area",3.6,213
+"Hattiesburg, MS Metropolitan Statistical Area",3.6,213
+"Hinesville, GA Metropolitan Statistical Area",3.6,213
+"Jackson, MS Metropolitan Statistical Area",3.6,213
+"Niles-Benton Harbor, MI Metropolitan Statistical Area",3.6,213
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metropolitan Statistical Area",3.6,213
+"Providence-Warwick, RI-MA Metropolitan NECTA",3.6,213
+"Sebastian-Vero Beach, FL Metropolitan Statistical Area",3.6,213
+"Vallejo-Fairfield, CA Metropolitan Statistical Area",3.6,213
+"Victoria, TX Metropolitan Statistical Area",3.6,213
+"Wilmington, NC Metropolitan Statistical Area",3.6,213
+"Altoona, PA Metropolitan Statistical Area",3.7,231
+"Bay City, MI Metropolitan Statistical Area",3.7,231
+"Binghamton, NY Metropolitan Statistical Area",3.7,231
+"Bloomsburg-Berwick, PA Metropolitan Statistical Area",3.7,231
+"Davenport-Moline-Rock Island, IA-IL Metropolitan Statistical Area",3.7,231
+"Glens Falls, NY Metropolitan Statistical Area",3.7,231
+"Greenville, NC Metropolitan Statistical Area",3.7,231
+"Johnson City, TN Metropolitan Statistical Area",3.7,231
+"New Bedford, MA Metropolitan NECTA",3.7,231
+"Ocala, FL Metropolitan Statistical Area",3.7,231
+"Oxnard-Thousand Oaks-Ventura, CA Metropolitan Statistical Area",3.7,231
+"Pittsburgh, PA Metropolitan Statistical Area",3.7,231
+"Portland-Vancouver-Hillsboro, OR-WA Metropolitan Statistical Area",3.7,231
+"Reading, PA Metropolitan Statistical Area",3.7,231
+"Rome, GA Metropolitan Statistical Area",3.7,231
+"South Bend-Mishawaka, IN-MI Metropolitan Statistical Area",3.7,231
+"Sumter, SC Metropolitan Statistical Area",3.7,231
+"Utica-Rome, NY Metropolitan Statistical Area",3.7,231
+"Chicago-Naperville-Elgin, IL-IN-WI Metropolitan Statistical Area",3.8,249
+"Clarksville, TN-KY Metropolitan Statistical Area",3.8,249
+"Detroit-Warren-Dearborn, MI Metropolitan Statistical Area",3.8,249
+"Houston-The Woodlands-Sugar Land, TX Metropolitan Statistical Area",3.8,249
+"Killeen-Temple, TX Metropolitan Statistical Area",3.8,249
+"Longview, TX Metropolitan Statistical Area",3.8,249
+"Memphis, TN-MS-AR Metropolitan Statistical Area",3.8,249
+"Monroe, MI Metropolitan Statistical Area",3.8,249
+"Morgantown, WV Metropolitan Statistical Area",3.8,249
+"Muskegon, MI Metropolitan Statistical Area",3.8,249
+"Allentown-Bethlehem-Easton, PA-NJ Metropolitan Statistical Area",3.9,259
+"Bloomington, IN Metropolitan Statistical Area",3.9,259
+"Colorado Springs, CO Metropolitan Statistical Area",3.9,259
+"Columbus, GA-AL Metropolitan Statistical Area",3.9,259
+"El Paso, TX Metropolitan Statistical Area",3.9,259
+"Goldsboro, NC Metropolitan Statistical Area",3.9,259
+"Hot Springs, AR Metropolitan Statistical Area",3.9,259
+"Lima, OH Metropolitan Statistical Area",3.9,259
+"Macon-Bibb County, GA Metropolitan Statistical Area",3.9,259
+"Phoenix-Mesa-Scottsdale, AZ Metropolitan Statistical Area",3.9,259
+"Riverside-San Bernardino-Ontario, CA Metropolitan Statistical Area",3.9,259
+"Saginaw, MI Metropolitan Statistical Area",3.9,259
+"Santa Fe, NM Metropolitan Statistical Area",3.9,259
+"Seattle-Tacoma-Bellevue, WA Metropolitan Statistical Area",3.9,259
+"Waterbury, CT Metropolitan NECTA",3.9,259
+"Anniston-Oxford-Jacksonville, AL Metropolitan Statistical Area",4,274
+"Baton Rouge, LA Metropolitan Statistical Area",4,274
+"Bloomington, IL Metropolitan Statistical Area",4,274
+"Dayton, OH Metropolitan Statistical Area",4,274
+"Grand Junction, CO Metropolitan Statistical Area",4,274
+"Mobile, AL Metropolitan Statistical Area",4,274
+"New Bern, NC Metropolitan Statistical Area",4,274
+"Akron, OH Metropolitan Statistical Area",4.1,281
+"Bend-Redmond, OR Metropolitan Statistical Area",4.1,281
+"Carson City, NV Metropolitan Statistical Area",4.1,281
+"Erie, PA Metropolitan Statistical Area",4.1,281
+"Flint, MI Metropolitan Statistical Area",4.1,281
+"Santa Cruz-Watsonville, CA Metropolitan Statistical Area",4.1,281
+"Springfield, OH Metropolitan Statistical Area",4.1,281
+"Casper, WY Metropolitan Statistical Area",4.2,288
+"Champaign-Urbana, IL Metropolitan Statistical Area",4.2,288
+"Dalton, GA Metropolitan Statistical Area",4.2,288
+"Jacksonville, NC Metropolitan Statistical Area",4.2,288
+"Los Angeles-Long Beach-Anaheim, CA Metropolitan Statistical Area",4.2,288
+"Muncie, IN Metropolitan Statistical Area",4.2,288
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metropolitan Statistical Area",4.2,288
+"New Orleans-Metairie, LA Metropolitan Statistical Area",4.2,288
+"Salem, OR Metropolitan Statistical Area",4.2,288
+"Springfield, IL Metropolitan Statistical Area",4.2,288
+"Tucson, AZ Metropolitan Statistical Area",4.2,288
+"Albany, GA Metropolitan Statistical Area",4.3,299
+"Albuquerque, NM Metropolitan Statistical Area",4.3,299
+"Atlantic City-Hammonton, NJ Metropolitan Statistical Area",4.3,299
+"Chico, CA Metropolitan Statistical Area",4.3,299
+"Corpus Christi, TX Metropolitan Statistical Area",4.3,299
+"Eugene, OR Metropolitan Statistical Area",4.3,299
+"Gulfport-Biloxi-Pascagoula, MS Metropolitan Statistical Area",4.3,299
+"Prescott, AZ Metropolitan Statistical Area",4.3,299
+"Sebring, FL Metropolitan Statistical Area",4.3,299
+"Walla Walla, WA Metropolitan Statistical Area",4.3,299
+"Williamsport, PA Metropolitan Statistical Area",4.3,299
+"Canton-Massillon, OH Metropolitan Statistical Area",4.4,310
+"Cleveland-Elyria, OH Metropolitan Statistical Area",4.4,310
+"Johnstown, PA Metropolitan Statistical Area",4.4,310
+"Las Vegas-Henderson-Paradise, NV Metropolitan Statistical Area",4.4,310
+"Redding, CA Metropolitan Statistical Area",4.4,310
+"Warner Robins, GA Metropolitan Statistical Area",4.4,310
+"Wheeling, WV-OH Metropolitan Statistical Area",4.4,310
+"Bremerton-Silverdale, WA Metropolitan Statistical Area",4.5,317
+"Homosassa Springs, FL Metropolitan Statistical Area",4.5,317
+"Lafayette, LA Metropolitan Statistical Area",4.5,317
+"Mansfield, OH Metropolitan Statistical Area",4.5,317
+"Medford, OR Metropolitan Statistical Area",4.5,317
+"Michigan City-La Porte, IN Metropolitan Statistical Area",4.5,317
+"Scranton--Wilkes-Barre--Hazleton, PA Metropolitan Statistical Area",4.5,317
+"Albany, OR Metropolitan Statistical Area",4.6,324
+"Bellingham, WA Metropolitan Statistical Area",4.6,324
+"Carbondale-Marion, IL Metropolitan Statistical Area",4.6,324
+"Fayetteville, NC Metropolitan Statistical Area",4.6,324
+"Houma-Thibodaux, LA Metropolitan Statistical Area",4.6,324
+"Huntington-Ashland, WV-KY-OH Metropolitan Statistical Area",4.6,324
+"Olympia-Tumwater, WA Metropolitan Statistical Area",4.6,324
+"Salisbury, MD-DE Metropolitan Statistical Area",4.6,324
+"Terre Haute, IN Metropolitan Statistical Area",4.6,324
+"The Villages, FL Metropolitan Statistical Area",4.6,324
+"Toledo, OH Metropolitan Statistical Area",4.6,324
+"Charleston, WV Metropolitan Statistical Area",4.7,335
+"Cumberland, MD-WV Metropolitan Statistical Area",4.7,335
+"Texarkana, TX-AR Metropolitan Statistical Area",4.7,335
+"Vineland-Bridgeton, NJ Metropolitan Statistical Area",4.7,335
+"Watertown-Fort Drum, NY Metropolitan Statistical Area",4.7,335
+"Kankakee, IL Metropolitan Statistical Area",4.8,340
+"Peoria, IL Metropolitan Statistical Area",4.8,340
+"Pine Bluff, AR Metropolitan Statistical Area",4.8,340
+"Rocky Mount, NC Metropolitan Statistical Area",4.8,340
+"East Stroudsburg, PA Metropolitan Statistical Area",4.9,344
+"Farmington, NM Metropolitan Statistical Area",4.9,344
+"Flagstaff, AZ Metropolitan Statistical Area",4.9,344
+"Hammond, LA Metropolitan Statistical Area",4.9,344
+"Parkersburg-Vienna, WV Metropolitan Statistical Area",4.9,344
+"Salinas, CA Metropolitan Statistical Area",4.9,344
+"Shreveport-Bossier City, LA Metropolitan Statistical Area",4.9,344
+"Wenatchee, WA Metropolitan Statistical Area",4.9,344
+"Alexandria, LA Metropolitan Statistical Area",5,352
+"Monroe, LA Metropolitan Statistical Area",5,352
+"Pueblo, CO Metropolitan Statistical Area",5,352
+"Mount Vernon-Anacortes, WA Metropolitan Statistical Area",5.1,355
+"Spokane-Spokane Valley, WA Metropolitan Statistical Area",5.1,355
+"Kennewick-Richland, WA Metropolitan Statistical Area",5.2,357
+"Beaumont-Port Arthur, TX Metropolitan Statistical Area",5.3,358
+"Beckley, WV Metropolitan Statistical Area",5.3,358
+"Brownsville-Harlingen, TX Metropolitan Statistical Area",5.3,358
+"Las Cruces, NM Metropolitan Statistical Area",5.3,358
+"Youngstown-Warren-Boardman, OH-PA Metropolitan Statistical Area",5.3,358
+"Grants Pass, OR Metropolitan Statistical Area",5.4,363
+"Lake Havasu City-Kingman, AZ Metropolitan Statistical Area",5.4,363
+"Sierra Vista-Douglas, AZ Metropolitan Statistical Area",5.4,363
+"Weirton-Steubenville, WV-OH Metropolitan Statistical Area",5.4,363
+"Anchorage, AK Metropolitan Statistical Area",5.5,367
+"Danville, IL Metropolitan Statistical Area",5.5,367
+"Decatur, IL Metropolitan Statistical Area",5.5,367
+"Fairbanks, AK Metropolitan Statistical Area",5.5,367
+"Stockton-Lodi, CA Metropolitan Statistical Area",5.5,367
+"Longview, WA Metropolitan Statistical Area",5.6,372
+"Modesto, CA Metropolitan Statistical Area",5.7,373
+"McAllen-Edinburg-Mission, TX Metropolitan Statistical Area",5.8,374
+"Madera, CA Metropolitan Statistical Area",6.2,375
+"Panama City, FL Metropolitan Statistical Area",6.2,375
+"Yakima, WA Metropolitan Statistical Area",6.4,377
+"Yuba City, CA Metropolitan Statistical Area",6.4,377
+"Bakersfield, CA Metropolitan Statistical Area",6.6,379
+"Merced, CA Metropolitan Statistical Area",6.7,380
+"Fresno, CA Metropolitan Statistical Area",6.9,381
+"Hanford-Corcoran, CA Metropolitan Statistical Area",7,382
+"Ocean City, NJ Metropolitan Statistical Area",7.7,383
+"Kokomo, IN Metropolitan Statistical Area",8.3,384
+"Visalia-Porterville, CA Metropolitan Statistical Area",8.6,385
+"Rockford, IL Metropolitan Statistical Area",9.3,386
+"Yuma, AZ Metropolitan Statistical Area",14.9,387
+"El Centro, CA Metropolitan Statistical Area",18.1,388
