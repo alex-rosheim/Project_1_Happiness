@@ -1,0 +1,1269 @@
+,CBSA Code,CBSA Title,Metropolitan/Micropolitan Statistical Area,Principal City Name,FIPS State Code,FIPS Place Code,STUSAB,State Name,STATENS,city_state,city_full_state,Miserable City,Happy City
+0,10100,"Aberdeen, SD",Micropolitan Statistical Area,Aberdeen,46.0,100.0,SD,South Dakota,1785534,"Aberdeen, SD","Aberdeen, South Dakota",False,False
+1,15100,"Brookings, SD",Micropolitan Statistical Area,Brookings,46.0,7580.0,SD,South Dakota,1785534,"Brookings, SD","Brookings, South Dakota",False,False
+2,26700,"Huron, SD",Micropolitan Statistical Area,Huron,46.0,31060.0,SD,South Dakota,1785534,"Huron, SD","Huron, South Dakota",False,False
+3,33580,"Mitchell, SD",Micropolitan Statistical Area,Mitchell,46.0,43100.0,SD,South Dakota,1785534,"Mitchell, SD","Mitchell, South Dakota",False,False
+4,38180,"Pierre, SD",Micropolitan Statistical Area,Pierre,46.0,49600.0,SD,South Dakota,1785534,"Pierre, SD","Pierre, South Dakota",False,False
+5,39660,"Rapid City, SD",Metropolitan Statistical Area,Rapid City,46.0,52980.0,SD,South Dakota,1785534,"Rapid City, SD","Rapid City, South Dakota",False,False
+6,43620,"Sioux Falls, SD",Metropolitan Statistical Area,Sioux Falls,46.0,59020.0,SD,South Dakota,1785534,"Sioux Falls, SD","Sioux Falls, South Dakota",False,False
+7,43940,"Spearfish, SD",Micropolitan Statistical Area,Spearfish,46.0,60020.0,SD,South Dakota,1785534,"Spearfish, SD","Spearfish, South Dakota",False,False
+8,46820,"Vermillion, SD",Micropolitan Statistical Area,Vermillion,46.0,66700.0,SD,South Dakota,1785534,"Vermillion, SD","Vermillion, South Dakota",False,False
+9,47980,"Watertown, SD",Micropolitan Statistical Area,Watertown,46.0,69300.0,SD,South Dakota,1785534,"Watertown, SD","Watertown, South Dakota",False,False
+10,49460,"Yankton, SD",Micropolitan Statistical Area,Yankton,46.0,73060.0,SD,South Dakota,1785534,"Yankton, SD","Yankton, South Dakota",False,False
+11,10140,"Aberdeen, WA",Micropolitan Statistical Area,Aberdeen,53.0,100.0,WA,Washington,1779804,"Aberdeen, WA","Aberdeen, Washington",False,False
+12,13380,"Bellingham, WA",Metropolitan Statistical Area,Bellingham,53.0,5280.0,WA,Washington,1779804,"Bellingham, WA","Bellingham, Washington",False,False
+13,14740,"Bremerton-Silverdale-Port Orchard, WA",Metropolitan Statistical Area,Bremerton,53.0,7695.0,WA,Washington,1779804,"Bremerton, WA","Bremerton, Washington",False,False
+14,14740,"Bremerton-Silverdale-Port Orchard, WA",Metropolitan Statistical Area,Port Orchard,53.0,55785.0,WA,Washington,1779804,"Port Orchard, WA","Port Orchard, Washington",False,False
+15,14740,"Bremerton-Silverdale-Port Orchard, WA",Metropolitan Statistical Area,Silverdale,53.0,64365.0,WA,Washington,1779804,"Silverdale, WA","Silverdale, Washington",False,False
+16,16500,"Centralia, WA",Micropolitan Statistical Area,Centralia,53.0,11160.0,WA,Washington,1779804,"Centralia, WA","Centralia, Washington",False,False
+17,21260,"Ellensburg, WA",Micropolitan Statistical Area,Ellensburg,53.0,21240.0,WA,Washington,1779804,"Ellensburg, WA","Ellensburg, Washington",False,False
+18,28420,"Kennewick-Richland, WA",Metropolitan Statistical Area,Kennewick,53.0,35275.0,WA,Washington,1779804,"Kennewick, WA","Kennewick, Washington",False,False
+19,28420,"Kennewick-Richland, WA",Metropolitan Statistical Area,Richland,53.0,58235.0,WA,Washington,1779804,"Richland, WA","Richland, Washington",False,False
+20,31020,"Longview, WA",Metropolitan Statistical Area,Longview,53.0,40245.0,WA,Washington,1779804,"Longview, WA","Longview, Washington",False,False
+21,34180,"Moses Lake, WA",Micropolitan Statistical Area,Moses Lake,53.0,47245.0,WA,Washington,1779804,"Moses Lake, WA","Moses Lake, Washington",False,False
+22,34580,"Mount Vernon-Anacortes, WA",Metropolitan Statistical Area,Anacortes,53.0,1990.0,WA,Washington,1779804,"Anacortes, WA","Anacortes, Washington",False,False
+23,34580,"Mount Vernon-Anacortes, WA",Metropolitan Statistical Area,Mount Vernon,53.0,47560.0,WA,Washington,1779804,"Mount Vernon, WA","Mount Vernon, Washington",False,False
+24,36020,"Oak Harbor, WA",Micropolitan Statistical Area,Oak Harbor,53.0,50360.0,WA,Washington,1779804,"Oak Harbor, WA","Oak Harbor, Washington",False,False
+25,36500,"Olympia-Lacey-Tumwater, WA",Metropolitan Statistical Area,Lacey,53.0,36745.0,WA,Washington,1779804,"Lacey, WA","Lacey, Washington",False,False
+26,36500,"Olympia-Lacey-Tumwater, WA",Metropolitan Statistical Area,Olympia,53.0,51300.0,WA,Washington,1779804,"Olympia, WA","Olympia, Washington",False,False
+27,36500,"Olympia-Lacey-Tumwater, WA",Metropolitan Statistical Area,Tumwater,53.0,72905.0,WA,Washington,1779804,"Tumwater, WA","Tumwater, Washington",False,False
+28,36830,"Othello, WA",Micropolitan Statistical Area,Othello,53.0,52215.0,WA,Washington,1779804,"Othello, WA","Othello, Washington",False,False
+29,38820,"Port Angeles, WA",Micropolitan Statistical Area,Port Angeles,53.0,55365.0,WA,Washington,1779804,"Port Angeles, WA","Port Angeles, Washington",False,False
+30,38900,"Portland-Vancouver-Hillsboro, OR-WA",Metropolitan Statistical Area,Vancouver,53.0,74060.0,WA,Washington,1779804,"Vancouver, WA","Vancouver, Washington",False,False
+31,39420,"Pullman, WA",Micropolitan Statistical Area,Pullman,53.0,56625.0,WA,Washington,1779804,"Pullman, WA","Pullman, Washington",False,False
+32,42660,"Seattle-Tacoma-Bellevue, WA",Metropolitan Statistical Area,Auburn,53.0,3180.0,WA,Washington,1779804,"Auburn, WA","Auburn, Washington",False,False
+33,42660,"Seattle-Tacoma-Bellevue, WA",Metropolitan Statistical Area,Bellevue,53.0,5210.0,WA,Washington,1779804,"Bellevue, WA","Bellevue, Washington",False,False
+34,42660,"Seattle-Tacoma-Bellevue, WA",Metropolitan Statistical Area,Everett,53.0,22640.0,WA,Washington,1779804,"Everett, WA","Everett, Washington",False,False
+35,42660,"Seattle-Tacoma-Bellevue, WA",Metropolitan Statistical Area,Kent,53.0,35415.0,WA,Washington,1779804,"Kent, WA","Kent, Washington",False,False
+36,42660,"Seattle-Tacoma-Bellevue, WA",Metropolitan Statistical Area,Lakewood,53.0,38038.0,WA,Washington,1779804,"Lakewood, WA","Lakewood, Washington",False,False
+37,42660,"Seattle-Tacoma-Bellevue, WA",Metropolitan Statistical Area,Redmond,53.0,57535.0,WA,Washington,1779804,"Redmond, WA","Redmond, Washington",False,False
+38,42660,"Seattle-Tacoma-Bellevue, WA",Metropolitan Statistical Area,Renton,53.0,57745.0,WA,Washington,1779804,"Renton, WA","Renton, Washington",False,False
+39,42660,"Seattle-Tacoma-Bellevue, WA",Metropolitan Statistical Area,Seattle,53.0,63000.0,WA,Washington,1779804,"Seattle, WA","Seattle, Washington",False,False
+40,42660,"Seattle-Tacoma-Bellevue, WA",Metropolitan Statistical Area,Tacoma,53.0,70000.0,WA,Washington,1779804,"Tacoma, WA","Tacoma, Washington",False,False
+41,43220,"Shelton, WA",Micropolitan Statistical Area,Shelton,53.0,63735.0,WA,Washington,1779804,"Shelton, WA","Shelton, Washington",False,False
+42,44060,"Spokane-Spokane Valley, WA",Metropolitan Statistical Area,Spokane,53.0,67000.0,WA,Washington,1779804,"Spokane, WA","Spokane, Washington",False,False
+43,44060,"Spokane-Spokane Valley, WA",Metropolitan Statistical Area,Spokane Valley,53.0,67167.0,WA,Washington,1779804,"Spokane Valley, WA","Spokane Valley, Washington",False,False
+44,47460,"Walla Walla, WA",Metropolitan Statistical Area,Walla Walla,53.0,75775.0,WA,Washington,1779804,"Walla Walla, WA","Walla Walla, Washington",False,False
+45,48300,"Wenatchee, WA",Metropolitan Statistical Area,Wenatchee,53.0,77105.0,WA,Washington,1779804,"Wenatchee, WA","Wenatchee, Washington",False,False
+46,49420,"Yakima, WA",Metropolitan Statistical Area,Yakima,53.0,80010.0,WA,Washington,1779804,"Yakima, WA","Yakima, Washington",False,False
+47,10180,"Abilene, TX",Metropolitan Statistical Area,Abilene,48.0,1000.0,TX,Texas,1779801,"Abilene, TX","Abilene, Texas",False,False
+48,10860,"Alice, TX",Micropolitan Statistical Area,Alice,48.0,1852.0,TX,Texas,1779801,"Alice, TX","Alice, Texas",False,False
+49,11100,"Amarillo, TX",Metropolitan Statistical Area,Amarillo,48.0,3000.0,TX,Texas,1779801,"Amarillo, TX","Amarillo, Texas",False,False
+50,11380,"Andrews, TX",Micropolitan Statistical Area,Andrews,48.0,3216.0,TX,Texas,1779801,"Andrews, TX","Andrews, Texas",False,False
+51,11980,"Athens, TX",Micropolitan Statistical Area,Athens,48.0,4504.0,TX,Texas,1779801,"Athens, TX","Athens, Texas",False,False
+52,12420,"Austin-Round Rock-Georgetown, TX",Metropolitan Statistical Area,Austin,48.0,5000.0,TX,Texas,1779801,"Austin, TX","Austin, Texas",False,True
+53,12420,"Austin-Round Rock-Georgetown, TX",Metropolitan Statistical Area,Georgetown,48.0,29336.0,TX,Texas,1779801,"Georgetown, TX","Georgetown, Texas",False,False
+54,12420,"Austin-Round Rock-Georgetown, TX",Metropolitan Statistical Area,Round Rock,48.0,63500.0,TX,Texas,1779801,"Round Rock, TX","Round Rock, Texas",False,False
+55,12420,"Austin-Round Rock-Georgetown, TX",Metropolitan Statistical Area,San Marcos,48.0,65600.0,TX,Texas,1779801,"San Marcos, TX","San Marcos, Texas",False,False
+56,13060,"Bay City, TX",Micropolitan Statistical Area,Bay City,48.0,5984.0,TX,Texas,1779801,"Bay City, TX","Bay City, Texas",False,False
+57,13140,"Beaumont-Port Arthur, TX",Metropolitan Statistical Area,Beaumont,48.0,7000.0,TX,Texas,1779801,"Beaumont, TX","Beaumont, Texas",False,False
+58,13140,"Beaumont-Port Arthur, TX",Metropolitan Statistical Area,Port Arthur,48.0,58820.0,TX,Texas,1779801,"Port Arthur, TX","Port Arthur, Texas",False,False
+59,13300,"Beeville, TX",Micropolitan Statistical Area,Beeville,48.0,7192.0,TX,Texas,1779801,"Beeville, TX","Beeville, Texas",False,False
+60,13700,"Big Spring, TX",Micropolitan Statistical Area,Big Spring,48.0,8236.0,TX,Texas,1779801,"Big Spring, TX","Big Spring, Texas",False,False
+61,14300,"Bonham, TX",Micropolitan Statistical Area,Bonham,48.0,9328.0,TX,Texas,1779801,"Bonham, TX","Bonham, Texas",False,False
+62,14420,"Borger, TX",Micropolitan Statistical Area,Borger,48.0,9556.0,TX,Texas,1779801,"Borger, TX","Borger, Texas",False,False
+63,14780,"Brenham, TX",Micropolitan Statistical Area,Brenham,48.0,10156.0,TX,Texas,1779801,"Brenham, TX","Brenham, Texas",False,False
+64,15180,"Brownsville-Harlingen, TX",Metropolitan Statistical Area,Brownsville,48.0,10768.0,TX,Texas,1779801,"Brownsville, TX","Brownsville, Texas",False,False
+65,15180,"Brownsville-Harlingen, TX",Metropolitan Statistical Area,Harlingen,48.0,32372.0,TX,Texas,1779801,"Harlingen, TX","Harlingen, Texas",False,False
+66,15220,"Brownwood, TX",Micropolitan Statistical Area,Brownwood,48.0,10780.0,TX,Texas,1779801,"Brownwood, TX","Brownwood, Texas",False,False
+67,17780,"College Station-Bryan, TX",Metropolitan Statistical Area,Bryan,48.0,10912.0,TX,Texas,1779801,"Bryan, TX","Bryan, Texas",False,False
+68,17780,"College Station-Bryan, TX",Metropolitan Statistical Area,College Station,48.0,15976.0,TX,Texas,1779801,"College Station, TX","College Station, Texas",False,False
+69,18580,"Corpus Christi, TX",Metropolitan Statistical Area,Corpus Christi,48.0,17000.0,TX,Texas,1779801,"Corpus Christi, TX","Corpus Christi, Texas",False,False
+70,18620,"Corsicana, TX",Micropolitan Statistical Area,Corsicana,48.0,17060.0,TX,Texas,1779801,"Corsicana, TX","Corsicana, Texas",False,False
+71,19100,"Dallas-Fort Worth-Arlington, TX",Metropolitan Statistical Area,Arlington,48.0,4000.0,TX,Texas,1779801,"Arlington, TX","Arlington, Texas",False,False
+72,19100,"Dallas-Fort Worth-Arlington, TX",Metropolitan Statistical Area,Dallas,48.0,19000.0,TX,Texas,1779801,"Dallas, TX","Dallas, Texas",False,False
+73,19100,"Dallas-Fort Worth-Arlington, TX",Metropolitan Statistical Area,Denton,48.0,19972.0,TX,Texas,1779801,"Denton, TX","Denton, Texas",False,False
+74,19100,"Dallas-Fort Worth-Arlington, TX",Metropolitan Statistical Area,Fort Worth,48.0,27000.0,TX,Texas,1779801,"Fort Worth, TX","Fort Worth, Texas",False,False
+75,19100,"Dallas-Fort Worth-Arlington, TX",Metropolitan Statistical Area,Grapevine,48.0,30644.0,TX,Texas,1779801,"Grapevine, TX","Grapevine, Texas",False,False
+76,19100,"Dallas-Fort Worth-Arlington, TX",Metropolitan Statistical Area,Irving,48.0,37000.0,TX,Texas,1779801,"Irving, TX","Irving, Texas",False,False
+77,19100,"Dallas-Fort Worth-Arlington, TX",Metropolitan Statistical Area,Plano,48.0,58016.0,TX,Texas,1779801,"Plano, TX","Plano, Texas",False,False
+78,19100,"Dallas-Fort Worth-Arlington, TX",Metropolitan Statistical Area,Richardson,48.0,61796.0,TX,Texas,1779801,"Richardson, TX","Richardson, Texas",False,False
+79,19620,"Del Rio, TX",Micropolitan Statistical Area,Del Rio,48.0,19792.0,TX,Texas,1779801,"Del Rio, TX","Del Rio, Texas",False,False
+80,20300,"Dumas, TX",Micropolitan Statistical Area,Dumas,48.0,21556.0,TX,Texas,1779801,"Dumas, TX","Dumas, Texas",False,False
+81,20580,"Eagle Pass, TX",Micropolitan Statistical Area,Eagle Pass,48.0,21892.0,TX,Texas,1779801,"Eagle Pass, TX","Eagle Pass, Texas",False,False
+82,20900,"El Campo, TX",Micropolitan Statistical Area,El Campo,48.0,22864.0,TX,Texas,1779801,"El Campo, TX","El Campo, Texas",False,False
+83,21340,"El Paso, TX",Metropolitan Statistical Area,El Paso,48.0,24000.0,TX,Texas,1779801,"El Paso, TX","El Paso, Texas",False,False
+84,23240,"Fredericksburg, TX",Micropolitan Statistical Area,Fredericksburg,48.0,27348.0,TX,Texas,1779801,"Fredericksburg, TX","Fredericksburg, Texas",False,False
+85,23620,"Gainesville, TX",Micropolitan Statistical Area,Gainesville,48.0,27984.0,TX,Texas,1779801,"Gainesville, TX","Gainesville, Texas",False,False
+86,24180,"Granbury, TX",Micropolitan Statistical Area,Granbury,48.0,30416.0,TX,Texas,1779801,"Granbury, TX","Granbury, Texas",False,False
+87,25820,"Hereford, TX",Micropolitan Statistical Area,Hereford,48.0,33320.0,TX,Texas,1779801,"Hereford, TX","Hereford, Texas",False,False
+88,26420,"Houston-The Woodlands-Sugar Land, TX",Metropolitan Statistical Area,Baytown,48.0,6128.0,TX,Texas,1779801,"Baytown, TX","Baytown, Texas",False,False
+89,26420,"Houston-The Woodlands-Sugar Land, TX",Metropolitan Statistical Area,Conroe,48.0,16432.0,TX,Texas,1779801,"Conroe, TX","Conroe, Texas",False,False
+90,26420,"Houston-The Woodlands-Sugar Land, TX",Metropolitan Statistical Area,Galveston,48.0,28068.0,TX,Texas,1779801,"Galveston, TX","Galveston, Texas",False,False
+91,26420,"Houston-The Woodlands-Sugar Land, TX",Metropolitan Statistical Area,Houston,48.0,35000.0,TX,Texas,1779801,"Houston, TX","Houston, Texas",False,False
+92,26420,"Houston-The Woodlands-Sugar Land, TX",Metropolitan Statistical Area,Sugar Land,48.0,70808.0,TX,Texas,1779801,"Sugar Land, TX","Sugar Land, Texas",False,False
+93,26420,"Houston-The Woodlands-Sugar Land, TX",Metropolitan Statistical Area,The Woodlands,48.0,72656.0,TX,Texas,1779801,"The Woodlands, TX","The Woodlands, Texas",False,False
+94,26660,"Huntsville, TX",Micropolitan Statistical Area,Huntsville,48.0,35528.0,TX,Texas,1779801,"Huntsville, TX","Huntsville, Texas",False,False
+95,27380,"Jacksonville, TX",Micropolitan Statistical Area,Jacksonville,48.0,37216.0,TX,Texas,1779801,"Jacksonville, TX","Jacksonville, Texas",False,False
+96,28500,"Kerrville, TX",Micropolitan Statistical Area,Kerrville,48.0,39040.0,TX,Texas,1779801,"Kerrville, TX","Kerrville, Texas",False,False
+97,28660,"Killeen-Temple, TX",Metropolitan Statistical Area,Killeen,48.0,39148.0,TX,Texas,1779801,"Killeen, TX","Killeen, Texas",False,False
+98,28660,"Killeen-Temple, TX",Metropolitan Statistical Area,Temple,48.0,72176.0,TX,Texas,1779801,"Temple, TX","Temple, Texas",False,False
+99,28780,"Kingsville, TX",Micropolitan Statistical Area,Kingsville,48.0,39352.0,TX,Texas,1779801,"Kingsville, TX","Kingsville, Texas",False,False
+100,29500,"Lamesa, TX",Micropolitan Statistical Area,Lamesa,48.0,41164.0,TX,Texas,1779801,"Lamesa, TX","Lamesa, Texas",False,False
+101,29700,"Laredo, TX",Metropolitan Statistical Area,Laredo,48.0,41464.0,TX,Texas,1779801,"Laredo, TX","Laredo, Texas",False,False
+102,30220,"Levelland, TX",Micropolitan Statistical Area,Levelland,48.0,42448.0,TX,Texas,1779801,"Levelland, TX","Levelland, Texas",False,False
+103,30980,"Longview, TX",Metropolitan Statistical Area,Longview,48.0,43888.0,TX,Texas,1779801,"Longview, TX","Longview, Texas",False,False
+104,31180,"Lubbock, TX",Metropolitan Statistical Area,Lubbock,48.0,45000.0,TX,Texas,1779801,"Lubbock, TX","Lubbock, Texas",False,False
+105,31260,"Lufkin, TX",Micropolitan Statistical Area,Lufkin,48.0,45072.0,TX,Texas,1779801,"Lufkin, TX","Lufkin, Texas",False,False
+106,32580,"McAllen-Edinburg-Mission, TX",Metropolitan Statistical Area,Edinburg,48.0,22660.0,TX,Texas,1779801,"Edinburg, TX","Edinburg, Texas",False,False
+107,32580,"McAllen-Edinburg-Mission, TX",Metropolitan Statistical Area,McAllen,48.0,45384.0,TX,Texas,1779801,"McAllen, TX","McAllen, Texas",False,False
+108,32580,"McAllen-Edinburg-Mission, TX",Metropolitan Statistical Area,Mission,48.0,48768.0,TX,Texas,1779801,"Mission, TX","Mission, Texas",False,False
+109,33260,"Midland, TX",Metropolitan Statistical Area,Midland,48.0,48072.0,TX,Texas,1779801,"Midland, TX","Midland, Texas",False,False
+110,33420,"Mineral Wells, TX",Micropolitan Statistical Area,Mineral Wells,48.0,48684.0,TX,Texas,1779801,"Mineral Wells, TX","Mineral Wells, Texas",False,False
+111,34420,"Mount Pleasant, TX",Micropolitan Statistical Area,Mount Pleasant,48.0,49800.0,TX,Texas,1779801,"Mount Pleasant, TX","Mount Pleasant, Texas",False,False
+112,34860,"Nacogdoches, TX",Micropolitan Statistical Area,Nacogdoches,48.0,50256.0,TX,Texas,1779801,"Nacogdoches, TX","Nacogdoches, Texas",False,False
+113,36220,"Odessa, TX",Metropolitan Statistical Area,Odessa,48.0,53388.0,TX,Texas,1779801,"Odessa, TX","Odessa, Texas",False,False
+114,37300,"Palestine, TX",Micropolitan Statistical Area,Palestine,48.0,54708.0,TX,Texas,1779801,"Palestine, TX","Palestine, Texas",False,False
+115,37420,"Pampa, TX",Micropolitan Statistical Area,Pampa,48.0,54912.0,TX,Texas,1779801,"Pampa, TX","Pampa, Texas",False,False
+116,37580,"Paris, TX",Micropolitan Statistical Area,Paris,48.0,55080.0,TX,Texas,1779801,"Paris, TX","Paris, Texas",False,False
+117,37770,"Pearsall, TX",Micropolitan Statistical Area,Pearsall,48.0,56384.0,TX,Texas,1779801,"Pearsall, TX","Pearsall, Texas",False,False
+118,37780,"Pecos, TX",Micropolitan Statistical Area,Pecos,48.0,56516.0,TX,Texas,1779801,"Pecos, TX","Pecos, Texas",False,False
+119,38380,"Plainview, TX",Micropolitan Statistical Area,Plainview,48.0,57980.0,TX,Texas,1779801,"Plainview, TX","Plainview, Texas",False,False
+120,38920,"Port Lavaca, TX",Micropolitan Statistical Area,Port Lavaca,48.0,58916.0,TX,Texas,1779801,"Port Lavaca, TX","Port Lavaca, Texas",False,False
+121,39700,"Raymondville, TX",Micropolitan Statistical Area,Raymondville,48.0,60836.0,TX,Texas,1779801,"Raymondville, TX","Raymondville, Texas",False,False
+122,40100,"Rio Grande City-Roma, TX",Micropolitan Statistical Area,Rio Grande City,48.0,62168.0,TX,Texas,1779801,"Rio Grande City, TX","Rio Grande City, Texas",False,False
+123,40100,"Rio Grande City-Roma, TX",Micropolitan Statistical Area,Roma,48.0,63020.0,TX,Texas,1779801,"Roma, TX","Roma, Texas",False,False
+124,40530,"Rockport, TX",Micropolitan Statistical Area,Rockport,48.0,62804.0,TX,Texas,1779801,"Rockport, TX","Rockport, Texas",False,False
+125,41660,"San Angelo, TX",Metropolitan Statistical Area,San Angelo,48.0,64472.0,TX,Texas,1779801,"San Angelo, TX","San Angelo, Texas",False,False
+126,41700,"San Antonio-New Braunfels, TX",Metropolitan Statistical Area,New Braunfels,48.0,50820.0,TX,Texas,1779801,"New Braunfels, TX","New Braunfels, Texas",False,False
+127,41700,"San Antonio-New Braunfels, TX",Metropolitan Statistical Area,San Antonio,48.0,65000.0,TX,Texas,1779801,"San Antonio, TX","San Antonio, Texas",False,False
+128,43300,"Sherman-Denison, TX",Metropolitan Statistical Area,Denison,48.0,19900.0,TX,Texas,1779801,"Denison, TX","Denison, Texas",False,False
+129,43300,"Sherman-Denison, TX",Metropolitan Statistical Area,Sherman,48.0,67496.0,TX,Texas,1779801,"Sherman, TX","Sherman, Texas",False,False
+130,43660,"Snyder, TX",Micropolitan Statistical Area,Snyder,48.0,68624.0,TX,Texas,1779801,"Snyder, TX","Snyder, Texas",False,False
+131,44500,"Stephenville, TX",Micropolitan Statistical Area,Stephenville,48.0,70208.0,TX,Texas,1779801,"Stephenville, TX","Stephenville, Texas",False,False
+132,44860,"Sulphur Springs, TX",Micropolitan Statistical Area,Sulphur Springs,48.0,70904.0,TX,Texas,1779801,"Sulphur Springs, TX","Sulphur Springs, Texas",False,False
+133,45020,"Sweetwater, TX",Micropolitan Statistical Area,Sweetwater,48.0,71540.0,TX,Texas,1779801,"Sweetwater, TX","Sweetwater, Texas",False,False
+134,45500,"Texarkana, TX-AR",Metropolitan Statistical Area,Texarkana,48.0,72368.0,TX,Texas,1779801,"Texarkana, TX","Texarkana, Texas",False,False
+135,46340,"Tyler, TX",Metropolitan Statistical Area,Tyler,48.0,74144.0,TX,Texas,1779801,"Tyler, TX","Tyler, Texas",False,False
+136,46620,"Uvalde, TX",Micropolitan Statistical Area,Uvalde,48.0,74588.0,TX,Texas,1779801,"Uvalde, TX","Uvalde, Texas",False,False
+137,46900,"Vernon, TX",Micropolitan Statistical Area,Vernon,48.0,75308.0,TX,Texas,1779801,"Vernon, TX","Vernon, Texas",False,False
+138,47020,"Victoria, TX",Metropolitan Statistical Area,Victoria,48.0,75428.0,TX,Texas,1779801,"Victoria, TX","Victoria, Texas",False,False
+139,47380,"Waco, TX",Metropolitan Statistical Area,Waco,48.0,76000.0,TX,Texas,1779801,"Waco, TX","Waco, Texas",False,False
+140,48660,"Wichita Falls, TX",Metropolitan Statistical Area,Wichita Falls,48.0,79000.0,TX,Texas,1779801,"Wichita Falls, TX","Wichita Falls, Texas",False,False
+141,49820,"Zapata, TX",Micropolitan Statistical Area,Zapata,48.0,80716.0,TX,Texas,1779801,"Zapata, TX","Zapata, Texas",False,False
+142,10220,"Ada, OK",Micropolitan Statistical Area,Ada,40.0,200.0,OK,Oklahoma,1102857,"Ada, OK","Ada, Oklahoma",False,False
+143,11060,"Altus, OK",Micropolitan Statistical Area,Altus,40.0,1700.0,OK,Oklahoma,1102857,"Altus, OK","Altus, Oklahoma",False,False
+144,11620,"Ardmore, OK",Micropolitan Statistical Area,Ardmore,40.0,2600.0,OK,Oklahoma,1102857,"Ardmore, OK","Ardmore, Oklahoma",False,False
+145,12780,"Bartlesville, OK",Micropolitan Statistical Area,Bartlesville,40.0,4450.0,OK,Oklahoma,1102857,"Bartlesville, OK","Bartlesville, Oklahoma",False,False
+146,20340,"Duncan, OK",Micropolitan Statistical Area,Duncan,40.0,21900.0,OK,Oklahoma,1102857,"Duncan, OK","Duncan, Oklahoma",False,False
+147,20460,"Durant, OK",Micropolitan Statistical Area,Durant,40.0,22050.0,OK,Oklahoma,1102857,"Durant, OK","Durant, Oklahoma",False,False
+148,21120,"Elk City, OK",Micropolitan Statistical Area,Elk City,40.0,23500.0,OK,Oklahoma,1102857,"Elk City, OK","Elk City, Oklahoma",False,False
+149,21420,"Enid, OK",Metropolitan Statistical Area,Enid,40.0,23950.0,OK,Oklahoma,1102857,"Enid, OK","Enid, Oklahoma",False,False
+150,25100,"Guymon, OK",Micropolitan Statistical Area,Guymon,40.0,31750.0,OK,Oklahoma,1102857,"Guymon, OK","Guymon, Oklahoma",False,False
+151,30020,"Lawton, OK",Metropolitan Statistical Area,Lawton,40.0,41850.0,OK,Oklahoma,1102857,"Lawton, OK","Lawton, Oklahoma",False,False
+152,32540,"McAlester, OK",Micropolitan Statistical Area,McAlester,40.0,44800.0,OK,Oklahoma,1102857,"McAlester, OK","McAlester, Oklahoma",False,False
+153,33060,"Miami, OK",Micropolitan Statistical Area,Miami,40.0,48000.0,OK,Oklahoma,1102857,"Miami, OK","Miami, Oklahoma",False,False
+154,34780,"Muskogee, OK",Micropolitan Statistical Area,Muskogee,40.0,50050.0,OK,Oklahoma,1102857,"Muskogee, OK","Muskogee, Oklahoma",False,False
+155,36420,"Oklahoma City, OK",Metropolitan Statistical Area,Oklahoma City,40.0,55000.0,OK,Oklahoma,1102857,"Oklahoma City, OK","Oklahoma City, Oklahoma",False,False
+156,38620,"Ponca City, OK",Micropolitan Statistical Area,Ponca City,40.0,59850.0,OK,Oklahoma,1102857,"Ponca City, OK","Ponca City, Oklahoma",False,False
+157,43060,"Shawnee, OK",Micropolitan Statistical Area,Shawnee,40.0,66800.0,OK,Oklahoma,1102857,"Shawnee, OK","Shawnee, Oklahoma",False,False
+158,44660,"Stillwater, OK",Micropolitan Statistical Area,Stillwater,40.0,70300.0,OK,Oklahoma,1102857,"Stillwater, OK","Stillwater, Oklahoma",False,False
+159,45140,"Tahlequah, OK",Micropolitan Statistical Area,Tahlequah,40.0,72100.0,OK,Oklahoma,1102857,"Tahlequah, OK","Tahlequah, Oklahoma",False,False
+160,46140,"Tulsa, OK",Metropolitan Statistical Area,Tulsa,40.0,75000.0,OK,Oklahoma,1102857,"Tulsa, OK","Tulsa, Oklahoma",False,False
+161,48220,"Weatherford, OK",Micropolitan Statistical Area,Weatherford,40.0,79450.0,OK,Oklahoma,1102857,"Weatherford, OK","Weatherford, Oklahoma",False,False
+162,49260,"Woodward, OK",Micropolitan Statistical Area,Woodward,40.0,82150.0,OK,Oklahoma,1102857,"Woodward, OK","Woodward, Oklahoma",False,False
+163,10300,"Adrian, MI",Micropolitan Statistical Area,Adrian,26.0,440.0,MI,Michigan,1779789,"Adrian, MI","Adrian, Michigan",False,False
+164,10940,"Alma, MI",Micropolitan Statistical Area,Alma,26.0,1540.0,MI,Michigan,1779789,"Alma, MI","Alma, Michigan",False,False
+165,10980,"Alpena, MI",Micropolitan Statistical Area,Alpena,26.0,1740.0,MI,Michigan,1779789,"Alpena, MI","Alpena, Michigan",False,False
+166,11460,"Ann Arbor, MI",Metropolitan Statistical Area,Ann Arbor,26.0,3000.0,MI,Michigan,1779789,"Ann Arbor, MI","Ann Arbor, Michigan",False,True
+167,12980,"Battle Creek, MI",Metropolitan Statistical Area,Battle Creek,26.0,5920.0,MI,Michigan,1779789,"Battle Creek, MI","Battle Creek, Michigan",False,False
+168,13020,"Bay City, MI",Metropolitan Statistical Area,Bay City,26.0,6020.0,MI,Michigan,1779789,"Bay City, MI","Bay City, Michigan",False,False
+169,13660,"Big Rapids, MI",Micropolitan Statistical Area,Big Rapids,26.0,8300.0,MI,Michigan,1779789,"Big Rapids, MI","Big Rapids, Michigan",False,False
+170,15620,"Cadillac, MI",Micropolitan Statistical Area,Cadillac,26.0,12320.0,MI,Michigan,1779789,"Cadillac, MI","Cadillac, Michigan",False,False
+171,17740,"Coldwater, MI",Micropolitan Statistical Area,Coldwater,26.0,17020.0,MI,Michigan,1779789,"Coldwater, MI","Coldwater, Michigan",False,False
+172,19820,"Detroit-Warren-Dearborn, MI",Metropolitan Statistical Area,Dearborn,26.0,21000.0,MI,Michigan,1779789,"Dearborn, MI","Dearborn, Michigan",False,False
+173,19820,"Detroit-Warren-Dearborn, MI",Metropolitan Statistical Area,Detroit,26.0,22000.0,MI,Michigan,1779789,"Detroit, MI","Detroit, Michigan",True,False
+174,19820,"Detroit-Warren-Dearborn, MI",Metropolitan Statistical Area,Farmington Hills,26.0,27440.0,MI,Michigan,1779789,"Farmington Hills, MI","Farmington Hills, Michigan",False,False
+175,19820,"Detroit-Warren-Dearborn, MI",Metropolitan Statistical Area,Livonia,26.0,49000.0,MI,Michigan,1779789,"Livonia, MI","Livonia, Michigan",False,False
+176,19820,"Detroit-Warren-Dearborn, MI",Metropolitan Statistical Area,Novi,26.0,59440.0,MI,Michigan,1779789,"Novi, MI","Novi, Michigan",False,False
+177,19820,"Detroit-Warren-Dearborn, MI",Metropolitan Statistical Area,Pontiac,26.0,65440.0,MI,Michigan,1779789,"Pontiac, MI","Pontiac, Michigan",False,False
+178,19820,"Detroit-Warren-Dearborn, MI",Metropolitan Statistical Area,Southfield,26.0,74900.0,MI,Michigan,1779789,"Southfield, MI","Southfield, Michigan",False,False
+179,19820,"Detroit-Warren-Dearborn, MI",Metropolitan Statistical Area,Taylor,26.0,79000.0,MI,Michigan,1779789,"Taylor, MI","Taylor, Michigan",False,False
+180,19820,"Detroit-Warren-Dearborn, MI",Metropolitan Statistical Area,Troy,26.0,80700.0,MI,Michigan,1779789,"Troy, MI","Troy, Michigan",False,False
+181,19820,"Detroit-Warren-Dearborn, MI",Metropolitan Statistical Area,Warren,26.0,84000.0,MI,Michigan,1779789,"Warren, MI","Warren, Michigan",False,False
+182,21540,"Escanaba, MI",Micropolitan Statistical Area,Escanaba,26.0,26360.0,MI,Michigan,1779789,"Escanaba, MI","Escanaba, Michigan",False,False
+183,22420,"Flint, MI",Metropolitan Statistical Area,Flint,26.0,29000.0,MI,Michigan,1779789,"Flint, MI","Flint, Michigan",False,False
+184,24340,"Grand Rapids-Kentwood, MI",Metropolitan Statistical Area,Grand Rapids,26.0,34000.0,MI,Michigan,1779789,"Grand Rapids, MI","Grand Rapids, Michigan",False,False
+185,24340,"Grand Rapids-Kentwood, MI",Metropolitan Statistical Area,Kentwood,26.0,42820.0,MI,Michigan,1779789,"Kentwood, MI","Kentwood, Michigan",False,False
+186,25880,"Hillsdale, MI",Micropolitan Statistical Area,Hillsdale,26.0,38460.0,MI,Michigan,1779789,"Hillsdale, MI","Hillsdale, Michigan",False,False
+187,26090,"Holland, MI",Micropolitan Statistical Area,Holland,26.0,38640.0,MI,Michigan,1779789,"Holland, MI","Holland, Michigan",False,False
+188,26340,"Houghton, MI",Micropolitan Statistical Area,Houghton,26.0,39360.0,MI,Michigan,1779789,"Houghton, MI","Houghton, Michigan",False,False
+189,27020,"Iron Mountain, MI-WI",Micropolitan Statistical Area,Iron Mountain,26.0,40960.0,MI,Michigan,1779789,"Iron Mountain, MI","Iron Mountain, Michigan",False,False
+190,27100,"Jackson, MI",Metropolitan Statistical Area,Jackson,26.0,41420.0,MI,Michigan,1779789,"Jackson, MI","Jackson, Michigan",False,False
+191,28020,"Kalamazoo-Portage, MI",Metropolitan Statistical Area,Kalamazoo,26.0,42160.0,MI,Michigan,1779789,"Kalamazoo, MI","Kalamazoo, Michigan",False,False
+192,28020,"Kalamazoo-Portage, MI",Metropolitan Statistical Area,Portage,26.0,65560.0,MI,Michigan,1779789,"Portage, MI","Portage, Michigan",False,False
+193,29620,"Lansing-East Lansing, MI",Metropolitan Statistical Area,East Lansing,26.0,24120.0,MI,Michigan,1779789,"East Lansing, MI","East Lansing, Michigan",False,False
+194,29620,"Lansing-East Lansing, MI",Metropolitan Statistical Area,Lansing,26.0,46000.0,MI,Michigan,1779789,"Lansing, MI","Lansing, Michigan",False,False
+195,31220,"Ludington, MI",Micropolitan Statistical Area,Ludington,26.0,49640.0,MI,Michigan,1779789,"Ludington, MI","Ludington, Michigan",False,False
+196,32100,"Marquette, MI",Micropolitan Statistical Area,Marquette,26.0,51900.0,MI,Michigan,1779789,"Marquette, MI","Marquette, Michigan",False,False
+197,33220,"Midland, MI",Metropolitan Statistical Area,Midland,26.0,53780.0,MI,Michigan,1779789,"Midland, MI","Midland, Michigan",False,False
+198,33780,"Monroe, MI",Metropolitan Statistical Area,Monroe,26.0,55020.0,MI,Michigan,1779789,"Monroe, MI","Monroe, Michigan",False,False
+199,34380,"Mount Pleasant, MI",Micropolitan Statistical Area,Mount Pleasant,26.0,56020.0,MI,Michigan,1779789,"Mount Pleasant, MI","Mount Pleasant, Michigan",False,False
+200,34740,"Muskegon, MI",Metropolitan Statistical Area,Muskegon,26.0,56320.0,MI,Michigan,1779789,"Muskegon, MI","Muskegon, Michigan",False,False
+201,35660,"Niles, MI",Metropolitan Statistical Area,Niles,26.0,57760.0,MI,Michigan,1779789,"Niles, MI","Niles, Michigan",False,False
+202,40980,"Saginaw, MI",Metropolitan Statistical Area,Saginaw,26.0,70520.0,MI,Michigan,1779789,"Saginaw, MI","Saginaw, Michigan",False,False
+203,42300,"Sault Ste. Marie, MI",Micropolitan Statistical Area,Sault Ste. Marie,26.0,71740.0,MI,Michigan,1779789,"Sault Ste. Marie, MI","Sault Ste. Marie, Michigan",False,False
+204,44780,"Sturgis, MI",Micropolitan Statistical Area,Sturgis,26.0,76960.0,MI,Michigan,1779789,"Sturgis, MI","Sturgis, Michigan",False,False
+205,45900,"Traverse City, MI",Micropolitan Statistical Area,Traverse City,26.0,80340.0,MI,Michigan,1779789,"Traverse City, MI","Traverse City, Michigan",False,False
+206,10380,"Aguadilla-Isabela, PR",Metropolitan Statistical Area,Aguadilla,72.0,745.0,PR,Puerto Rico,1779808,"Aguadilla, PR","Aguadilla, Puerto Rico",False,False
+207,10380,"Aguadilla-Isabela, PR",Metropolitan Statistical Area,Isabela,72.0,36478.0,PR,Puerto Rico,1779808,"Isabela, PR","Isabela, Puerto Rico",False,False
+208,11640,"Arecibo, PR",Metropolitan Statistical Area,Arecibo,72.0,3368.0,PR,Puerto Rico,1779808,"Arecibo, PR","Arecibo, Puerto Rico",False,False
+209,17620,"Coamo, PR",Micropolitan Statistical Area,Coamo,72.0,18719.0,PR,Puerto Rico,1779808,"Coamo, PR","Coamo, Puerto Rico",False,False
+210,17640,"Coco, PR",Micropolitan Statistical Area,Coco,72.0,18891.0,PR,Puerto Rico,1779808,"Coco, PR","Coco, Puerto Rico",False,False
+211,25020,"Guayama, PR",Metropolitan Statistical Area,Guayama,72.0,32221.0,PR,Puerto Rico,1779808,"Guayama, PR","Guayama, Puerto Rico",False,False
+212,27580,"Jayuya, PR",Micropolitan Statistical Area,Jayuya,72.0,38370.0,PR,Puerto Rico,1779808,"Jayuya, PR","Jayuya, Puerto Rico",False,False
+213,32420,"Mayagüez, PR",Metropolitan Statistical Area,Mayagüez,72.0,52431.0,PR,Puerto Rico,1779808,"Mayagüez, PR","Mayagüez, Puerto Rico",False,False
+214,38660,"Ponce, PR",Metropolitan Statistical Area,Ponce,72.0,63820.0,PR,Puerto Rico,1779808,"Ponce, PR","Ponce, Puerto Rico",False,False
+215,41900,"San Germán, PR",Metropolitan Statistical Area,San Germán,72.0,76167.0,PR,Puerto Rico,1779808,"San Germán, PR","San Germán, Puerto Rico",False,False
+216,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Bayamón,72.0,6593.0,PR,Puerto Rico,1779808,"Bayamón, PR","Bayamón, Puerto Rico",False,False
+217,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Caguas,72.0,10334.0,PR,Puerto Rico,1779808,"Caguas, PR","Caguas, Puerto Rico",False,False
+218,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Guaynabo,72.0,32522.0,PR,Puerto Rico,1779808,"Guaynabo, PR","Guaynabo, Puerto Rico",False,False
+219,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,San Juan,72.0,76770.0,PR,Puerto Rico,1779808,"San Juan, PR","San Juan, Puerto Rico",False,False
+220,42180,"Santa Isabel, PR",Micropolitan Statistical Area,Santa Isabel,72.0,78145.0,PR,Puerto Rico,1779808,"Santa Isabel, PR","Santa Isabel, Puerto Rico",False,False
+221,49500,"Yauco, PR",Metropolitan Statistical Area,Yauco,72.0,88035.0,PR,Puerto Rico,1779808,"Yauco, PR","Yauco, Puerto Rico",False,False
+222,10420,"Akron, OH",Metropolitan Statistical Area,Akron,39.0,1000.0,OH,Ohio,1085497,"Akron, OH","Akron, Ohio",True,False
+223,11740,"Ashland, OH",Micropolitan Statistical Area,Ashland,39.0,2568.0,OH,Ohio,1085497,"Ashland, OH","Ashland, Ohio",False,False
+224,11780,"Ashtabula, OH",Micropolitan Statistical Area,Ashtabula,39.0,2638.0,OH,Ohio,1085497,"Ashtabula, OH","Ashtabula, Ohio",False,False
+225,11900,"Athens, OH",Micropolitan Statistical Area,Athens,39.0,2736.0,OH,Ohio,1085497,"Athens, OH","Athens, Ohio",False,False
+226,13340,"Bellefontaine, OH",Micropolitan Statistical Area,Bellefontaine,39.0,5130.0,OH,Ohio,1085497,"Bellefontaine, OH","Bellefontaine, Ohio",False,False
+227,15340,"Bucyrus-Galion, OH",Micropolitan Statistical Area,Bucyrus,39.0,10030.0,OH,Ohio,1085497,"Bucyrus, OH","Bucyrus, Ohio",False,False
+228,15340,"Bucyrus-Galion, OH",Micropolitan Statistical Area,Galion,39.0,29162.0,OH,Ohio,1085497,"Galion, OH","Galion, Ohio",False,False
+229,15740,"Cambridge, OH",Micropolitan Statistical Area,Cambridge,39.0,10996.0,OH,Ohio,1085497,"Cambridge, OH","Cambridge, Ohio",False,False
+230,15940,"Canton-Massillon, OH",Metropolitan Statistical Area,Canton,39.0,12000.0,OH,Ohio,1085497,"Canton, OH","Canton, Ohio",False,False
+231,15940,"Canton-Massillon, OH",Metropolitan Statistical Area,Massillon,39.0,48244.0,OH,Ohio,1085497,"Massillon, OH","Massillon, Ohio",False,False
+232,16380,"Celina, OH",Micropolitan Statistical Area,Celina,39.0,12868.0,OH,Ohio,1085497,"Celina, OH","Celina, Ohio",False,False
+233,17060,"Chillicothe, OH",Micropolitan Statistical Area,Chillicothe,39.0,14184.0,OH,Ohio,1085497,"Chillicothe, OH","Chillicothe, Ohio",False,False
+234,17140,"Cincinnati, OH-KY-IN",Metropolitan Statistical Area,Cincinnati,39.0,15000.0,OH,Ohio,1085497,"Cincinnati, OH","Cincinnati, Ohio",False,False
+235,17460,"Cleveland-Elyria, OH",Metropolitan Statistical Area,Cleveland,39.0,16000.0,OH,Ohio,1085497,"Cleveland, OH","Cleveland, Ohio",True,False
+236,17460,"Cleveland-Elyria, OH",Metropolitan Statistical Area,Elyria,39.0,25256.0,OH,Ohio,1085497,"Elyria, OH","Elyria, Ohio",False,False
+237,18140,"Columbus, OH",Metropolitan Statistical Area,Columbus,39.0,18000.0,OH,Ohio,1085497,"Columbus, OH","Columbus, Ohio",False,False
+238,18740,"Coshocton, OH",Micropolitan Statistical Area,Coshocton,39.0,18868.0,OH,Ohio,1085497,"Coshocton, OH","Coshocton, Ohio",False,False
+239,19430,"Dayton-Kettering, OH",Metropolitan Statistical Area,Dayton,39.0,21000.0,OH,Ohio,1085497,"Dayton, OH","Dayton, Ohio",True,False
+240,19430,"Dayton-Kettering, OH",Metropolitan Statistical Area,Kettering,39.0,40040.0,OH,Ohio,1085497,"Kettering, OH","Kettering, Ohio",False,False
+241,19580,"Defiance, OH",Micropolitan Statistical Area,Defiance,39.0,21308.0,OH,Ohio,1085497,"Defiance, OH","Defiance, Ohio",False,False
+242,22300,"Findlay, OH",Micropolitan Statistical Area,Findlay,39.0,27048.0,OH,Ohio,1085497,"Findlay, OH","Findlay, Ohio",False,False
+243,23380,"Fremont, OH",Micropolitan Statistical Area,Fremont,39.0,28826.0,OH,Ohio,1085497,"Fremont, OH","Fremont, Ohio",False,False
+244,24820,"Greenville, OH",Micropolitan Statistical Area,Greenville,39.0,32340.0,OH,Ohio,1085497,"Greenville, OH","Greenville, Ohio",False,False
+245,27160,"Jackson, OH",Micropolitan Statistical Area,Jackson,39.0,37842.0,OH,Ohio,1085497,"Jackson, OH","Jackson, Ohio",False,False
+246,30620,"Lima, OH",Metropolitan Statistical Area,Lima,39.0,43554.0,OH,Ohio,1085497,"Lima, OH","Lima, Ohio",False,False
+247,31900,"Mansfield, OH",Metropolitan Statistical Area,Mansfield,39.0,47138.0,OH,Ohio,1085497,"Mansfield, OH","Mansfield, Ohio",False,False
+248,31930,"Marietta, OH",Micropolitan Statistical Area,Marietta,39.0,47628.0,OH,Ohio,1085497,"Marietta, OH","Marietta, Ohio",False,False
+249,32020,"Marion, OH",Micropolitan Statistical Area,Marion,39.0,47754.0,OH,Ohio,1085497,"Marion, OH","Marion, Ohio",False,False
+250,34540,"Mount Vernon, OH",Micropolitan Statistical Area,Mount Vernon,39.0,53102.0,OH,Ohio,1085497,"Mount Vernon, OH","Mount Vernon, Ohio",False,False
+251,35420,"New Philadelphia-Dover, OH",Micropolitan Statistical Area,Dover,39.0,22456.0,OH,Ohio,1085497,"Dover, OH","Dover, Ohio",False,False
+252,35420,"New Philadelphia-Dover, OH",Micropolitan Statistical Area,New Philadelphia,39.0,55216.0,OH,Ohio,1085497,"New Philadelphia, OH","New Philadelphia, Ohio",False,False
+253,35940,"Norwalk, OH",Micropolitan Statistical Area,Norwalk,39.0,57302.0,OH,Ohio,1085497,"Norwalk, OH","Norwalk, Ohio",False,False
+254,39020,"Portsmouth, OH",Micropolitan Statistical Area,Portsmouth,39.0,64304.0,OH,Ohio,1085497,"Portsmouth, OH","Portsmouth, Ohio",False,False
+255,41400,"Salem, OH",Micropolitan Statistical Area,Salem,39.0,69834.0,OH,Ohio,1085497,"Salem, OH","Salem, Ohio",False,False
+256,41780,"Sandusky, OH",Micropolitan Statistical Area,Sandusky,39.0,70380.0,OH,Ohio,1085497,"Sandusky, OH","Sandusky, Ohio",False,False
+257,43380,"Sidney, OH",Micropolitan Statistical Area,Sidney,39.0,72424.0,OH,Ohio,1085497,"Sidney, OH","Sidney, Ohio",False,False
+258,44220,"Springfield, OH",Metropolitan Statistical Area,Springfield,39.0,74118.0,OH,Ohio,1085497,"Springfield, OH","Springfield, Ohio",False,False
+259,45660,"Tiffin, OH",Micropolitan Statistical Area,Tiffin,39.0,76778.0,OH,Ohio,1085497,"Tiffin, OH","Tiffin, Ohio",False,False
+260,45780,"Toledo, OH",Metropolitan Statistical Area,Toledo,39.0,77000.0,OH,Ohio,1085497,"Toledo, OH","Toledo, Ohio",True,False
+261,46500,"Urbana, OH",Micropolitan Statistical Area,Urbana,39.0,79072.0,OH,Ohio,1085497,"Urbana, OH","Urbana, Ohio",False,False
+262,46780,"Van Wert, OH",Micropolitan Statistical Area,Van Wert,39.0,79562.0,OH,Ohio,1085497,"Van Wert, OH","Van Wert, Ohio",False,False
+263,47540,"Wapakoneta, OH",Micropolitan Statistical Area,Wapakoneta,39.0,80766.0,OH,Ohio,1085497,"Wapakoneta, OH","Wapakoneta, Ohio",False,False
+264,47920,"Washington Court House, OH",Micropolitan Statistical Area,Washington Court House,39.0,81718.0,OH,Ohio,1085497,"Washington Court House, OH","Washington Court House, Ohio",False,False
+265,48260,"Weirton-Steubenville, WV-OH",Metropolitan Statistical Area,Steubenville,39.0,74608.0,OH,Ohio,1085497,"Steubenville, OH","Steubenville, Ohio",False,False
+266,48940,"Wilmington, OH",Micropolitan Statistical Area,Wilmington,39.0,85792.0,OH,Ohio,1085497,"Wilmington, OH","Wilmington, Ohio",False,False
+267,49300,"Wooster, OH",Micropolitan Statistical Area,Wooster,39.0,86548.0,OH,Ohio,1085497,"Wooster, OH","Wooster, Ohio",False,False
+268,49660,"Youngstown-Warren-Boardman, OH-PA",Metropolitan Statistical Area,Boardman,39.0,7454.0,OH,Ohio,1085497,"Boardman, OH","Boardman, Ohio",False,False
+269,49660,"Youngstown-Warren-Boardman, OH-PA",Metropolitan Statistical Area,Warren,39.0,80892.0,OH,Ohio,1085497,"Warren, OH","Warren, Ohio",False,False
+270,49660,"Youngstown-Warren-Boardman, OH-PA",Metropolitan Statistical Area,Youngstown,39.0,88000.0,OH,Ohio,1085497,"Youngstown, OH","Youngstown, Ohio",False,False
+271,49780,"Zanesville, OH",Micropolitan Statistical Area,Zanesville,39.0,88084.0,OH,Ohio,1085497,"Zanesville, OH","Zanesville, Ohio",False,False
+272,10460,"Alamogordo, NM",Micropolitan Statistical Area,Alamogordo,35.0,1780.0,NM,New Mexico,897535,"Alamogordo, NM","Alamogordo, New Mexico",False,False
+273,10740,"Albuquerque, NM",Metropolitan Statistical Area,Albuquerque,35.0,2000.0,NM,New Mexico,897535,"Albuquerque, NM","Albuquerque, New Mexico",False,False
+274,16100,"Carlsbad-Artesia, NM",Micropolitan Statistical Area,Artesia,35.0,5220.0,NM,New Mexico,897535,"Artesia, NM","Artesia, New Mexico",False,False
+275,16100,"Carlsbad-Artesia, NM",Micropolitan Statistical Area,Carlsbad,35.0,12150.0,NM,New Mexico,897535,"Carlsbad, NM","Carlsbad, New Mexico",False,False
+276,17580,"Clovis, NM",Micropolitan Statistical Area,Clovis,35.0,16420.0,NM,New Mexico,897535,"Clovis, NM","Clovis, New Mexico",False,False
+277,19700,"Deming, NM",Micropolitan Statistical Area,Deming,35.0,20270.0,NM,New Mexico,897535,"Deming, NM","Deming, New Mexico",False,False
+278,21580,"Española, NM",Micropolitan Statistical Area,Española,35.0,25170.0,NM,New Mexico,897535,"Española, NM","Española, New Mexico",False,False
+279,22140,"Farmington, NM",Metropolitan Statistical Area,Farmington,35.0,25800.0,NM,New Mexico,897535,"Farmington, NM","Farmington, New Mexico",False,False
+280,23700,"Gallup, NM",Micropolitan Statistical Area,Gallup,35.0,28460.0,NM,New Mexico,897535,"Gallup, NM","Gallup, New Mexico",False,False
+281,24380,"Grants, NM",Micropolitan Statistical Area,Grants,35.0,30490.0,NM,New Mexico,897535,"Grants, NM","Grants, New Mexico",False,False
+282,26020,"Hobbs, NM",Micropolitan Statistical Area,Hobbs,35.0,32520.0,NM,New Mexico,897535,"Hobbs, NM","Hobbs, New Mexico",False,False
+283,29740,"Las Cruces, NM",Metropolitan Statistical Area,Las Cruces,35.0,39380.0,NM,New Mexico,897535,"Las Cruces, NM","Las Cruces, New Mexico",False,False
+284,29780,"Las Vegas, NM",Micropolitan Statistical Area,Las Vegas,35.0,39940.0,NM,New Mexico,897535,"Las Vegas, NM","Las Vegas, New Mexico",False,False
+285,31060,"Los Alamos, NM",Micropolitan Statistical Area,Los Alamos,35.0,42320.0,NM,New Mexico,897535,"Los Alamos, NM","Los Alamos, New Mexico",False,False
+286,38780,"Portales, NM",Micropolitan Statistical Area,Portales,35.0,59260.0,NM,New Mexico,897535,"Portales, NM","Portales, New Mexico",False,False
+287,40740,"Roswell, NM",Micropolitan Statistical Area,Roswell,35.0,64930.0,NM,New Mexico,897535,"Roswell, NM","Roswell, New Mexico",False,False
+288,40760,"Ruidoso, NM",Micropolitan Statistical Area,Ruidoso,35.0,65210.0,NM,New Mexico,897535,"Ruidoso, NM","Ruidoso, New Mexico",False,False
+289,42140,"Santa Fe, NM",Metropolitan Statistical Area,Santa Fe,35.0,70500.0,NM,New Mexico,897535,"Santa Fe, NM","Santa Fe, New Mexico",False,False
+290,43500,"Silver City, NM",Micropolitan Statistical Area,Silver City,35.0,73260.0,NM,New Mexico,897535,"Silver City, NM","Silver City, New Mexico",False,False
+291,45340,"Taos, NM",Micropolitan Statistical Area,Taos,35.0,76200.0,NM,New Mexico,897535,"Taos, NM","Taos, New Mexico",False,False
+292,10500,"Albany, GA",Metropolitan Statistical Area,Albany,13.0,1052.0,GA,Georgia,1705317,"Albany, GA","Albany, Georgia",False,False
+293,11140,"Americus, GA",Micropolitan Statistical Area,Americus,13.0,2116.0,GA,Georgia,1705317,"Americus, GA","Americus, Georgia",False,False
+294,12020,"Athens-Clarke County, GA",Metropolitan Statistical Area,Athens-Clarke County unified government (balance),13.0,3440.0,GA,Georgia,1705317,"Athens-Clarke County unified government (balance), GA","Athens-Clarke County unified government (balance), Georgia",False,False
+295,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metropolitan Statistical Area,Alpharetta,13.0,1696.0,GA,Georgia,1705317,"Alpharetta, GA","Alpharetta, Georgia",False,False
+296,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metropolitan Statistical Area,Atlanta,13.0,4000.0,GA,Georgia,1705317,"Atlanta, GA","Atlanta, Georgia",False,False
+297,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metropolitan Statistical Area,Marietta,13.0,49756.0,GA,Georgia,1705317,"Marietta, GA","Marietta, Georgia",False,False
+298,12060,"Atlanta-Sandy Springs-Alpharetta, GA",Metropolitan Statistical Area,Sandy Springs,13.0,68516.0,GA,Georgia,1705317,"Sandy Springs, GA","Sandy Springs, Georgia",False,False
+299,12260,"Augusta-Richmond County, GA-SC",Metropolitan Statistical Area,Augusta-Richmond County consolidated government (balance),13.0,4204.0,GA,Georgia,1705317,"Augusta-Richmond County consolidated government (balance), GA","Augusta-Richmond County consolidated government (balance), Georgia",False,False
+300,12460,"Bainbridge, GA",Micropolitan Statistical Area,Bainbridge,13.0,4896.0,GA,Georgia,1705317,"Bainbridge, GA","Bainbridge, Georgia",False,False
+301,15260,"Brunswick, GA",Metropolitan Statistical Area,Brunswick,13.0,11560.0,GA,Georgia,1705317,"Brunswick, GA","Brunswick, Georgia",False,False
+302,15660,"Calhoun, GA",Micropolitan Statistical Area,Calhoun,13.0,12456.0,GA,Georgia,1705317,"Calhoun, GA","Calhoun, Georgia",False,False
+303,16340,"Cedartown, GA",Micropolitan Statistical Area,Cedartown,13.0,14500.0,GA,Georgia,1705317,"Cedartown, GA","Cedartown, Georgia",False,False
+304,17980,"Columbus, GA-AL",Metropolitan Statistical Area,Columbus,13.0,19000.0,GA,Georgia,1705317,"Columbus, GA","Columbus, Georgia",False,False
+305,18380,"Cordele, GA",Micropolitan Statistical Area,Cordele,13.0,19616.0,GA,Georgia,1705317,"Cordele, GA","Cordele, Georgia",False,False
+306,18460,"Cornelia, GA",Micropolitan Statistical Area,Cornelia,13.0,19728.0,GA,Georgia,1705317,"Cornelia, GA","Cornelia, Georgia",False,False
+307,19140,"Dalton, GA",Metropolitan Statistical Area,Dalton,13.0,21380.0,GA,Georgia,1705317,"Dalton, GA","Dalton, Georgia",False,False
+308,20060,"Douglas, GA",Micropolitan Statistical Area,Douglas,13.0,23872.0,GA,Georgia,1705317,"Douglas, GA","Douglas, Georgia",False,False
+309,20140,"Dublin, GA",Micropolitan Statistical Area,Dublin,13.0,24376.0,GA,Georgia,1705317,"Dublin, GA","Dublin, Georgia",False,False
+310,22340,"Fitzgerald, GA",Micropolitan Statistical Area,Fitzgerald,13.0,29528.0,GA,Georgia,1705317,"Fitzgerald, GA","Fitzgerald, Georgia",False,False
+311,23580,"Gainesville, GA",Metropolitan Statistical Area,Gainesville,13.0,31908.0,GA,Georgia,1705317,"Gainesville, GA","Gainesville, Georgia",False,False
+312,25980,"Hinesville, GA",Metropolitan Statistical Area,Hinesville,13.0,38964.0,GA,Georgia,1705317,"Hinesville, GA","Hinesville, Georgia",False,False
+313,27600,"Jefferson, GA",Micropolitan Statistical Area,Jefferson,13.0,41988.0,GA,Georgia,1705317,"Jefferson, GA","Jefferson, Georgia",False,False
+314,27700,"Jesup, GA",Micropolitan Statistical Area,Jesup,13.0,42268.0,GA,Georgia,1705317,"Jesup, GA","Jesup, Georgia",False,False
+315,29300,"LaGrange, GA-AL",Micropolitan Statistical Area,LaGrange,13.0,44340.0,GA,Georgia,1705317,"LaGrange, GA","LaGrange, Georgia",False,False
+316,31420,"Macon-Bibb County, GA",Metropolitan Statistical Area,Macon-Bibb County,13.0,49008.0,GA,Georgia,1705317,"Macon-Bibb County, GA","Macon-Bibb County, Georgia",False,False
+317,33300,"Milledgeville, GA",Micropolitan Statistical Area,Milledgeville,13.0,51492.0,GA,Georgia,1705317,"Milledgeville, GA","Milledgeville, Georgia",False,False
+318,34220,"Moultrie, GA",Micropolitan Statistical Area,Moultrie,13.0,53060.0,GA,Georgia,1705317,"Moultrie, GA","Moultrie, Georgia",False,False
+319,40660,"Rome, GA",Metropolitan Statistical Area,Rome,13.0,66668.0,GA,Georgia,1705317,"Rome, GA","Rome, Georgia",False,False
+320,41220,"St. Marys, GA",Micropolitan Statistical Area,St. Marys,13.0,67984.0,GA,Georgia,1705317,"St. Marys, GA","St. Marys, Georgia",False,False
+321,42340,"Savannah, GA",Metropolitan Statistical Area,Savannah,13.0,69000.0,GA,Georgia,1705317,"Savannah, GA","Savannah, Georgia",False,False
+322,44340,"Statesboro, GA",Micropolitan Statistical Area,Statesboro,13.0,73256.0,GA,Georgia,1705317,"Statesboro, GA","Statesboro, Georgia",False,False
+323,44900,"Summerville, GA",Micropolitan Statistical Area,Summerville,13.0,74376.0,GA,Georgia,1705317,"Summerville, GA","Summerville, Georgia",False,False
+324,45580,"Thomaston, GA",Micropolitan Statistical Area,Thomaston,13.0,76168.0,GA,Georgia,1705317,"Thomaston, GA","Thomaston, Georgia",False,False
+325,45620,"Thomasville, GA",Micropolitan Statistical Area,Thomasville,13.0,76224.0,GA,Georgia,1705317,"Thomasville, GA","Thomasville, Georgia",False,False
+326,45700,"Tifton, GA",Micropolitan Statistical Area,Tifton,13.0,76476.0,GA,Georgia,1705317,"Tifton, GA","Tifton, Georgia",False,False
+327,45740,"Toccoa, GA",Micropolitan Statistical Area,Toccoa,13.0,76756.0,GA,Georgia,1705317,"Toccoa, GA","Toccoa, Georgia",False,False
+328,46660,"Valdosta, GA",Metropolitan Statistical Area,Valdosta,13.0,78800.0,GA,Georgia,1705317,"Valdosta, GA","Valdosta, Georgia",False,False
+329,47080,"Vidalia, GA",Micropolitan Statistical Area,Vidalia,13.0,79388.0,GA,Georgia,1705317,"Vidalia, GA","Vidalia, Georgia",False,False
+330,47580,"Warner Robins, GA",Metropolitan Statistical Area,Warner Robins,13.0,80508.0,GA,Georgia,1705317,"Warner Robins, GA","Warner Robins, Georgia",False,False
+331,48180,"Waycross, GA",Micropolitan Statistical Area,Waycross,13.0,80956.0,GA,Georgia,1705317,"Waycross, GA","Waycross, Georgia",False,False
+332,10540,"Albany-Lebanon, OR",Metropolitan Statistical Area,Albany,41.0,1000.0,OR,Oregon,1155107,"Albany, OR","Albany, Oregon",False,False
+333,10540,"Albany-Lebanon, OR",Metropolitan Statistical Area,Lebanon,41.0,41650.0,OR,Oregon,1155107,"Lebanon, OR","Lebanon, Oregon",False,False
+334,11820,"Astoria, OR",Micropolitan Statistical Area,Astoria,41.0,3150.0,OR,Oregon,1155107,"Astoria, OR","Astoria, Oregon",False,False
+335,13460,"Bend, OR",Metropolitan Statistical Area,Bend,41.0,5800.0,OR,Oregon,1155107,"Bend, OR","Bend, Oregon",False,False
+336,15060,"Brookings, OR",Micropolitan Statistical Area,Brookings,41.0,8650.0,OR,Oregon,1155107,"Brookings, OR","Brookings, Oregon",False,False
+337,18300,"Coos Bay, OR",Micropolitan Statistical Area,Coos Bay,41.0,15250.0,OR,Oregon,1155107,"Coos Bay, OR","Coos Bay, Oregon",False,False
+338,18700,"Corvallis, OR",Metropolitan Statistical Area,Corvallis,41.0,15800.0,OR,Oregon,1155107,"Corvallis, OR","Corvallis, Oregon",False,False
+339,21660,"Eugene-Springfield, OR",Metropolitan Statistical Area,Eugene,41.0,23850.0,OR,Oregon,1155107,"Eugene, OR","Eugene, Oregon",False,False
+340,21660,"Eugene-Springfield, OR",Metropolitan Statistical Area,Springfield,41.0,69600.0,OR,Oregon,1155107,"Springfield, OR","Springfield, Oregon",False,False
+341,24420,"Grants Pass, OR",Metropolitan Statistical Area,Grants Pass,41.0,30550.0,OR,Oregon,1155107,"Grants Pass, OR","Grants Pass, Oregon",False,False
+342,25840,"Hermiston-Pendleton, OR",Micropolitan Statistical Area,Hermiston,41.0,33700.0,OR,Oregon,1155107,"Hermiston, OR","Hermiston, Oregon",False,False
+343,25840,"Hermiston-Pendleton, OR",Micropolitan Statistical Area,Pendleton,41.0,57150.0,OR,Oregon,1155107,"Pendleton, OR","Pendleton, Oregon",False,False
+344,26220,"Hood River, OR",Micropolitan Statistical Area,Hood River,41.0,34900.0,OR,Oregon,1155107,"Hood River, OR","Hood River, Oregon",False,False
+345,28900,"Klamath Falls, OR",Micropolitan Statistical Area,Klamath Falls,41.0,39700.0,OR,Oregon,1155107,"Klamath Falls, OR","Klamath Falls, Oregon",False,False
+346,29260,"La Grande, OR",Micropolitan Statistical Area,La Grande,41.0,40350.0,OR,Oregon,1155107,"La Grande, OR","La Grande, Oregon",False,False
+347,32780,"Medford, OR",Metropolitan Statistical Area,Medford,41.0,47000.0,OR,Oregon,1155107,"Medford, OR","Medford, Oregon",False,False
+348,35440,"Newport, OR",Micropolitan Statistical Area,Newport,41.0,52450.0,OR,Oregon,1155107,"Newport, OR","Newport, Oregon",False,False
+349,36620,"Ontario, OR-ID",Micropolitan Statistical Area,Ontario,41.0,54900.0,OR,Oregon,1155107,"Ontario, OR","Ontario, Oregon",False,False
+350,38900,"Portland-Vancouver-Hillsboro, OR-WA",Metropolitan Statistical Area,Beaverton,41.0,5350.0,OR,Oregon,1155107,"Beaverton, OR","Beaverton, Oregon",False,False
+351,38900,"Portland-Vancouver-Hillsboro, OR-WA",Metropolitan Statistical Area,Hillsboro,41.0,34100.0,OR,Oregon,1155107,"Hillsboro, OR","Hillsboro, Oregon",False,False
+352,38900,"Portland-Vancouver-Hillsboro, OR-WA",Metropolitan Statistical Area,Portland,41.0,59000.0,OR,Oregon,1155107,"Portland, OR","Portland, Oregon",False,False
+353,38900,"Portland-Vancouver-Hillsboro, OR-WA",Metropolitan Statistical Area,Tigard,41.0,73650.0,OR,Oregon,1155107,"Tigard, OR","Tigard, Oregon",False,False
+354,39260,"Prineville, OR",Micropolitan Statistical Area,Prineville,41.0,59850.0,OR,Oregon,1155107,"Prineville, OR","Prineville, Oregon",False,False
+355,40700,"Roseburg, OR",Micropolitan Statistical Area,Roseburg,41.0,63650.0,OR,Oregon,1155107,"Roseburg, OR","Roseburg, Oregon",False,False
+356,41420,"Salem, OR",Metropolitan Statistical Area,Salem,41.0,64900.0,OR,Oregon,1155107,"Salem, OR","Salem, Oregon",True,False
+357,45520,"The Dalles, OR",Micropolitan Statistical Area,The Dalles,41.0,72950.0,OR,Oregon,1155107,"The Dalles, OR","The Dalles, Oregon",False,False
+358,10580,"Albany-Schenectady-Troy, NY",Metropolitan Statistical Area,Albany,36.0,1000.0,NY,New York,1779796,"Albany, NY","Albany, New York",False,False
+359,10580,"Albany-Schenectady-Troy, NY",Metropolitan Statistical Area,Schenectady,36.0,65508.0,NY,New York,1779796,"Schenectady, NY","Schenectady, New York",False,False
+360,10580,"Albany-Schenectady-Troy, NY",Metropolitan Statistical Area,Troy,36.0,75484.0,NY,New York,1779796,"Troy, NY","Troy, New York",False,False
+361,11220,"Amsterdam, NY",Micropolitan Statistical Area,Amsterdam,36.0,2066.0,NY,New York,1779796,"Amsterdam, NY","Amsterdam, New York",False,False
+362,12180,"Auburn, NY",Micropolitan Statistical Area,Auburn,36.0,3078.0,NY,New York,1779796,"Auburn, NY","Auburn, New York",False,False
+363,12860,"Batavia, NY",Micropolitan Statistical Area,Batavia,36.0,4715.0,NY,New York,1779796,"Batavia, NY","Batavia, New York",False,False
+364,13780,"Binghamton, NY",Metropolitan Statistical Area,Binghamton,36.0,6607.0,NY,New York,1779796,"Binghamton, NY","Binghamton, New York",False,False
+365,15380,"Buffalo-Cheektowaga, NY",Metropolitan Statistical Area,Buffalo,36.0,11000.0,NY,New York,1779796,"Buffalo, NY","Buffalo, New York",True,False
+366,15380,"Buffalo-Cheektowaga, NY",Metropolitan Statistical Area,Cheektowaga,36.0,15000.0,NY,New York,1779796,"Cheektowaga, NY","Cheektowaga, New York",False,False
+367,18500,"Corning, NY",Micropolitan Statistical Area,Corning,36.0,18256.0,NY,New York,1779796,"Corning, NY","Corning, New York",False,False
+368,18660,"Cortland, NY",Micropolitan Statistical Area,Cortland,36.0,18388.0,NY,New York,1779796,"Cortland, NY","Cortland, New York",False,False
+369,21300,"Elmira, NY",Metropolitan Statistical Area,Elmira,36.0,24229.0,NY,New York,1779796,"Elmira, NY","Elmira, New York",False,False
+370,24020,"Glens Falls, NY",Metropolitan Statistical Area,Glens Falls,36.0,29333.0,NY,New York,1779796,"Glens Falls, NY","Glens Falls, New York",False,False
+371,24100,"Gloversville, NY",Micropolitan Statistical Area,Gloversville,36.0,29443.0,NY,New York,1779796,"Gloversville, NY","Gloversville, New York",False,False
+372,26460,"Hudson, NY",Micropolitan Statistical Area,Hudson,36.0,35969.0,NY,New York,1779796,"Hudson, NY","Hudson, New York",False,False
+373,27060,"Ithaca, NY",Metropolitan Statistical Area,Ithaca,36.0,38077.0,NY,New York,1779796,"Ithaca, NY","Ithaca, New York",False,False
+374,27460,"Jamestown-Dunkirk-Fredonia, NY",Micropolitan Statistical Area,Dunkirk,36.0,21105.0,NY,New York,1779796,"Dunkirk, NY","Dunkirk, New York",False,False
+375,27460,"Jamestown-Dunkirk-Fredonia, NY",Micropolitan Statistical Area,Fredonia,36.0,27419.0,NY,New York,1779796,"Fredonia, NY","Fredonia, New York",False,False
+376,27460,"Jamestown-Dunkirk-Fredonia, NY",Micropolitan Statistical Area,Jamestown,36.0,38264.0,NY,New York,1779796,"Jamestown, NY","Jamestown, New York",False,False
+377,28740,"Kingston, NY",Metropolitan Statistical Area,Kingston,36.0,39727.0,NY,New York,1779796,"Kingston, NY","Kingston, New York",False,False
+378,31660,"Malone, NY",Micropolitan Statistical Area,Malone,36.0,44710.0,NY,New York,1779796,"Malone, NY","Malone, New York",False,False
+379,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,New York,36.0,51000.0,NY,New York,1779796,"New York, NY","New York, New York",False,False
+380,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,White Plains,36.0,81677.0,NY,New York,1779796,"White Plains, NY","White Plains, New York",False,False
+381,36300,"Ogdensburg-Massena, NY",Micropolitan Statistical Area,Massena,36.0,46019.0,NY,New York,1779796,"Massena, NY","Massena, New York",False,False
+382,36300,"Ogdensburg-Massena, NY",Micropolitan Statistical Area,Ogdensburg,36.0,54485.0,NY,New York,1779796,"Ogdensburg, NY","Ogdensburg, New York",False,False
+383,36460,"Olean, NY",Micropolitan Statistical Area,Olean,36.0,54716.0,NY,New York,1779796,"Olean, NY","Olean, New York",False,False
+384,36580,"Oneonta, NY",Micropolitan Statistical Area,Oneonta,36.0,54881.0,NY,New York,1779796,"Oneonta, NY","Oneonta, New York",False,False
+385,38460,"Plattsburgh, NY",Micropolitan Statistical Area,Plattsburgh,36.0,58574.0,NY,New York,1779796,"Plattsburgh, NY","Plattsburgh, New York",False,False
+386,39100,"Poughkeepsie-Newburgh-Middletown, NY",Metropolitan Statistical Area,Middletown,36.0,47042.0,NY,New York,1779796,"Middletown, NY","Middletown, New York",False,False
+387,39100,"Poughkeepsie-Newburgh-Middletown, NY",Metropolitan Statistical Area,Newburgh,36.0,50034.0,NY,New York,1779796,"Newburgh, NY","Newburgh, New York",False,False
+388,39100,"Poughkeepsie-Newburgh-Middletown, NY",Metropolitan Statistical Area,Poughkeepsie,36.0,59641.0,NY,New York,1779796,"Poughkeepsie, NY","Poughkeepsie, New York",False,False
+389,39100,"Poughkeepsie-Newburgh-Middletown, NY",Metropolitan Statistical Area,Woodbury,36.0,82750.0,NY,New York,1779796,"Woodbury, NY","Woodbury, New York",False,False
+390,40380,"Rochester, NY",Metropolitan Statistical Area,Rochester,36.0,63000.0,NY,New York,1779796,"Rochester, NY","Rochester, New York",False,False
+391,42900,"Seneca Falls, NY",Micropolitan Statistical Area,Seneca Falls,36.0,66322.0,NY,New York,1779796,"Seneca Falls, NY","Seneca Falls, New York",False,False
+392,45060,"Syracuse, NY",Metropolitan Statistical Area,Syracuse,36.0,73000.0,NY,New York,1779796,"Syracuse, NY","Syracuse, New York",False,False
+393,46540,"Utica-Rome, NY",Metropolitan Statistical Area,Rome,36.0,63418.0,NY,New York,1779796,"Rome, NY","Rome, New York",False,False
+394,46540,"Utica-Rome, NY",Metropolitan Statistical Area,Utica,36.0,76540.0,NY,New York,1779796,"Utica, NY","Utica, New York",False,False
+395,48060,"Watertown-Fort Drum, NY",Metropolitan Statistical Area,Fort Drum,36.0,26759.0,NY,New York,1779796,"Fort Drum, NY","Fort Drum, New York",False,False
+396,48060,"Watertown-Fort Drum, NY",Metropolitan Statistical Area,Watertown,36.0,78608.0,NY,New York,1779796,"Watertown, NY","Watertown, New York",False,False
+397,10620,"Albemarle, NC",Micropolitan Statistical Area,Albemarle,37.0,680.0,NC,North Carolina,1027616,"Albemarle, NC","Albemarle, North Carolina",False,False
+398,11700,"Asheville, NC",Metropolitan Statistical Area,Asheville,37.0,2140.0,NC,North Carolina,1027616,"Asheville, NC","Asheville, North Carolina",False,False
+399,14380,"Boone, NC",Micropolitan Statistical Area,Boone,37.0,7080.0,NC,North Carolina,1027616,"Boone, NC","Boone, North Carolina",False,False
+400,14820,"Brevard, NC",Micropolitan Statistical Area,Brevard,37.0,7720.0,NC,North Carolina,1027616,"Brevard, NC","Brevard, North Carolina",False,False
+401,15500,"Burlington, NC",Metropolitan Statistical Area,Burlington,37.0,9060.0,NC,North Carolina,1027616,"Burlington, NC","Burlington, North Carolina",False,False
+402,16740,"Charlotte-Concord-Gastonia, NC-SC",Metropolitan Statistical Area,Charlotte,37.0,12000.0,NC,North Carolina,1027616,"Charlotte, NC","Charlotte, North Carolina",False,False
+403,16740,"Charlotte-Concord-Gastonia, NC-SC",Metropolitan Statistical Area,Concord,37.0,14100.0,NC,North Carolina,1027616,"Concord, NC","Concord, North Carolina",False,False
+404,16740,"Charlotte-Concord-Gastonia, NC-SC",Metropolitan Statistical Area,Gastonia,37.0,25580.0,NC,North Carolina,1027616,"Gastonia, NC","Gastonia, North Carolina",False,False
+405,19000,"Cullowhee, NC",Micropolitan Statistical Area,Cullowhee,37.0,15880.0,NC,North Carolina,1027616,"Cullowhee, NC","Cullowhee, North Carolina",False,False
+406,20500,"Durham-Chapel Hill, NC",Metropolitan Statistical Area,Chapel Hill,37.0,11800.0,NC,North Carolina,1027616,"Chapel Hill, NC","Chapel Hill, North Carolina",False,False
+407,20500,"Durham-Chapel Hill, NC",Metropolitan Statistical Area,Durham,37.0,19000.0,NC,North Carolina,1027616,"Durham, NC","Durham, North Carolina",False,False
+408,21020,"Elizabeth City, NC",Micropolitan Statistical Area,Elizabeth City,37.0,20580.0,NC,North Carolina,1027616,"Elizabeth City, NC","Elizabeth City, North Carolina",False,False
+409,22180,"Fayetteville, NC",Metropolitan Statistical Area,Fayetteville,37.0,22920.0,NC,North Carolina,1027616,"Fayetteville, NC","Fayetteville, North Carolina",True,False
+410,22580,"Forest City, NC",Micropolitan Statistical Area,Forest City,37.0,24080.0,NC,North Carolina,1027616,"Forest City, NC","Forest City, North Carolina",False,False
+411,24140,"Goldsboro, NC",Metropolitan Statistical Area,Goldsboro,37.0,26880.0,NC,North Carolina,1027616,"Goldsboro, NC","Goldsboro, North Carolina",False,False
+412,24660,"Greensboro-High Point, NC",Metropolitan Statistical Area,Greensboro,37.0,28000.0,NC,North Carolina,1027616,"Greensboro, NC","Greensboro, North Carolina",False,False
+413,24660,"Greensboro-High Point, NC",Metropolitan Statistical Area,High Point,37.0,31400.0,NC,North Carolina,1027616,"High Point, NC","High Point, North Carolina",False,False
+414,24780,"Greenville, NC",Metropolitan Statistical Area,Greenville,37.0,28080.0,NC,North Carolina,1027616,"Greenville, NC","Greenville, North Carolina",False,False
+415,25780,"Henderson, NC",Micropolitan Statistical Area,Henderson,37.0,30660.0,NC,North Carolina,1027616,"Henderson, NC","Henderson, North Carolina",False,False
+416,25860,"Hickory-Lenoir-Morganton, NC",Metropolitan Statistical Area,Hickory,37.0,31060.0,NC,North Carolina,1027616,"Hickory, NC","Hickory, North Carolina",False,False
+417,25860,"Hickory-Lenoir-Morganton, NC",Metropolitan Statistical Area,Lenoir,37.0,37760.0,NC,North Carolina,1027616,"Lenoir, NC","Lenoir, North Carolina",False,False
+418,25860,"Hickory-Lenoir-Morganton, NC",Metropolitan Statistical Area,Morganton,37.0,44400.0,NC,North Carolina,1027616,"Morganton, NC","Morganton, North Carolina",False,False
+419,27340,"Jacksonville, NC",Metropolitan Statistical Area,Jacksonville,37.0,34200.0,NC,North Carolina,1027616,"Jacksonville, NC","Jacksonville, North Carolina",False,False
+420,28620,"Kill Devil Hills, NC",Micropolitan Statistical Area,Kill Devil Hills,37.0,35720.0,NC,North Carolina,1027616,"Kill Devil Hills, NC","Kill Devil Hills, North Carolina",False,False
+421,28820,"Kinston, NC",Micropolitan Statistical Area,Kinston,37.0,35920.0,NC,North Carolina,1027616,"Kinston, NC","Kinston, North Carolina",False,False
+422,29900,"Laurinburg, NC",Micropolitan Statistical Area,Laurinburg,37.0,37220.0,NC,North Carolina,1027616,"Laurinburg, NC","Laurinburg, North Carolina",False,False
+423,31300,"Lumberton, NC",Micropolitan Statistical Area,Lumberton,37.0,39700.0,NC,North Carolina,1027616,"Lumberton, NC","Lumberton, North Carolina",False,False
+424,32000,"Marion, NC",Micropolitan Statistical Area,Marion,37.0,41420.0,NC,North Carolina,1027616,"Marion, NC","Marion, North Carolina",False,False
+425,33980,"Morehead City, NC",Micropolitan Statistical Area,Morehead City,37.0,44320.0,NC,North Carolina,1027616,"Morehead City, NC","Morehead City, North Carolina",False,False
+426,34340,"Mount Airy, NC",Micropolitan Statistical Area,Mount Airy,37.0,44800.0,NC,North Carolina,1027616,"Mount Airy, NC","Mount Airy, North Carolina",False,False
+427,35100,"New Bern, NC",Metropolitan Statistical Area,New Bern,37.0,46340.0,NC,North Carolina,1027616,"New Bern, NC","New Bern, North Carolina",False,False
+428,35900,"North Wilkesboro, NC",Micropolitan Statistical Area,North Wilkesboro,37.0,47880.0,NC,North Carolina,1027616,"North Wilkesboro, NC","North Wilkesboro, North Carolina",False,False
+429,38240,"Pinehurst-Southern Pines, NC",Micropolitan Statistical Area,Pinehurst,37.0,51940.0,NC,North Carolina,1027616,"Pinehurst, NC","Pinehurst, North Carolina",False,False
+430,38240,"Pinehurst-Southern Pines, NC",Micropolitan Statistical Area,Southern Pines,37.0,63120.0,NC,North Carolina,1027616,"Southern Pines, NC","Southern Pines, North Carolina",False,False
+431,39580,"Raleigh-Cary, NC",Metropolitan Statistical Area,Cary,37.0,10740.0,NC,North Carolina,1027616,"Cary, NC","Cary, North Carolina",False,False
+432,39580,"Raleigh-Cary, NC",Metropolitan Statistical Area,Raleigh,37.0,55000.0,NC,North Carolina,1027616,"Raleigh, NC","Raleigh, North Carolina",False,False
+433,40260,"Roanoke Rapids, NC",Micropolitan Statistical Area,Roanoke Rapids,37.0,56900.0,NC,North Carolina,1027616,"Roanoke Rapids, NC","Roanoke Rapids, North Carolina",False,False
+434,40460,"Rockingham, NC",Micropolitan Statistical Area,Rockingham,37.0,57260.0,NC,North Carolina,1027616,"Rockingham, NC","Rockingham, North Carolina",False,False
+435,40580,"Rocky Mount, NC",Metropolitan Statistical Area,Rocky Mount,37.0,57500.0,NC,North Carolina,1027616,"Rocky Mount, NC","Rocky Mount, North Carolina",False,False
+436,41820,"Sanford, NC",Micropolitan Statistical Area,Sanford,37.0,59280.0,NC,North Carolina,1027616,"Sanford, NC","Sanford, North Carolina",False,False
+437,43140,"Shelby, NC",Micropolitan Statistical Area,Shelby,37.0,61200.0,NC,North Carolina,1027616,"Shelby, NC","Shelby, North Carolina",False,False
+438,47820,"Washington, NC",Micropolitan Statistical Area,Washington,37.0,71220.0,NC,North Carolina,1027616,"Washington, NC","Washington, North Carolina",False,False
+439,48900,"Wilmington, NC",Metropolitan Statistical Area,Wilmington,37.0,74440.0,NC,North Carolina,1027616,"Wilmington, NC","Wilmington, North Carolina",False,False
+440,48980,"Wilson, NC",Micropolitan Statistical Area,Wilson,37.0,74540.0,NC,North Carolina,1027616,"Wilson, NC","Wilson, North Carolina",False,False
+441,49180,"Winston-Salem, NC",Metropolitan Statistical Area,Winston-Salem,37.0,75000.0,NC,North Carolina,1027616,"Winston-Salem, NC","Winston-Salem, North Carolina",False,False
+442,10660,"Albert Lea, MN",Micropolitan Statistical Area,Albert Lea,27.0,694.0,MN,Minnesota,662849,"Albert Lea, MN","Albert Lea, Minnesota",False,False
+443,10820,"Alexandria, MN",Micropolitan Statistical Area,Alexandria,27.0,928.0,MN,Minnesota,662849,"Alexandria, MN","Alexandria, Minnesota",False,False
+444,12380,"Austin, MN",Micropolitan Statistical Area,Austin,27.0,2908.0,MN,Minnesota,662849,"Austin, MN","Austin, Minnesota",False,False
+445,13420,"Bemidji, MN",Micropolitan Statistical Area,Bemidji,27.0,5068.0,MN,Minnesota,662849,"Bemidji, MN","Bemidji, Minnesota",False,False
+446,14660,"Brainerd, MN",Micropolitan Statistical Area,Brainerd,27.0,7300.0,MN,Minnesota,662849,"Brainerd, MN","Brainerd, Minnesota",False,False
+447,20260,"Duluth, MN-WI",Metropolitan Statistical Area,Duluth,27.0,17000.0,MN,Minnesota,662849,"Duluth, MN","Duluth, Minnesota",False,False
+448,21860,"Fairmont, MN",Micropolitan Statistical Area,Fairmont,27.0,20330.0,MN,Minnesota,662849,"Fairmont, MN","Fairmont, Minnesota",False,False
+449,22060,"Faribault-Northfield, MN",Micropolitan Statistical Area,Faribault,27.0,20546.0,MN,Minnesota,662849,"Faribault, MN","Faribault, Minnesota",False,False
+450,22060,"Faribault-Northfield, MN",Micropolitan Statistical Area,Northfield,27.0,46924.0,MN,Minnesota,662849,"Northfield, MN","Northfield, Minnesota",False,False
+451,22260,"Fergus Falls, MN",Micropolitan Statistical Area,Fergus Falls,27.0,20906.0,MN,Minnesota,662849,"Fergus Falls, MN","Fergus Falls, Minnesota",False,False
+452,24330,"Grand Rapids, MN",Micropolitan Statistical Area,Grand Rapids,27.0,25118.0,MN,Minnesota,662849,"Grand Rapids, MN","Grand Rapids, Minnesota",False,False
+453,26780,"Hutchinson, MN",Micropolitan Statistical Area,Hutchinson,27.0,30644.0,MN,Minnesota,662849,"Hutchinson, MN","Hutchinson, Minnesota",False,False
+454,31860,"Mankato, MN",Metropolitan Statistical Area,Mankato,27.0,39878.0,MN,Minnesota,662849,"Mankato, MN","Mankato, Minnesota",False,False
+455,32140,"Marshall, MN",Micropolitan Statistical Area,Marshall,27.0,40688.0,MN,Minnesota,662849,"Marshall, MN","Marshall, Minnesota",False,False
+456,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,Bloomington,27.0,6616.0,MN,Minnesota,662849,"Bloomington, MN","Bloomington, Minnesota",False,False
+457,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,Eagan,27.0,17288.0,MN,Minnesota,662849,"Eagan, MN","Eagan, Minnesota",False,False
+458,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,Eden Prairie,27.0,18116.0,MN,Minnesota,662849,"Eden Prairie, MN","Eden Prairie, Minnesota",False,False
+459,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,Edina,27.0,18188.0,MN,Minnesota,662849,"Edina, MN","Edina, Minnesota",False,False
+460,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,Minneapolis,27.0,43000.0,MN,Minnesota,662849,"Minneapolis, MN","Minneapolis, Minnesota",False,True
+461,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,Minnetonka,27.0,43252.0,MN,Minnesota,662849,"Minnetonka, MN","Minnetonka, Minnesota",False,False
+462,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,Plymouth,27.0,51730.0,MN,Minnesota,662849,"Plymouth, MN","Plymouth, Minnesota",False,False
+463,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,St. Paul,27.0,58000.0,MN,Minnesota,662849,"St. Paul, MN","St. Paul, Minnesota",False,False
+464,35580,"New Ulm, MN",Micropolitan Statistical Area,New Ulm,27.0,46042.0,MN,Minnesota,662849,"New Ulm, MN","New Ulm, Minnesota",False,False
+465,36940,"Owatonna, MN",Micropolitan Statistical Area,Owatonna,27.0,49300.0,MN,Minnesota,662849,"Owatonna, MN","Owatonna, Minnesota",False,False
+466,39860,"Red Wing, MN",Micropolitan Statistical Area,Red Wing,27.0,53620.0,MN,Minnesota,662849,"Red Wing, MN","Red Wing, Minnesota",False,False
+467,40340,"Rochester, MN",Metropolitan Statistical Area,Rochester,27.0,54880.0,MN,Minnesota,662849,"Rochester, MN","Rochester, Minnesota",False,False
+468,41060,"St. Cloud, MN",Metropolitan Statistical Area,St. Cloud,27.0,56896.0,MN,Minnesota,662849,"St. Cloud, MN","St. Cloud, Minnesota",False,False
+469,48820,"Willmar, MN",Micropolitan Statistical Area,Willmar,27.0,70420.0,MN,Minnesota,662849,"Willmar, MN","Willmar, Minnesota",False,False
+470,49100,"Winona, MN",Micropolitan Statistical Area,Winona,27.0,71032.0,MN,Minnesota,662849,"Winona, MN","Winona, Minnesota",False,False
+471,49380,"Worthington, MN",Micropolitan Statistical Area,Worthington,27.0,71734.0,MN,Minnesota,662849,"Worthington, MN","Worthington, Minnesota",False,False
+472,10700,"Albertville, AL",Micropolitan Statistical Area,Albertville,1.0,988.0,AL,Alabama,1779775,"Albertville, AL","Albertville, Alabama",False,False
+473,10760,"Alexander City, AL",Micropolitan Statistical Area,Alexander City,1.0,1132.0,AL,Alabama,1779775,"Alexander City, AL","Alexander City, Alabama",False,False
+474,11500,"Anniston-Oxford, AL",Metropolitan Statistical Area,Anniston,1.0,1852.0,AL,Alabama,1779775,"Anniston, AL","Anniston, Alabama",False,False
+475,11500,"Anniston-Oxford, AL",Metropolitan Statistical Area,Oxford,1.0,57576.0,AL,Alabama,1779775,"Oxford, AL","Oxford, Alabama",False,False
+476,12120,"Atmore, AL",Micropolitan Statistical Area,Atmore,1.0,3004.0,AL,Alabama,1779775,"Atmore, AL","Atmore, Alabama",False,False
+477,12220,"Auburn-Opelika, AL",Metropolitan Statistical Area,Auburn,1.0,3076.0,AL,Alabama,1779775,"Auburn, AL","Auburn, Alabama",False,False
+478,12220,"Auburn-Opelika, AL",Metropolitan Statistical Area,Opelika,1.0,57048.0,AL,Alabama,1779775,"Opelika, AL","Opelika, Alabama",False,False
+479,13820,"Birmingham-Hoover, AL",Metropolitan Statistical Area,Birmingham,1.0,7000.0,AL,Alabama,1779775,"Birmingham, AL","Birmingham, Alabama",False,False
+480,13820,"Birmingham-Hoover, AL",Metropolitan Statistical Area,Hoover,1.0,35896.0,AL,Alabama,1779775,"Hoover, AL","Hoover, Alabama",False,False
+481,18980,"Cullman, AL",Micropolitan Statistical Area,Cullman,1.0,18976.0,AL,Alabama,1779775,"Cullman, AL","Cullman, Alabama",False,False
+482,19300,"Daphne-Fairhope-Foley, AL",Metropolitan Statistical Area,Daphne,1.0,19648.0,AL,Alabama,1779775,"Daphne, AL","Daphne, Alabama",False,False
+483,19300,"Daphne-Fairhope-Foley, AL",Metropolitan Statistical Area,Fairhope,1.0,25240.0,AL,Alabama,1779775,"Fairhope, AL","Fairhope, Alabama",False,False
+484,19300,"Daphne-Fairhope-Foley, AL",Metropolitan Statistical Area,Foley,1.0,26992.0,AL,Alabama,1779775,"Foley, AL","Foley, Alabama",False,False
+485,19300,"Daphne-Fairhope-Foley, AL",Metropolitan Statistical Area,Gulf Shores,1.0,32272.0,AL,Alabama,1779775,"Gulf Shores, AL","Gulf Shores, Alabama",False,False
+486,19460,"Decatur, AL",Metropolitan Statistical Area,Decatur,1.0,20104.0,AL,Alabama,1779775,"Decatur, AL","Decatur, Alabama",False,False
+487,20020,"Dothan, AL",Metropolitan Statistical Area,Dothan,1.0,21184.0,AL,Alabama,1779775,"Dothan, AL","Dothan, Alabama",False,False
+488,21460,"Enterprise, AL",Micropolitan Statistical Area,Enterprise,1.0,24184.0,AL,Alabama,1779775,"Enterprise, AL","Enterprise, Alabama",False,False
+489,21640,"Eufaula, AL-GA",Micropolitan Statistical Area,Eufaula,1.0,24568.0,AL,Alabama,1779775,"Eufaula, AL","Eufaula, Alabama",False,False
+490,22520,"Florence-Muscle Shoals, AL",Metropolitan Statistical Area,Florence,1.0,26896.0,AL,Alabama,1779775,"Florence, AL","Florence, Alabama",False,False
+491,22520,"Florence-Muscle Shoals, AL",Metropolitan Statistical Area,Muscle Shoals,1.0,53016.0,AL,Alabama,1779775,"Muscle Shoals, AL","Muscle Shoals, Alabama",False,False
+492,22840,"Fort Payne, AL",Micropolitan Statistical Area,Fort Payne,1.0,27616.0,AL,Alabama,1779775,"Fort Payne, AL","Fort Payne, Alabama",False,False
+493,23460,"Gadsden, AL",Metropolitan Statistical Area,Gadsden,1.0,28696.0,AL,Alabama,1779775,"Gadsden, AL","Gadsden, Alabama",False,False
+494,26620,"Huntsville, AL",Metropolitan Statistical Area,Huntsville,1.0,37000.0,AL,Alabama,1779775,"Huntsville, AL","Huntsville, Alabama",False,False
+495,27530,"Jasper, AL",Micropolitan Statistical Area,Jasper,1.0,38416.0,AL,Alabama,1779775,"Jasper, AL","Jasper, Alabama",False,False
+496,33660,"Mobile, AL",Metropolitan Statistical Area,Mobile,1.0,50000.0,AL,Alabama,1779775,"Mobile, AL","Mobile, Alabama",True,False
+497,33860,"Montgomery, AL",Metropolitan Statistical Area,Montgomery,1.0,51000.0,AL,Alabama,1779775,"Montgomery, AL","Montgomery, Alabama",False,False
+498,37120,"Ozark, AL",Micropolitan Statistical Area,Ozark,1.0,57648.0,AL,Alabama,1779775,"Ozark, AL","Ozark, Alabama",False,False
+499,42460,"Scottsboro, AL",Micropolitan Statistical Area,Scottsboro,1.0,68736.0,AL,Alabama,1779775,"Scottsboro, AL","Scottsboro, Alabama",False,False
+500,42820,"Selma, AL",Micropolitan Statistical Area,Selma,1.0,69120.0,AL,Alabama,1779775,"Selma, AL","Selma, Alabama",False,False
+501,45180,"Talladega-Sylacauga, AL",Micropolitan Statistical Area,Sylacauga,1.0,74352.0,AL,Alabama,1779775,"Sylacauga, AL","Sylacauga, Alabama",False,False
+502,45180,"Talladega-Sylacauga, AL",Micropolitan Statistical Area,Talladega,1.0,74592.0,AL,Alabama,1779775,"Talladega, AL","Talladega, Alabama",False,False
+503,45980,"Troy, AL",Micropolitan Statistical Area,Troy,1.0,76920.0,AL,Alabama,1779775,"Troy, AL","Troy, Alabama",False,False
+504,46220,"Tuscaloosa, AL",Metropolitan Statistical Area,Tuscaloosa,1.0,77256.0,AL,Alabama,1779775,"Tuscaloosa, AL","Tuscaloosa, Alabama",False,False
+505,10780,"Alexandria, LA",Metropolitan Statistical Area,Alexandria,22.0,975.0,LA,Louisiana,1629543,"Alexandria, LA","Alexandria, Louisiana",False,False
+506,12940,"Baton Rouge, LA",Metropolitan Statistical Area,Baton Rouge,22.0,5000.0,LA,Louisiana,1629543,"Baton Rouge, LA","Baton Rouge, Louisiana",False,False
+507,14220,"Bogalusa, LA",Micropolitan Statistical Area,Bogalusa,22.0,8150.0,LA,Louisiana,1629543,"Bogalusa, LA","Bogalusa, Louisiana",False,False
+508,19760,"DeRidder, LA",Micropolitan Statistical Area,DeRidder,22.0,20610.0,LA,Louisiana,1629543,"DeRidder, LA","DeRidder, Louisiana",False,False
+509,22860,"Fort Polk South, LA",Micropolitan Statistical Area,Fort Polk South,22.0,26757.0,LA,Louisiana,1629543,"Fort Polk South, LA","Fort Polk South, Louisiana",False,False
+510,25220,"Hammond, LA",Metropolitan Statistical Area,Hammond,22.0,32755.0,LA,Louisiana,1629543,"Hammond, LA","Hammond, Louisiana",False,False
+511,26380,"Houma-Thibodaux, LA",Metropolitan Statistical Area,Houma,22.0,36255.0,LA,Louisiana,1629543,"Houma, LA","Houma, Louisiana",False,False
+512,26380,"Houma-Thibodaux, LA",Metropolitan Statistical Area,Thibodaux,22.0,75425.0,LA,Louisiana,1629543,"Thibodaux, LA","Thibodaux, Louisiana",False,False
+513,27660,"Jennings, LA",Micropolitan Statistical Area,Jennings,22.0,38355.0,LA,Louisiana,1629543,"Jennings, LA","Jennings, Louisiana",False,False
+514,29180,"Lafayette, LA",Metropolitan Statistical Area,Lafayette,22.0,40735.0,LA,Louisiana,1629543,"Lafayette, LA","Lafayette, Louisiana",False,False
+515,29340,"Lake Charles, LA",Metropolitan Statistical Area,Lake Charles,22.0,41155.0,LA,Louisiana,1629543,"Lake Charles, LA","Lake Charles, Louisiana",False,False
+516,33380,"Minden, LA",Micropolitan Statistical Area,Minden,22.0,50885.0,LA,Louisiana,1629543,"Minden, LA","Minden, Louisiana",False,False
+517,33740,"Monroe, LA",Metropolitan Statistical Area,Monroe,22.0,51410.0,LA,Louisiana,1629543,"Monroe, LA","Monroe, Louisiana",False,False
+518,34020,"Morgan City, LA",Micropolitan Statistical Area,Morgan City,22.0,52040.0,LA,Louisiana,1629543,"Morgan City, LA","Morgan City, Louisiana",False,False
+519,35060,"Natchitoches, LA",Micropolitan Statistical Area,Natchitoches,22.0,53545.0,LA,Louisiana,1629543,"Natchitoches, LA","Natchitoches, Louisiana",False,False
+520,35380,"New Orleans-Metairie, LA",Metropolitan Statistical Area,Metairie,22.0,50115.0,LA,Louisiana,1629543,"Metairie, LA","Metairie, Louisiana",False,False
+521,35380,"New Orleans-Metairie, LA",Metropolitan Statistical Area,New Orleans,22.0,55000.0,LA,Louisiana,1629543,"New Orleans, LA","New Orleans, Louisiana",False,False
+522,36660,"Opelousas, LA",Micropolitan Statistical Area,Opelousas,22.0,58045.0,LA,Louisiana,1629543,"Opelousas, LA","Opelousas, Louisiana",False,False
+523,40820,"Ruston, LA",Micropolitan Statistical Area,Ruston,22.0,66655.0,LA,Louisiana,1629543,"Ruston, LA","Ruston, Louisiana",False,False
+524,43340,"Shreveport-Bossier City, LA",Metropolitan Statistical Area,Bossier City,22.0,8920.0,LA,Louisiana,1629543,"Bossier City, LA","Bossier City, Louisiana",False,False
+525,43340,"Shreveport-Bossier City, LA",Metropolitan Statistical Area,Shreveport,22.0,70000.0,LA,Louisiana,1629543,"Shreveport, LA","Shreveport, Louisiana",False,False
+526,10900,"Allentown-Bethlehem-Easton, PA-NJ",Metropolitan Statistical Area,Allentown,42.0,2000.0,PA,Pennsylvania,1779798,"Allentown, PA","Allentown, Pennsylvania",False,False
+527,10900,"Allentown-Bethlehem-Easton, PA-NJ",Metropolitan Statistical Area,Bethlehem,42.0,6088.0,PA,Pennsylvania,1779798,"Bethlehem, PA","Bethlehem, Pennsylvania",False,False
+528,11020,"Altoona, PA",Metropolitan Statistical Area,Altoona,42.0,2184.0,PA,Pennsylvania,1779798,"Altoona, PA","Altoona, Pennsylvania",False,False
+529,14100,"Bloomsburg-Berwick, PA",Metropolitan Statistical Area,Berwick,42.0,5888.0,PA,Pennsylvania,1779798,"Berwick, PA","Berwick, Pennsylvania",False,False
+530,14100,"Bloomsburg-Berwick, PA",Metropolitan Statistical Area,Bloomsburg,42.0,7128.0,PA,Pennsylvania,1779798,"Bloomsburg, PA","Bloomsburg, Pennsylvania",False,False
+531,14620,"Bradford, PA",Micropolitan Statistical Area,Bradford,42.0,8040.0,PA,Pennsylvania,1779798,"Bradford, PA","Bradford, Pennsylvania",False,False
+532,16540,"Chambersburg-Waynesboro, PA",Metropolitan Statistical Area,Chambersburg,42.0,12536.0,PA,Pennsylvania,1779798,"Chambersburg, PA","Chambersburg, Pennsylvania",False,False
+533,16540,"Chambersburg-Waynesboro, PA",Metropolitan Statistical Area,Waynesboro,42.0,81824.0,PA,Pennsylvania,1779798,"Waynesboro, PA","Waynesboro, Pennsylvania",False,False
+534,20180,"DuBois, PA",Micropolitan Statistical Area,DuBois,42.0,20136.0,PA,Pennsylvania,1779798,"DuBois, PA","DuBois, Pennsylvania",False,False
+535,20700,"East Stroudsburg, PA",Metropolitan Statistical Area,East Stroudsburg,42.0,21872.0,PA,Pennsylvania,1779798,"East Stroudsburg, PA","East Stroudsburg, Pennsylvania",False,False
+536,21500,"Erie, PA",Metropolitan Statistical Area,Erie,42.0,24000.0,PA,Pennsylvania,1779798,"Erie, PA","Erie, Pennsylvania",False,False
+537,23900,"Gettysburg, PA",Metropolitan Statistical Area,Gettysburg,42.0,28960.0,PA,Pennsylvania,1779798,"Gettysburg, PA","Gettysburg, Pennsylvania",False,False
+538,25420,"Harrisburg-Carlisle, PA",Metropolitan Statistical Area,Carlisle,42.0,11272.0,PA,Pennsylvania,1779798,"Carlisle, PA","Carlisle, Pennsylvania",False,False
+539,25420,"Harrisburg-Carlisle, PA",Metropolitan Statistical Area,Harrisburg,42.0,32800.0,PA,Pennsylvania,1779798,"Harrisburg, PA","Harrisburg, Pennsylvania",False,False
+540,26500,"Huntingdon, PA",Micropolitan Statistical Area,Huntingdon,42.0,36368.0,PA,Pennsylvania,1779798,"Huntingdon, PA","Huntingdon, Pennsylvania",False,False
+541,26860,"Indiana, PA",Micropolitan Statistical Area,Indiana,42.0,36816.0,PA,Pennsylvania,1779798,"Indiana, PA","Indiana, Pennsylvania",False,False
+542,27780,"Johnstown, PA",Metropolitan Statistical Area,Johnstown,42.0,38288.0,PA,Pennsylvania,1779798,"Johnstown, PA","Johnstown, Pennsylvania",False,False
+543,29540,"Lancaster, PA",Metropolitan Statistical Area,Lancaster,42.0,41216.0,PA,Pennsylvania,1779798,"Lancaster, PA","Lancaster, Pennsylvania",False,False
+544,30140,"Lebanon, PA",Metropolitan Statistical Area,Lebanon,42.0,42168.0,PA,Pennsylvania,1779798,"Lebanon, PA","Lebanon, Pennsylvania",False,False
+545,30260,"Lewisburg, PA",Micropolitan Statistical Area,Lewisburg,42.0,42976.0,PA,Pennsylvania,1779798,"Lewisburg, PA","Lewisburg, Pennsylvania",False,False
+546,30380,"Lewistown, PA",Micropolitan Statistical Area,Lewistown,42.0,43000.0,PA,Pennsylvania,1779798,"Lewistown, PA","Lewistown, Pennsylvania",False,False
+547,30820,"Lock Haven, PA",Micropolitan Statistical Area,Lock Haven,42.0,44128.0,PA,Pennsylvania,1779798,"Lock Haven, PA","Lock Haven, Pennsylvania",False,False
+548,32740,"Meadville, PA",Micropolitan Statistical Area,Meadville,42.0,48360.0,PA,Pennsylvania,1779798,"Meadville, PA","Meadville, Pennsylvania",False,False
+549,35260,"New Castle, PA",Micropolitan Statistical Area,New Castle,42.0,53368.0,PA,Pennsylvania,1779798,"New Castle, PA","New Castle, Pennsylvania",False,False
+550,36340,"Oil City, PA",Micropolitan Statistical Area,Oil City,42.0,56456.0,PA,Pennsylvania,1779798,"Oil City, PA","Oil City, Pennsylvania",False,False
+551,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Philadelphia,42.0,60000.0,PA,Pennsylvania,1779798,"Philadelphia, PA","Philadelphia, Pennsylvania",False,False
+552,38300,"Pittsburgh, PA",Metropolitan Statistical Area,Pittsburgh,42.0,61000.0,PA,Pennsylvania,1779798,"Pittsburgh, PA","Pittsburgh, Pennsylvania",False,False
+553,39060,"Pottsville, PA",Micropolitan Statistical Area,Pottsville,42.0,62432.0,PA,Pennsylvania,1779798,"Pottsville, PA","Pottsville, Pennsylvania",False,False
+554,39740,"Reading, PA",Metropolitan Statistical Area,Reading,42.0,63624.0,PA,Pennsylvania,1779798,"Reading, PA","Reading, Pennsylvania",False,False
+555,41260,"St. Marys, PA",Micropolitan Statistical Area,St. Marys,42.0,67344.0,PA,Pennsylvania,1779798,"St. Marys, PA","St. Marys, Pennsylvania",False,False
+556,42380,"Sayre, PA",Micropolitan Statistical Area,Sayre,42.0,68096.0,PA,Pennsylvania,1779798,"Sayre, PA","Sayre, Pennsylvania",False,False
+557,42540,"Scranton--Wilkes-Barre, PA",Metropolitan Statistical Area,Scranton,42.0,69000.0,PA,Pennsylvania,1779798,"Scranton, PA","Scranton, Pennsylvania",False,False
+558,42540,"Scranton--Wilkes-Barre, PA",Metropolitan Statistical Area,Wilkes-Barre,42.0,85152.0,PA,Pennsylvania,1779798,"Wilkes-Barre, PA","Wilkes-Barre, Pennsylvania",False,False
+559,42780,"Selinsgrove, PA",Micropolitan Statistical Area,Selinsgrove,42.0,69216.0,PA,Pennsylvania,1779798,"Selinsgrove, PA","Selinsgrove, Pennsylvania",False,False
+560,43740,"Somerset, PA",Micropolitan Statistical Area,Somerset,42.0,71776.0,PA,Pennsylvania,1779798,"Somerset, PA","Somerset, Pennsylvania",False,False
+561,44300,"State College, PA",Metropolitan Statistical Area,State College,42.0,73808.0,PA,Pennsylvania,1779798,"State College, PA","State College, Pennsylvania",False,False
+562,44980,"Sunbury, PA",Micropolitan Statistical Area,Sunbury,42.0,75304.0,PA,Pennsylvania,1779798,"Sunbury, PA","Sunbury, Pennsylvania",False,False
+563,47620,"Warren, PA",Micropolitan Statistical Area,Warren,42.0,81000.0,PA,Pennsylvania,1779798,"Warren, PA","Warren, Pennsylvania",False,False
+564,48700,"Williamsport, PA",Metropolitan Statistical Area,Williamsport,42.0,85312.0,PA,Pennsylvania,1779798,"Williamsport, PA","Williamsport, Pennsylvania",False,False
+565,49620,"York-Hanover, PA",Metropolitan Statistical Area,Hanover,42.0,32448.0,PA,Pennsylvania,1779798,"Hanover, PA","Hanover, Pennsylvania",False,False
+566,49620,"York-Hanover, PA",Metropolitan Statistical Area,York,42.0,87048.0,PA,Pennsylvania,1779798,"York, PA","York, Pennsylvania",False,False
+567,11180,"Ames, IA",Metropolitan Statistical Area,Ames,19.0,1855.0,IA,Iowa,1779785,"Ames, IA","Ames, Iowa",False,False
+568,15460,"Burlington, IA-IL",Micropolitan Statistical Area,Burlington,19.0,9550.0,IA,Iowa,1779785,"Burlington, IA","Burlington, Iowa",False,False
+569,16140,"Carroll, IA",Micropolitan Statistical Area,Carroll,19.0,11080.0,IA,Iowa,1779785,"Carroll, IA","Carroll, Iowa",False,False
+570,16300,"Cedar Rapids, IA",Metropolitan Statistical Area,Cedar Rapids,19.0,12000.0,IA,Iowa,1779785,"Cedar Rapids, IA","Cedar Rapids, Iowa",False,False
+571,17540,"Clinton, IA",Micropolitan Statistical Area,Clinton,19.0,14430.0,IA,Iowa,1779785,"Clinton, IA","Clinton, Iowa",False,False
+572,19340,"Davenport-Moline-Rock Island, IA-IL",Metropolitan Statistical Area,Davenport,19.0,19000.0,IA,Iowa,1779785,"Davenport, IA","Davenport, Iowa",False,False
+573,19780,"Des Moines-West Des Moines, IA",Metropolitan Statistical Area,Des Moines,19.0,21000.0,IA,Iowa,1779785,"Des Moines, IA","Des Moines, Iowa",False,False
+574,19780,"Des Moines-West Des Moines, IA",Metropolitan Statistical Area,West Des Moines,19.0,83910.0,IA,Iowa,1779785,"West Des Moines, IA","West Des Moines, Iowa",False,False
+575,20220,"Dubuque, IA",Metropolitan Statistical Area,Dubuque,19.0,22395.0,IA,Iowa,1779785,"Dubuque, IA","Dubuque, Iowa",False,False
+576,21840,"Fairfield, IA",Micropolitan Statistical Area,Fairfield,19.0,26445.0,IA,Iowa,1779785,"Fairfield, IA","Fairfield, Iowa",False,False
+577,22700,"Fort Dodge, IA",Micropolitan Statistical Area,Fort Dodge,19.0,28515.0,IA,Iowa,1779785,"Fort Dodge, IA","Fort Dodge, Iowa",False,False
+578,22800,"Fort Madison-Keokuk, IA-IL-MO",Micropolitan Statistical Area,Fort Madison,19.0,28605.0,IA,Iowa,1779785,"Fort Madison, IA","Fort Madison, Iowa",False,False
+579,22800,"Fort Madison-Keokuk, IA-IL-MO",Micropolitan Statistical Area,Keokuk,19.0,40845.0,IA,Iowa,1779785,"Keokuk, IA","Keokuk, Iowa",False,False
+580,26980,"Iowa City, IA",Metropolitan Statistical Area,Iowa City,19.0,38595.0,IA,Iowa,1779785,"Iowa City, IA","Iowa City, Iowa",False,False
+581,32260,"Marshalltown, IA",Micropolitan Statistical Area,Marshalltown,19.0,49755.0,IA,Iowa,1779785,"Marshalltown, IA","Marshalltown, Iowa",False,False
+582,32380,"Mason City, IA",Micropolitan Statistical Area,Mason City,19.0,50160.0,IA,Iowa,1779785,"Mason City, IA","Mason City, Iowa",False,False
+583,34700,"Muscatine, IA",Micropolitan Statistical Area,Muscatine,19.0,55110.0,IA,Iowa,1779785,"Muscatine, IA","Muscatine, Iowa",False,False
+584,36540,"Omaha-Council Bluffs, NE-IA",Metropolitan Statistical Area,Council Bluffs,19.0,16860.0,IA,Iowa,1779785,"Council Bluffs, IA","Council Bluffs, Iowa",False,False
+585,36820,"Oskaloosa, IA",Micropolitan Statistical Area,Oskaloosa,19.0,59925.0,IA,Iowa,1779785,"Oskaloosa, IA","Oskaloosa, Iowa",False,False
+586,36900,"Ottumwa, IA",Micropolitan Statistical Area,Ottumwa,19.0,60465.0,IA,Iowa,1779785,"Ottumwa, IA","Ottumwa, Iowa",False,False
+587,37800,"Pella, IA",Micropolitan Statistical Area,Pella,19.0,62040.0,IA,Iowa,1779785,"Pella, IA","Pella, Iowa",False,False
+588,43580,"Sioux City, IA-NE-SD",Metropolitan Statistical Area,Sioux City,19.0,73335.0,IA,Iowa,1779785,"Sioux City, IA","Sioux City, Iowa",False,False
+589,43980,"Spencer, IA",Micropolitan Statistical Area,Spencer,19.0,74280.0,IA,Iowa,1779785,"Spencer, IA","Spencer, Iowa",False,False
+590,44020,"Spirit Lake, IA",Micropolitan Statistical Area,Spirit Lake,19.0,74415.0,IA,Iowa,1779785,"Spirit Lake, IA","Spirit Lake, Iowa",False,False
+591,44740,"Storm Lake, IA",Micropolitan Statistical Area,Storm Lake,19.0,75630.0,IA,Iowa,1779785,"Storm Lake, IA","Storm Lake, Iowa",False,False
+592,47940,"Waterloo-Cedar Falls, IA",Metropolitan Statistical Area,Cedar Falls,19.0,11755.0,IA,Iowa,1779785,"Cedar Falls, IA","Cedar Falls, Iowa",False,False
+593,47940,"Waterloo-Cedar Falls, IA",Metropolitan Statistical Area,Waterloo,19.0,82425.0,IA,Iowa,1779785,"Waterloo, IA","Waterloo, Iowa",False,False
+594,11260,"Anchorage, AK",Metropolitan Statistical Area,Anchorage,2.0,3000.0,AK,Alaska,1785533,"Anchorage, AK","Anchorage, Alaska",False,True
+595,21820,"Fairbanks, AK",Metropolitan Statistical Area,Fairbanks,2.0,24230.0,AK,Alaska,1785533,"Fairbanks, AK","Fairbanks, Alaska",False,False
+596,27940,"Juneau, AK",Micropolitan Statistical Area,Juneau,2.0,36400.0,AK,Alaska,1785533,"Juneau, AK","Juneau, Alaska",False,False
+597,28540,"Ketchikan, AK",Micropolitan Statistical Area,Ketchikan,2.0,38970.0,AK,Alaska,1785533,"Ketchikan, AK","Ketchikan, Alaska",False,False
+598,11420,"Angola, IN",Micropolitan Statistical Area,Angola,18.0,1666.0,IN,Indiana,448508,"Angola, IN","Angola, Indiana",False,False
+599,12140,"Auburn, IN",Micropolitan Statistical Area,Auburn,18.0,2674.0,IN,Indiana,448508,"Auburn, IN","Auburn, Indiana",False,False
+600,13260,"Bedford, IN",Micropolitan Statistical Area,Bedford,18.0,4114.0,IN,Indiana,448508,"Bedford, IN","Bedford, Indiana",False,False
+601,14020,"Bloomington, IN",Metropolitan Statistical Area,Bloomington,18.0,5860.0,IN,Indiana,448508,"Bloomington, IN","Bloomington, Indiana",False,False
+602,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metropolitan Statistical Area,Gary,18.0,27000.0,IN,Indiana,448508,"Gary, IN","Gary, Indiana",False,False
+603,18020,"Columbus, IN",Metropolitan Statistical Area,Columbus,18.0,14734.0,IN,Indiana,448508,"Columbus, IN","Columbus, Indiana",False,False
+604,18220,"Connersville, IN",Micropolitan Statistical Area,Connersville,18.0,14932.0,IN,Indiana,448508,"Connersville, IN","Connersville, Indiana",False,False
+605,18820,"Crawfordsville, IN",Micropolitan Statistical Area,Crawfordsville,18.0,15742.0,IN,Indiana,448508,"Crawfordsville, IN","Crawfordsville, Indiana",False,False
+606,19540,"Decatur, IN",Micropolitan Statistical Area,Decatur,18.0,17074.0,IN,Indiana,448508,"Decatur, IN","Decatur, Indiana",False,False
+607,21140,"Elkhart-Goshen, IN",Metropolitan Statistical Area,Elkhart,18.0,20728.0,IN,Indiana,448508,"Elkhart, IN","Elkhart, Indiana",False,False
+608,21140,"Elkhart-Goshen, IN",Metropolitan Statistical Area,Goshen,18.0,28386.0,IN,Indiana,448508,"Goshen, IN","Goshen, Indiana",False,False
+609,21780,"Evansville, IN-KY",Metropolitan Statistical Area,Evansville,18.0,22000.0,IN,Indiana,448508,"Evansville, IN","Evansville, Indiana",False,False
+610,23060,"Fort Wayne, IN",Metropolitan Statistical Area,Fort Wayne,18.0,25000.0,IN,Indiana,448508,"Fort Wayne, IN","Fort Wayne, Indiana",False,False
+611,23140,"Frankfort, IN",Micropolitan Statistical Area,Frankfort,18.0,25324.0,IN,Indiana,448508,"Frankfort, IN","Frankfort, Indiana",False,False
+612,24700,"Greensburg, IN",Micropolitan Statistical Area,Greensburg,18.0,29718.0,IN,Indiana,448508,"Greensburg, IN","Greensburg, Indiana",False,False
+613,26540,"Huntington, IN",Micropolitan Statistical Area,Huntington,18.0,35302.0,IN,Indiana,448508,"Huntington, IN","Huntington, Indiana",False,False
+614,26900,"Indianapolis-Carmel-Anderson, IN",Metropolitan Statistical Area,Anderson,18.0,1468.0,IN,Indiana,448508,"Anderson, IN","Anderson, Indiana",False,False
+615,26900,"Indianapolis-Carmel-Anderson, IN",Metropolitan Statistical Area,Carmel,18.0,10342.0,IN,Indiana,448508,"Carmel, IN","Carmel, Indiana",False,False
+616,26900,"Indianapolis-Carmel-Anderson, IN",Metropolitan Statistical Area,Indianapolis city (balance),18.0,36003.0,IN,Indiana,448508,"Indianapolis city (balance), IN","Indianapolis city (balance), Indiana",False,False
+617,27540,"Jasper, IN",Micropolitan Statistical Area,Jasper,18.0,37782.0,IN,Indiana,448508,"Jasper, IN","Jasper, Indiana",False,False
+618,28340,"Kendallville, IN",Micropolitan Statistical Area,Kendallville,18.0,39402.0,IN,Indiana,448508,"Kendallville, IN","Kendallville, Indiana",False,False
+619,29020,"Kokomo, IN",Metropolitan Statistical Area,Kokomo,18.0,40392.0,IN,Indiana,448508,"Kokomo, IN","Kokomo, Indiana",False,False
+620,29200,"Lafayette-West Lafayette, IN",Metropolitan Statistical Area,Lafayette,18.0,40788.0,IN,Indiana,448508,"Lafayette, IN","Lafayette, Indiana",False,False
+621,29200,"Lafayette-West Lafayette, IN",Metropolitan Statistical Area,West Lafayette,18.0,82862.0,IN,Indiana,448508,"West Lafayette, IN","West Lafayette, Indiana",False,False
+622,30900,"Logansport, IN",Micropolitan Statistical Area,Logansport,18.0,44658.0,IN,Indiana,448508,"Logansport, IN","Logansport, Indiana",False,False
+623,31500,"Madison, IN",Micropolitan Statistical Area,Madison,18.0,45990.0,IN,Indiana,448508,"Madison, IN","Madison, Indiana",False,False
+624,31980,"Marion, IN",Micropolitan Statistical Area,Marion,18.0,46908.0,IN,Indiana,448508,"Marion, IN","Marion, Indiana",False,False
+625,33140,"Michigan City-La Porte, IN",Metropolitan Statistical Area,La Porte,18.0,42246.0,IN,Indiana,448508,"La Porte, IN","La Porte, Indiana",False,False
+626,33140,"Michigan City-La Porte, IN",Metropolitan Statistical Area,Michigan City,18.0,48798.0,IN,Indiana,448508,"Michigan City, IN","Michigan City, Indiana",False,False
+627,34620,"Muncie, IN",Metropolitan Statistical Area,Muncie,18.0,51876.0,IN,Indiana,448508,"Muncie, IN","Muncie, Indiana",False,False
+628,35220,"New Castle, IN",Micropolitan Statistical Area,New Castle,18.0,52740.0,IN,Indiana,448508,"New Castle, IN","New Castle, Indiana",False,False
+629,35860,"North Vernon, IN",Micropolitan Statistical Area,North Vernon,18.0,55116.0,IN,Indiana,448508,"North Vernon, IN","North Vernon, Indiana",False,False
+630,37940,"Peru, IN",Micropolitan Statistical Area,Peru,18.0,59328.0,IN,Indiana,448508,"Peru, IN","Peru, Indiana",False,False
+631,38500,"Plymouth, IN",Micropolitan Statistical Area,Plymouth,18.0,60822.0,IN,Indiana,448508,"Plymouth, IN","Plymouth, Indiana",False,False
+632,39980,"Richmond, IN",Micropolitan Statistical Area,Richmond,18.0,64260.0,IN,Indiana,448508,"Richmond, IN","Richmond, Indiana",False,False
+633,42500,"Scottsburg, IN",Micropolitan Statistical Area,Scottsburg,18.0,68526.0,IN,Indiana,448508,"Scottsburg, IN","Scottsburg, Indiana",False,False
+634,42980,"Seymour, IN",Micropolitan Statistical Area,Seymour,18.0,68832.0,IN,Indiana,448508,"Seymour, IN","Seymour, Indiana",False,False
+635,43780,"South Bend-Mishawaka, IN-MI",Metropolitan Statistical Area,Mishawaka,18.0,49932.0,IN,Indiana,448508,"Mishawaka, IN","Mishawaka, Indiana",False,False
+636,43780,"South Bend-Mishawaka, IN-MI",Metropolitan Statistical Area,South Bend,18.0,71000.0,IN,Indiana,448508,"South Bend, IN","South Bend, Indiana",False,False
+637,45460,"Terre Haute, IN",Metropolitan Statistical Area,Terre Haute,18.0,75428.0,IN,Indiana,448508,"Terre Haute, IN","Terre Haute, Indiana",False,False
+638,47180,"Vincennes, IN",Micropolitan Statistical Area,Vincennes,18.0,79208.0,IN,Indiana,448508,"Vincennes, IN","Vincennes, Indiana",False,False
+639,47340,"Wabash, IN",Micropolitan Statistical Area,Wabash,18.0,79370.0,IN,Indiana,448508,"Wabash, IN","Wabash, Indiana",False,False
+640,47700,"Warsaw, IN",Micropolitan Statistical Area,Warsaw,18.0,80306.0,IN,Indiana,448508,"Warsaw, IN","Warsaw, Indiana",False,False
+641,47780,"Washington, IN",Micropolitan Statistical Area,Washington,18.0,80504.0,IN,Indiana,448508,"Washington, IN","Washington, Indiana",False,False
+642,11540,"Appleton, WI",Metropolitan Statistical Area,Appleton,55.0,2375.0,WI,Wisconsin,1779806,"Appleton, WI","Appleton, Wisconsin",False,False
+643,12660,"Baraboo, WI",Micropolitan Statistical Area,Baraboo,55.0,4625.0,WI,Wisconsin,1779806,"Baraboo, WI","Baraboo, Wisconsin",False,False
+644,13180,"Beaver Dam, WI",Micropolitan Statistical Area,Beaver Dam,55.0,5900.0,WI,Wisconsin,1779806,"Beaver Dam, WI","Beaver Dam, Wisconsin",False,False
+645,20740,"Eau Claire, WI",Metropolitan Statistical Area,Eau Claire,55.0,22300.0,WI,Wisconsin,1779806,"Eau Claire, WI","Eau Claire, Wisconsin",False,False
+646,22540,"Fond du Lac, WI",Metropolitan Statistical Area,Fond du Lac,55.0,26275.0,WI,Wisconsin,1779806,"Fond du Lac, WI","Fond du Lac, Wisconsin",False,False
+647,24580,"Green Bay, WI",Metropolitan Statistical Area,Green Bay,55.0,31000.0,WI,Wisconsin,1779806,"Green Bay, WI","Green Bay, Wisconsin",False,False
+648,27500,"Janesville-Beloit, WI",Metropolitan Statistical Area,Beloit,55.0,6500.0,WI,Wisconsin,1779806,"Beloit, WI","Beloit, Wisconsin",False,False
+649,27500,"Janesville-Beloit, WI",Metropolitan Statistical Area,Janesville,55.0,37825.0,WI,Wisconsin,1779806,"Janesville, WI","Janesville, Wisconsin",False,False
+650,29100,"La Crosse-Onalaska, WI-MN",Metropolitan Statistical Area,La Crosse,55.0,40775.0,WI,Wisconsin,1779806,"La Crosse, WI","La Crosse, Wisconsin",False,False
+651,29100,"La Crosse-Onalaska, WI-MN",Metropolitan Statistical Area,Onalaska,55.0,59925.0,WI,Wisconsin,1779806,"Onalaska, WI","Onalaska, Wisconsin",False,False
+652,31540,"Madison, WI",Metropolitan Statistical Area,Madison,55.0,48000.0,WI,Wisconsin,1779806,"Madison, WI","Madison, Wisconsin",False,False
+653,31820,"Manitowoc, WI",Micropolitan Statistical Area,Manitowoc,55.0,48500.0,WI,Wisconsin,1779806,"Manitowoc, WI","Manitowoc, Wisconsin",False,False
+654,31940,"Marinette, WI-MI",Micropolitan Statistical Area,Marinette,55.0,49300.0,WI,Wisconsin,1779806,"Marinette, WI","Marinette, Wisconsin",False,False
+655,32860,"Menomonie, WI",Micropolitan Statistical Area,Menomonie,55.0,51025.0,WI,Wisconsin,1779806,"Menomonie, WI","Menomonie, Wisconsin",False,False
+656,33340,"Milwaukee-Waukesha, WI",Metropolitan Statistical Area,Milwaukee,55.0,53000.0,WI,Wisconsin,1779806,"Milwaukee, WI","Milwaukee, Wisconsin",False,False
+657,33340,"Milwaukee-Waukesha, WI",Metropolitan Statistical Area,Waukesha,55.0,84250.0,WI,Wisconsin,1779806,"Waukesha, WI","Waukesha, Wisconsin",False,False
+658,36780,"Oshkosh-Neenah, WI",Metropolitan Statistical Area,Neenah,55.0,55750.0,WI,Wisconsin,1779806,"Neenah, WI","Neenah, Wisconsin",False,False
+659,36780,"Oshkosh-Neenah, WI",Metropolitan Statistical Area,Oshkosh,55.0,60500.0,WI,Wisconsin,1779806,"Oshkosh, WI","Oshkosh, Wisconsin",False,False
+660,38420,"Platteville, WI",Micropolitan Statistical Area,Platteville,55.0,63250.0,WI,Wisconsin,1779806,"Platteville, WI","Platteville, Wisconsin",False,False
+661,39540,"Racine, WI",Metropolitan Statistical Area,Racine,55.0,66000.0,WI,Wisconsin,1779806,"Racine, WI","Racine, Wisconsin",False,False
+662,43020,"Shawano, WI",Micropolitan Statistical Area,Shawano,55.0,72925.0,WI,Wisconsin,1779806,"Shawano, WI","Shawano, Wisconsin",False,False
+663,43100,"Sheboygan, WI",Metropolitan Statistical Area,Sheboygan,55.0,72975.0,WI,Wisconsin,1779806,"Sheboygan, WI","Sheboygan, Wisconsin",False,False
+664,44620,"Stevens Point, WI",Micropolitan Statistical Area,Stevens Point,55.0,77200.0,WI,Wisconsin,1779806,"Stevens Point, WI","Stevens Point, Wisconsin",False,False
+665,48020,"Watertown-Fort Atkinson, WI",Micropolitan Statistical Area,Fort Atkinson,55.0,26675.0,WI,Wisconsin,1779806,"Fort Atkinson, WI","Fort Atkinson, Wisconsin",False,False
+666,48020,"Watertown-Fort Atkinson, WI",Micropolitan Statistical Area,Watertown,55.0,83975.0,WI,Wisconsin,1779806,"Watertown, WI","Watertown, Wisconsin",False,False
+667,48140,"Wausau-Weston, WI",Metropolitan Statistical Area,Wausau,55.0,84475.0,WI,Wisconsin,1779806,"Wausau, WI","Wausau, Wisconsin",False,False
+668,48140,"Wausau-Weston, WI",Metropolitan Statistical Area,Weston,55.0,86025.0,WI,Wisconsin,1779806,"Weston, WI","Weston, Wisconsin",False,False
+669,48580,"Whitewater, WI",Micropolitan Statistical Area,Whitewater,55.0,86925.0,WI,Wisconsin,1779806,"Whitewater, WI","Whitewater, Wisconsin",False,False
+670,49220,"Wisconsin Rapids-Marshfield, WI",Micropolitan Statistical Area,Marshfield,55.0,49675.0,WI,Wisconsin,1779806,"Marshfield, WI","Marshfield, Wisconsin",False,False
+671,49220,"Wisconsin Rapids-Marshfield, WI",Micropolitan Statistical Area,Wisconsin Rapids,55.0,88200.0,WI,Wisconsin,1779806,"Wisconsin Rapids, WI","Wisconsin Rapids, Wisconsin",False,False
+672,11580,"Arcadia, FL",Micropolitan Statistical Area,Arcadia,12.0,1750.0,FL,Florida,294478,"Arcadia, FL","Arcadia, Florida",False,False
+673,15980,"Cape Coral-Fort Myers, FL",Metropolitan Statistical Area,Cape Coral,12.0,10275.0,FL,Florida,294478,"Cape Coral, FL","Cape Coral, Florida",False,False
+674,15980,"Cape Coral-Fort Myers, FL",Metropolitan Statistical Area,Fort Myers,12.0,24125.0,FL,Florida,294478,"Fort Myers, FL","Fort Myers, Florida",False,False
+675,17500,"Clewiston, FL",Micropolitan Statistical Area,Clewiston,12.0,13000.0,FL,Florida,294478,"Clewiston, FL","Clewiston, Florida",False,False
+676,18880,"Crestview-Fort Walton Beach-Destin, FL",Metropolitan Statistical Area,Crestview,12.0,15475.0,FL,Florida,294478,"Crestview, FL","Crestview, Florida",False,False
+677,18880,"Crestview-Fort Walton Beach-Destin, FL",Metropolitan Statistical Area,Destin,12.0,17325.0,FL,Florida,294478,"Destin, FL","Destin, Florida",False,False
+678,18880,"Crestview-Fort Walton Beach-Destin, FL",Metropolitan Statistical Area,Fort Walton Beach,12.0,24475.0,FL,Florida,294478,"Fort Walton Beach, FL","Fort Walton Beach, Florida",False,False
+679,19660,"Deltona-Daytona Beach-Ormond Beach, FL",Metropolitan Statistical Area,Daytona Beach,12.0,16525.0,FL,Florida,294478,"Daytona Beach, FL","Daytona Beach, Florida",False,False
+680,19660,"Deltona-Daytona Beach-Ormond Beach, FL",Metropolitan Statistical Area,DeLand,12.0,16875.0,FL,Florida,294478,"DeLand, FL","DeLand, Florida",False,False
+681,19660,"Deltona-Daytona Beach-Ormond Beach, FL",Metropolitan Statistical Area,Deltona,12.0,17200.0,FL,Florida,294478,"Deltona, FL","Deltona, Florida",False,False
+682,19660,"Deltona-Daytona Beach-Ormond Beach, FL",Metropolitan Statistical Area,Ormond Beach,12.0,53150.0,FL,Florida,294478,"Ormond Beach, FL","Ormond Beach, Florida",False,False
+683,23540,"Gainesville, FL",Metropolitan Statistical Area,Gainesville,12.0,25175.0,FL,Florida,294478,"Gainesville, FL","Gainesville, Florida",False,False
+684,26140,"Homosassa Springs, FL",Metropolitan Statistical Area,Homosassa Springs,12.0,32400.0,FL,Florida,294478,"Homosassa Springs, FL","Homosassa Springs, Florida",False,False
+685,27260,"Jacksonville, FL",Metropolitan Statistical Area,Jacksonville,12.0,35000.0,FL,Florida,294478,"Jacksonville, FL","Jacksonville, Florida",False,False
+686,28580,"Key West, FL",Micropolitan Statistical Area,Key West,12.0,36550.0,FL,Florida,294478,"Key West, FL","Key West, Florida",False,False
+687,29380,"Lake City, FL",Micropolitan Statistical Area,Lake City,12.0,37775.0,FL,Florida,294478,"Lake City, FL","Lake City, Florida",False,False
+688,29460,"Lakeland-Winter Haven, FL",Metropolitan Statistical Area,Lakeland,12.0,38250.0,FL,Florida,294478,"Lakeland, FL","Lakeland, Florida",False,False
+689,29460,"Lakeland-Winter Haven, FL",Metropolitan Statistical Area,Winter Haven,12.0,78275.0,FL,Florida,294478,"Winter Haven, FL","Winter Haven, Florida",False,False
+690,33100,"Miami-Fort Lauderdale-Pompano Beach, FL",Metropolitan Statistical Area,Boca Raton,12.0,7300.0,FL,Florida,294478,"Boca Raton, FL","Boca Raton, Florida",False,False
+691,33100,"Miami-Fort Lauderdale-Pompano Beach, FL",Metropolitan Statistical Area,Boynton Beach,12.0,7875.0,FL,Florida,294478,"Boynton Beach, FL","Boynton Beach, Florida",False,False
+692,33100,"Miami-Fort Lauderdale-Pompano Beach, FL",Metropolitan Statistical Area,Coral Gables,12.0,14250.0,FL,Florida,294478,"Coral Gables, FL","Coral Gables, Florida",False,False
+693,33100,"Miami-Fort Lauderdale-Pompano Beach, FL",Metropolitan Statistical Area,Deerfield Beach,12.0,16725.0,FL,Florida,294478,"Deerfield Beach, FL","Deerfield Beach, Florida",False,False
+694,33100,"Miami-Fort Lauderdale-Pompano Beach, FL",Metropolitan Statistical Area,Delray Beach,12.0,17100.0,FL,Florida,294478,"Delray Beach, FL","Delray Beach, Florida",False,False
+695,33100,"Miami-Fort Lauderdale-Pompano Beach, FL",Metropolitan Statistical Area,Doral,12.0,17935.0,FL,Florida,294478,"Doral, FL","Doral, Florida",False,False
+696,33100,"Miami-Fort Lauderdale-Pompano Beach, FL",Metropolitan Statistical Area,Fort Lauderdale,12.0,24000.0,FL,Florida,294478,"Fort Lauderdale, FL","Fort Lauderdale, Florida",True,False
+697,33100,"Miami-Fort Lauderdale-Pompano Beach, FL",Metropolitan Statistical Area,Jupiter,12.0,35875.0,FL,Florida,294478,"Jupiter, FL","Jupiter, Florida",False,False
+698,33100,"Miami-Fort Lauderdale-Pompano Beach, FL",Metropolitan Statistical Area,Kendall,12.0,36100.0,FL,Florida,294478,"Kendall, FL","Kendall, Florida",False,False
+699,33100,"Miami-Fort Lauderdale-Pompano Beach, FL",Metropolitan Statistical Area,Miami,12.0,45000.0,FL,Florida,294478,"Miami, FL","Miami, Florida",True,False
+700,33100,"Miami-Fort Lauderdale-Pompano Beach, FL",Metropolitan Statistical Area,Miami Beach,12.0,45025.0,FL,Florida,294478,"Miami Beach, FL","Miami Beach, Florida",False,False
+701,33100,"Miami-Fort Lauderdale-Pompano Beach, FL",Metropolitan Statistical Area,Palm Beach Gardens,12.0,54075.0,FL,Florida,294478,"Palm Beach Gardens, FL","Palm Beach Gardens, Florida",False,False
+702,33100,"Miami-Fort Lauderdale-Pompano Beach, FL",Metropolitan Statistical Area,Pompano Beach,12.0,58050.0,FL,Florida,294478,"Pompano Beach, FL","Pompano Beach, Florida",False,False
+703,33100,"Miami-Fort Lauderdale-Pompano Beach, FL",Metropolitan Statistical Area,Sunrise,12.0,69700.0,FL,Florida,294478,"Sunrise, FL","Sunrise, Florida",False,False
+704,33100,"Miami-Fort Lauderdale-Pompano Beach, FL",Metropolitan Statistical Area,West Palm Beach,12.0,76600.0,FL,Florida,294478,"West Palm Beach, FL","West Palm Beach, Florida",False,False
+705,34940,"Naples-Marco Island, FL",Metropolitan Statistical Area,Marco Island,12.0,43083.0,FL,Florida,294478,"Marco Island, FL","Marco Island, Florida",False,True
+706,34940,"Naples-Marco Island, FL",Metropolitan Statistical Area,Naples,12.0,47625.0,FL,Florida,294478,"Naples, FL","Naples, Florida",False,True
+707,35840,"North Port-Sarasota-Bradenton, FL",Metropolitan Statistical Area,Bradenton,12.0,7950.0,FL,Florida,294478,"Bradenton, FL","Bradenton, Florida",False,True
+708,35840,"North Port-Sarasota-Bradenton, FL",Metropolitan Statistical Area,North Port,12.0,49675.0,FL,Florida,294478,"North Port, FL","North Port, Florida",False,True
+709,35840,"North Port-Sarasota-Bradenton, FL",Metropolitan Statistical Area,Sarasota,12.0,64175.0,FL,Florida,294478,"Sarasota, FL","Sarasota, Florida",False,True
+710,35840,"North Port-Sarasota-Bradenton, FL",Metropolitan Statistical Area,Venice,12.0,73900.0,FL,Florida,294478,"Venice, FL","Venice, Florida",False,False
+711,36100,"Ocala, FL",Metropolitan Statistical Area,Ocala,12.0,50750.0,FL,Florida,294478,"Ocala, FL","Ocala, Florida",False,False
+712,36380,"Okeechobee, FL",Micropolitan Statistical Area,Okeechobee,12.0,51200.0,FL,Florida,294478,"Okeechobee, FL","Okeechobee, Florida",False,False
+713,36740,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Kissimmee,12.0,36950.0,FL,Florida,294478,"Kissimmee, FL","Kissimmee, Florida",False,False
+714,36740,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Orlando,12.0,53000.0,FL,Florida,294478,"Orlando, FL","Orlando, Florida",False,False
+715,36740,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Sanford,12.0,63650.0,FL,Florida,294478,"Sanford, FL","Sanford, Florida",False,False
+716,37260,"Palatka, FL",Micropolitan Statistical Area,Palatka,12.0,53875.0,FL,Florida,294478,"Palatka, FL","Palatka, Florida",False,False
+717,37340,"Palm Bay-Melbourne-Titusville, FL",Metropolitan Statistical Area,Melbourne,12.0,43975.0,FL,Florida,294478,"Melbourne, FL","Melbourne, Florida",False,False
+718,37340,"Palm Bay-Melbourne-Titusville, FL",Metropolitan Statistical Area,Palm Bay,12.0,54000.0,FL,Florida,294478,"Palm Bay, FL","Palm Bay, Florida",False,False
+719,37340,"Palm Bay-Melbourne-Titusville, FL",Metropolitan Statistical Area,Titusville,12.0,71900.0,FL,Florida,294478,"Titusville, FL","Titusville, Florida",False,False
+720,37460,"Panama City, FL",Metropolitan Statistical Area,Panama City,12.0,54700.0,FL,Florida,294478,"Panama City, FL","Panama City, Florida",False,False
+721,37860,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Brent,12.0,8300.0,FL,Florida,294478,"Brent, FL","Brent, Florida",False,False
+722,37860,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Ferry Pass,12.0,22275.0,FL,Florida,294478,"Ferry Pass, FL","Ferry Pass, Florida",False,False
+723,37860,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Pensacola,12.0,55925.0,FL,Florida,294478,"Pensacola, FL","Pensacola, Florida",False,False
+724,38940,"Port St. Lucie, FL",Metropolitan Statistical Area,Port St. Lucie,12.0,58715.0,FL,Florida,294478,"Port St. Lucie, FL","Port St. Lucie, Florida",False,False
+725,39460,"Punta Gorda, FL",Metropolitan Statistical Area,Punta Gorda,12.0,59200.0,FL,Florida,294478,"Punta Gorda, FL","Punta Gorda, Florida",False,False
+726,42680,"Sebastian-Vero Beach, FL",Metropolitan Statistical Area,Sebastian,12.0,64825.0,FL,Florida,294478,"Sebastian, FL","Sebastian, Florida",False,False
+727,42680,"Sebastian-Vero Beach, FL",Metropolitan Statistical Area,Vero Beach,12.0,74150.0,FL,Florida,294478,"Vero Beach, FL","Vero Beach, Florida",False,False
+728,42700,"Sebring-Avon Park, FL",Metropolitan Statistical Area,Avon Park,12.0,2750.0,FL,Florida,294478,"Avon Park, FL","Avon Park, Florida",False,False
+729,42700,"Sebring-Avon Park, FL",Metropolitan Statistical Area,Sebring,12.0,64875.0,FL,Florida,294478,"Sebring, FL","Sebring, Florida",False,False
+730,45220,"Tallahassee, FL",Metropolitan Statistical Area,Tallahassee,12.0,70600.0,FL,Florida,294478,"Tallahassee, FL","Tallahassee, Florida",False,False
+731,45300,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Clearwater,12.0,12875.0,FL,Florida,294478,"Clearwater, FL","Clearwater, Florida",False,False
+732,45300,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Largo,12.0,39425.0,FL,Florida,294478,"Largo, FL","Largo, Florida",False,False
+733,45300,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Pinellas Park,12.0,56975.0,FL,Florida,294478,"Pinellas Park, FL","Pinellas Park, Florida",False,False
+734,45300,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,St. Petersburg,12.0,63000.0,FL,Florida,294478,"St. Petersburg, FL","St. Petersburg, Florida",False,False
+735,45300,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Tampa,12.0,71000.0,FL,Florida,294478,"Tampa, FL","Tampa, Florida",False,False
+736,45540,"The Villages, FL",Metropolitan Statistical Area,The Villages,12.0,71625.0,FL,Florida,294478,"The Villages, FL","The Villages, Florida",False,False
+737,48100,"Wauchula, FL",Micropolitan Statistical Area,Wauchula,12.0,75375.0,FL,Florida,294478,"Wauchula, FL","Wauchula, Florida",False,False
+738,11660,"Arkadelphia, AR",Micropolitan Statistical Area,Arkadelphia,5.0,1870.0,AR,Arkansas,68085,"Arkadelphia, AR","Arkadelphia, Arkansas",False,False
+739,12900,"Batesville, AR",Micropolitan Statistical Area,Batesville,5.0,4030.0,AR,Arkansas,68085,"Batesville, AR","Batesville, Arkansas",False,False
+740,14180,"Blytheville, AR",Micropolitan Statistical Area,Blytheville,5.0,7330.0,AR,Arkansas,68085,"Blytheville, AR","Blytheville, Arkansas",False,False
+741,15780,"Camden, AR",Micropolitan Statistical Area,Camden,5.0,10720.0,AR,Arkansas,68085,"Camden, AR","Camden, Arkansas",False,False
+742,20980,"El Dorado, AR",Micropolitan Statistical Area,El Dorado,5.0,21070.0,AR,Arkansas,68085,"El Dorado, AR","El Dorado, Arkansas",False,False
+743,22220,"Fayetteville-Springdale-Rogers, AR",Metropolitan Statistical Area,Bentonville,5.0,5320.0,AR,Arkansas,68085,"Bentonville, AR","Bentonville, Arkansas",False,False
+744,22220,"Fayetteville-Springdale-Rogers, AR",Metropolitan Statistical Area,Fayetteville,5.0,23290.0,AR,Arkansas,68085,"Fayetteville, AR","Fayetteville, Arkansas",False,False
+745,22220,"Fayetteville-Springdale-Rogers, AR",Metropolitan Statistical Area,Rogers,5.0,60410.0,AR,Arkansas,68085,"Rogers, AR","Rogers, Arkansas",False,False
+746,22220,"Fayetteville-Springdale-Rogers, AR",Metropolitan Statistical Area,Springdale,5.0,66080.0,AR,Arkansas,68085,"Springdale, AR","Springdale, Arkansas",False,False
+747,22620,"Forrest City, AR",Micropolitan Statistical Area,Forrest City,5.0,24430.0,AR,Arkansas,68085,"Forrest City, AR","Forrest City, Arkansas",False,False
+748,22900,"Fort Smith, AR-OK",Metropolitan Statistical Area,Fort Smith,5.0,24550.0,AR,Arkansas,68085,"Fort Smith, AR","Fort Smith, Arkansas",False,False
+749,25460,"Harrison, AR",Micropolitan Statistical Area,Harrison,5.0,30460.0,AR,Arkansas,68085,"Harrison, AR","Harrison, Arkansas",False,False
+750,25760,"Helena-West Helena, AR",Micropolitan Statistical Area,Helena-West Helena,5.0,31190.0,AR,Arkansas,68085,"Helena-West Helena, AR","Helena-West Helena, Arkansas",False,False
+751,26260,"Hope, AR",Micropolitan Statistical Area,Hope,5.0,33190.0,AR,Arkansas,68085,"Hope, AR","Hope, Arkansas",False,False
+752,26300,"Hot Springs, AR",Metropolitan Statistical Area,Hot Springs,5.0,33400.0,AR,Arkansas,68085,"Hot Springs, AR","Hot Springs, Arkansas",False,False
+753,27860,"Jonesboro, AR",Metropolitan Statistical Area,Jonesboro,5.0,35710.0,AR,Arkansas,68085,"Jonesboro, AR","Jonesboro, Arkansas",False,False
+754,30780,"Little Rock-North Little Rock-Conway, AR",Metropolitan Statistical Area,Conway,5.0,15190.0,AR,Arkansas,68085,"Conway, AR","Conway, Arkansas",False,False
+755,30780,"Little Rock-North Little Rock-Conway, AR",Metropolitan Statistical Area,Little Rock,5.0,41000.0,AR,Arkansas,68085,"Little Rock, AR","Little Rock, Arkansas",False,False
+756,30780,"Little Rock-North Little Rock-Conway, AR",Metropolitan Statistical Area,North Little Rock,5.0,50450.0,AR,Arkansas,68085,"North Little Rock, AR","North Little Rock, Arkansas",False,False
+757,31620,"Magnolia, AR",Micropolitan Statistical Area,Magnolia,5.0,43460.0,AR,Arkansas,68085,"Magnolia, AR","Magnolia, Arkansas",False,False
+758,31680,"Malvern, AR",Micropolitan Statistical Area,Malvern,5.0,43610.0,AR,Arkansas,68085,"Malvern, AR","Malvern, Arkansas",False,False
+759,34260,"Mountain Home, AR",Micropolitan Statistical Area,Mountain Home,5.0,47390.0,AR,Arkansas,68085,"Mountain Home, AR","Mountain Home, Arkansas",False,False
+760,37500,"Paragould, AR",Micropolitan Statistical Area,Paragould,5.0,53390.0,AR,Arkansas,68085,"Paragould, AR","Paragould, Arkansas",False,False
+761,38220,"Pine Bluff, AR",Metropolitan Statistical Area,Pine Bluff,5.0,55310.0,AR,Arkansas,68085,"Pine Bluff, AR","Pine Bluff, Arkansas",False,False
+762,40780,"Russellville, AR",Micropolitan Statistical Area,Russellville,5.0,61670.0,AR,Arkansas,68085,"Russellville, AR","Russellville, Arkansas",False,False
+763,42620,"Searcy, AR",Micropolitan Statistical Area,Searcy,5.0,63020.0,AR,Arkansas,68085,"Searcy, AR","Searcy, Arkansas",False,False
+764,11860,"Atchison, KS",Micropolitan Statistical Area,Atchison,20.0,2900.0,KS,Kansas,481813,"Atchison, KS","Atchison, Kansas",False,False
+765,17700,"Coffeyville, KS",Micropolitan Statistical Area,Coffeyville,20.0,14600.0,KS,Kansas,481813,"Coffeyville, KS","Coffeyville, Kansas",False,False
+766,19980,"Dodge City, KS",Micropolitan Statistical Area,Dodge City,20.0,18250.0,KS,Kansas,481813,"Dodge City, KS","Dodge City, Kansas",False,False
+767,21380,"Emporia, KS",Micropolitan Statistical Area,Emporia,20.0,21275.0,KS,Kansas,481813,"Emporia, KS","Emporia, Kansas",False,False
+768,23780,"Garden City, KS",Micropolitan Statistical Area,Garden City,20.0,25325.0,KS,Kansas,481813,"Garden City, KS","Garden City, Kansas",False,False
+769,24460,"Great Bend, KS",Micropolitan Statistical Area,Great Bend,20.0,28300.0,KS,Kansas,481813,"Great Bend, KS","Great Bend, Kansas",False,False
+770,25700,"Hays, KS",Micropolitan Statistical Area,Hays,20.0,31100.0,KS,Kansas,481813,"Hays, KS","Hays, Kansas",False,False
+771,26740,"Hutchinson, KS",Micropolitan Statistical Area,Hutchinson,20.0,33625.0,KS,Kansas,481813,"Hutchinson, KS","Hutchinson, Kansas",False,False
+772,28140,"Kansas City, MO-KS",Metropolitan Statistical Area,Kansas City,20.0,36000.0,KS,Kansas,481813,"Kansas City, KS","Kansas City, Kansas",False,False
+773,28140,"Kansas City, MO-KS",Metropolitan Statistical Area,Lenexa,20.0,39350.0,KS,Kansas,481813,"Lenexa, KS","Lenexa, Kansas",False,False
+774,28140,"Kansas City, MO-KS",Metropolitan Statistical Area,Overland Park,20.0,53775.0,KS,Kansas,481813,"Overland Park, KS","Overland Park, Kansas",False,False
+775,29940,"Lawrence, KS",Metropolitan Statistical Area,Lawrence,20.0,38900.0,KS,Kansas,481813,"Lawrence, KS","Lawrence, Kansas",False,False
+776,30580,"Liberal, KS",Micropolitan Statistical Area,Liberal,20.0,39825.0,KS,Kansas,481813,"Liberal, KS","Liberal, Kansas",False,False
+777,31740,"Manhattan, KS",Metropolitan Statistical Area,Manhattan,20.0,44250.0,KS,Kansas,481813,"Manhattan, KS","Manhattan, Kansas",False,False
+778,32700,"McPherson, KS",Micropolitan Statistical Area,McPherson,20.0,43950.0,KS,Kansas,481813,"McPherson, KS","McPherson, Kansas",False,False
+779,36840,"Ottawa, KS",Micropolitan Statistical Area,Ottawa,20.0,53550.0,KS,Kansas,481813,"Ottawa, KS","Ottawa, Kansas",False,False
+780,37660,"Parsons, KS",Micropolitan Statistical Area,Parsons,20.0,54675.0,KS,Kansas,481813,"Parsons, KS","Parsons, Kansas",False,False
+781,38260,"Pittsburg, KS",Micropolitan Statistical Area,Pittsburg,20.0,56025.0,KS,Kansas,481813,"Pittsburg, KS","Pittsburg, Kansas",False,False
+782,41460,"Salina, KS",Micropolitan Statistical Area,Salina,20.0,62700.0,KS,Kansas,481813,"Salina, KS","Salina, Kansas",False,False
+783,45820,"Topeka, KS",Metropolitan Statistical Area,Topeka,20.0,71000.0,KS,Kansas,481813,"Topeka, KS","Topeka, Kansas",False,False
+784,48620,"Wichita, KS",Metropolitan Statistical Area,Wichita,20.0,79000.0,KS,Kansas,481813,"Wichita, KS","Wichita, Kansas",False,False
+785,49060,"Winfield, KS",Micropolitan Statistical Area,Winfield,20.0,79950.0,KS,Kansas,481813,"Winfield, KS","Winfield, Kansas",False,False
+786,11940,"Athens, TN",Micropolitan Statistical Area,Athens,47.0,2320.0,TN,Tennessee,1325873,"Athens, TN","Athens, Tennessee",False,False
+787,15140,"Brownsville, TN",Micropolitan Statistical Area,Brownsville,47.0,8920.0,TN,Tennessee,1325873,"Brownsville, TN","Brownsville, Tennessee",False,False
+788,16860,"Chattanooga, TN-GA",Metropolitan Statistical Area,Chattanooga,47.0,14000.0,TN,Tennessee,1325873,"Chattanooga, TN","Chattanooga, Tennessee",True,False
+789,17300,"Clarksville, TN-KY",Metropolitan Statistical Area,Clarksville,47.0,15160.0,TN,Tennessee,1325873,"Clarksville, TN","Clarksville, Tennessee",False,False
+790,17420,"Cleveland, TN",Metropolitan Statistical Area,Cleveland,47.0,15400.0,TN,Tennessee,1325873,"Cleveland, TN","Cleveland, Tennessee",False,False
+791,18260,"Cookeville, TN",Micropolitan Statistical Area,Cookeville,47.0,16920.0,TN,Tennessee,1325873,"Cookeville, TN","Cookeville, Tennessee",False,False
+792,18900,"Crossville, TN",Micropolitan Statistical Area,Crossville,47.0,18540.0,TN,Tennessee,1325873,"Crossville, TN","Crossville, Tennessee",False,False
+793,19420,"Dayton, TN",Micropolitan Statistical Area,Dayton,47.0,19700.0,TN,Tennessee,1325873,"Dayton, TN","Dayton, Tennessee",False,False
+794,20540,"Dyersburg, TN",Micropolitan Statistical Area,Dyersburg,47.0,22200.0,TN,Tennessee,1325873,"Dyersburg, TN","Dyersburg, Tennessee",False,False
+795,24620,"Greeneville, TN",Micropolitan Statistical Area,Greeneville,47.0,30980.0,TN,Tennessee,1325873,"Greeneville, TN","Greeneville, Tennessee",False,False
+796,27180,"Jackson, TN",Metropolitan Statistical Area,Jackson,47.0,37640.0,TN,Tennessee,1325873,"Jackson, TN","Jackson, Tennessee",False,False
+797,27740,"Johnson City, TN",Metropolitan Statistical Area,Johnson City,47.0,38320.0,TN,Tennessee,1325873,"Johnson City, TN","Johnson City, Tennessee",False,False
+798,28700,"Kingsport-Bristol, TN-VA",Metropolitan Statistical Area,Bristol,47.0,8540.0,TN,Tennessee,1325873,"Bristol, TN","Bristol, Tennessee",False,False
+799,28700,"Kingsport-Bristol, TN-VA",Metropolitan Statistical Area,Kingsport,47.0,39560.0,TN,Tennessee,1325873,"Kingsport, TN","Kingsport, Tennessee",False,False
+800,28940,"Knoxville, TN",Metropolitan Statistical Area,Knoxville,47.0,40000.0,TN,Tennessee,1325873,"Knoxville, TN","Knoxville, Tennessee",False,False
+801,29980,"Lawrenceburg, TN",Micropolitan Statistical Area,Lawrenceburg,47.0,41340.0,TN,Tennessee,1325873,"Lawrenceburg, TN","Lawrenceburg, Tennessee",False,False
+802,30280,"Lewisburg, TN",Micropolitan Statistical Area,Lewisburg,47.0,41860.0,TN,Tennessee,1325873,"Lewisburg, TN","Lewisburg, Tennessee",False,False
+803,32280,"Martin, TN",Micropolitan Statistical Area,Martin,47.0,46240.0,TN,Tennessee,1325873,"Martin, TN","Martin, Tennessee",False,False
+804,32660,"McMinnville, TN",Micropolitan Statistical Area,McMinnville,47.0,45100.0,TN,Tennessee,1325873,"McMinnville, TN","McMinnville, Tennessee",False,False
+805,32820,"Memphis, TN-MS-AR",Metropolitan Statistical Area,Memphis,47.0,48000.0,TN,Tennessee,1325873,"Memphis, TN","Memphis, Tennessee",True,False
+806,34100,"Morristown, TN",Metropolitan Statistical Area,Morristown,47.0,50280.0,TN,Tennessee,1325873,"Morristown, TN","Morristown, Tennessee",False,False
+807,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metropolitan Statistical Area,Franklin,47.0,27740.0,TN,Tennessee,1325873,"Franklin, TN","Franklin, Tennessee",False,False
+808,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metropolitan Statistical Area,Murfreesboro,47.0,51560.0,TN,Tennessee,1325873,"Murfreesboro, TN","Murfreesboro, Tennessee",False,False
+809,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metropolitan Statistical Area,Nashville-Davidson metropolitan government (balance),47.0,52006.0,TN,Tennessee,1325873,"Nashville-Davidson metropolitan government (balance), TN","Nashville-Davidson metropolitan government (balance), Tennessee",False,False
+810,35460,"Newport, TN",Micropolitan Statistical Area,Newport,47.0,53000.0,TN,Tennessee,1325873,"Newport, TN","Newport, Tennessee",False,False
+811,37540,"Paris, TN",Micropolitan Statistical Area,Paris,47.0,56720.0,TN,Tennessee,1325873,"Paris, TN","Paris, Tennessee",False,False
+812,42940,"Sevierville, TN",Micropolitan Statistical Area,Sevierville,47.0,67120.0,TN,Tennessee,1325873,"Sevierville, TN","Sevierville, Tennessee",False,False
+813,43180,"Shelbyville, TN",Micropolitan Statistical Area,Shelbyville,47.0,67760.0,TN,Tennessee,1325873,"Shelbyville, TN","Shelbyville, Tennessee",False,False
+814,46100,"Tullahoma-Manchester, TN",Micropolitan Statistical Area,Manchester,47.0,45500.0,TN,Tennessee,1325873,"Manchester, TN","Manchester, Tennessee",False,False
+815,46100,"Tullahoma-Manchester, TN",Micropolitan Statistical Area,Tullahoma,47.0,75320.0,TN,Tennessee,1325873,"Tullahoma, TN","Tullahoma, Tennessee",False,False
+816,46460,"Union City, TN",Micropolitan Statistical Area,Union City,47.0,75940.0,TN,Tennessee,1325873,"Union City, TN","Union City, Tennessee",False,False
+817,12100,"Atlantic City-Hammonton, NJ",Metropolitan Statistical Area,Atlantic City,34.0,2080.0,NJ,New Jersey,1779795,"Atlantic City, NJ","Atlantic City, New Jersey",False,False
+818,12100,"Atlantic City-Hammonton, NJ",Metropolitan Statistical Area,Hammonton,34.0,29430.0,NJ,New Jersey,1779795,"Hammonton, NJ","Hammonton, New Jersey",False,False
+819,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,Jersey City,34.0,36000.0,NJ,New Jersey,1779795,"Jersey City, NJ","Jersey City, New Jersey",False,False
+820,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,Lakewood,34.0,38580.0,NJ,New Jersey,1779795,"Lakewood, NJ","Lakewood, New Jersey",False,False
+821,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,Newark,34.0,51000.0,NJ,New Jersey,1779795,"Newark, NJ","Newark, New Jersey",True,False
+822,35620,"New York-Newark-Jersey City, NY-NJ-PA",Metropolitan Statistical Area,New Brunswick,34.0,51210.0,NJ,New Jersey,1779795,"New Brunswick, NJ","New Brunswick, New Jersey",False,False
+823,36140,"Ocean City, NJ",Metropolitan Statistical Area,Ocean City,34.0,54360.0,NJ,New Jersey,1779795,"Ocean City, NJ","Ocean City, New Jersey",False,False
+824,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Camden,34.0,10000.0,NJ,New Jersey,1779795,"Camden, NJ","Camden, New Jersey",False,False
+825,45940,"Trenton-Princeton, NJ",Metropolitan Statistical Area,Princeton,34.0,60900.0,NJ,New Jersey,1779795,"Princeton, NJ","Princeton, New Jersey",False,False
+826,45940,"Trenton-Princeton, NJ",Metropolitan Statistical Area,Trenton,34.0,74000.0,NJ,New Jersey,1779795,"Trenton, NJ","Trenton, New Jersey",False,False
+827,47220,"Vineland-Bridgeton, NJ",Metropolitan Statistical Area,Bridgeton,34.0,7600.0,NJ,New Jersey,1779795,"Bridgeton, NJ","Bridgeton, New Jersey",False,False
+828,47220,"Vineland-Bridgeton, NJ",Metropolitan Statistical Area,Vineland,34.0,76070.0,NJ,New Jersey,1779795,"Vineland, NJ","Vineland, New Jersey",False,False
+829,12300,"Augusta-Waterville, ME",Micropolitan Statistical Area,Augusta,23.0,2100.0,ME,Maine,1779787,"Augusta, ME","Augusta, Maine",False,False
+830,12300,"Augusta-Waterville, ME",Micropolitan Statistical Area,Waterville,23.0,80740.0,ME,Maine,1779787,"Waterville, ME","Waterville, Maine",False,False
+831,12620,"Bangor, ME",Metropolitan Statistical Area,Bangor,23.0,2795.0,ME,Maine,1779787,"Bangor, ME","Bangor, Maine",False,False
+832,30340,"Lewiston-Auburn, ME",Metropolitan Statistical Area,Auburn,23.0,2060.0,ME,Maine,1779787,"Auburn, ME","Auburn, Maine",False,False
+833,30340,"Lewiston-Auburn, ME",Metropolitan Statistical Area,Lewiston,23.0,38740.0,ME,Maine,1779787,"Lewiston, ME","Lewiston, Maine",False,False
+834,38860,"Portland-South Portland, ME",Metropolitan Statistical Area,Portland,23.0,60545.0,ME,Maine,1779787,"Portland, ME","Portland, Maine",False,True
+835,38860,"Portland-South Portland, ME",Metropolitan Statistical Area,South Portland,23.0,71990.0,ME,Maine,1779787,"South Portland, ME","South Portland, Maine",False,False
+836,12540,"Bakersfield, CA",Metropolitan Statistical Area,Bakersfield,6.0,3526.0,CA,California,1779778,"Bakersfield, CA","Bakersfield, California",False,False
+837,17020,"Chico, CA",Metropolitan Statistical Area,Chico,6.0,13014.0,CA,California,1779778,"Chico, CA","Chico, California",False,False
+838,17340,"Clearlake, CA",Micropolitan Statistical Area,Clearlake,6.0,13945.0,CA,California,1779778,"Clearlake, CA","Clearlake, California",False,False
+839,18860,"Crescent City, CA",Micropolitan Statistical Area,Crescent City,6.0,17022.0,CA,California,1779778,"Crescent City, CA","Crescent City, California",False,False
+840,20940,"El Centro, CA",Metropolitan Statistical Area,El Centro,6.0,21782.0,CA,California,1779778,"El Centro, CA","El Centro, California",False,False
+841,21700,"Eureka-Arcata, CA",Micropolitan Statistical Area,Arcata,6.0,2476.0,CA,California,1779778,"Arcata, CA","Arcata, California",False,False
+842,21700,"Eureka-Arcata, CA",Micropolitan Statistical Area,Eureka,6.0,23042.0,CA,California,1779778,"Eureka, CA","Eureka, California",False,False
+843,23420,"Fresno, CA",Metropolitan Statistical Area,Fresno,6.0,27000.0,CA,California,1779778,"Fresno, CA","Fresno, California",True,False
+844,25260,"Hanford-Corcoran, CA",Metropolitan Statistical Area,Corcoran,6.0,16224.0,CA,California,1779778,"Corcoran, CA","Corcoran, California",False,False
+845,25260,"Hanford-Corcoran, CA",Metropolitan Statistical Area,Hanford,6.0,31960.0,CA,California,1779778,"Hanford, CA","Hanford, California",False,False
+846,31080,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan Statistical Area,Anaheim,6.0,2000.0,CA,California,1779778,"Anaheim, CA","Anaheim, California",False,False
+847,31080,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan Statistical Area,Arcadia,6.0,2462.0,CA,California,1779778,"Arcadia, CA","Arcadia, California",False,False
+848,31080,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan Statistical Area,Burbank,6.0,8954.0,CA,California,1779778,"Burbank, CA","Burbank, California",False,False
+849,31080,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan Statistical Area,Carson,6.0,11530.0,CA,California,1779778,"Carson, CA","Carson, California",False,False
+850,31080,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan Statistical Area,Costa Mesa,6.0,16532.0,CA,California,1779778,"Costa Mesa, CA","Costa Mesa, California",False,False
+851,31080,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan Statistical Area,Fountain Valley,6.0,25380.0,CA,California,1779778,"Fountain Valley, CA","Fountain Valley, California",False,False
+852,31080,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan Statistical Area,Gardena,6.0,28168.0,CA,California,1779778,"Gardena, CA","Gardena, California",False,False
+853,31080,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan Statistical Area,Glendale,6.0,30000.0,CA,California,1779778,"Glendale, CA","Glendale, California",False,False
+854,31080,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan Statistical Area,Irvine,6.0,36770.0,CA,California,1779778,"Irvine, CA","Irvine, California",False,False
+855,31080,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan Statistical Area,Long Beach,6.0,43000.0,CA,California,1779778,"Long Beach, CA","Long Beach, California",False,False
+856,31080,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan Statistical Area,Los Angeles,6.0,44000.0,CA,California,1779778,"Los Angeles, CA","Los Angeles, California",False,False
+857,31080,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan Statistical Area,Newport Beach,6.0,51182.0,CA,California,1779778,"Newport Beach, CA","Newport Beach, California",False,False
+858,31080,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan Statistical Area,Orange,6.0,53980.0,CA,California,1779778,"Orange, CA","Orange, California",False,False
+859,31080,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan Statistical Area,Pasadena,6.0,56000.0,CA,California,1779778,"Pasadena, CA","Pasadena, California",False,False
+860,31080,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan Statistical Area,Santa Ana,6.0,69000.0,CA,California,1779778,"Santa Ana, CA","Santa Ana, California",False,False
+861,31080,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan Statistical Area,Santa Monica,6.0,70000.0,CA,California,1779778,"Santa Monica, CA","Santa Monica, California",False,False
+862,31080,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan Statistical Area,Torrance,6.0,80000.0,CA,California,1779778,"Torrance, CA","Torrance, California",False,False
+863,31080,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan Statistical Area,Tustin,6.0,80854.0,CA,California,1779778,"Tustin, CA","Tustin, California",False,False
+864,31460,"Madera, CA",Metropolitan Statistical Area,Madera,6.0,45022.0,CA,California,1779778,"Madera, CA","Madera, California",False,False
+865,32900,"Merced, CA",Metropolitan Statistical Area,Merced,6.0,46898.0,CA,California,1779778,"Merced, CA","Merced, California",False,False
+866,33700,"Modesto, CA",Metropolitan Statistical Area,Modesto,6.0,48354.0,CA,California,1779778,"Modesto, CA","Modesto, California",True,False
+867,34900,"Napa, CA",Metropolitan Statistical Area,Napa,6.0,50258.0,CA,California,1779778,"Napa, CA","Napa, California",False,False
+868,37100,"Oxnard-Thousand Oaks-Ventura, CA",Metropolitan Statistical Area,Camarillo,6.0,10046.0,CA,California,1779778,"Camarillo, CA","Camarillo, California",False,False
+869,37100,"Oxnard-Thousand Oaks-Ventura, CA",Metropolitan Statistical Area,Oxnard,6.0,54652.0,CA,California,1779778,"Oxnard, CA","Oxnard, California",False,True
+870,37100,"Oxnard-Thousand Oaks-Ventura, CA",Metropolitan Statistical Area,San Buenaventura (Ventura),6.0,65042.0,CA,California,1779778,"San Buenaventura (Ventura), CA","San Buenaventura (Ventura), California",False,False
+871,37100,"Oxnard-Thousand Oaks-Ventura, CA",Metropolitan Statistical Area,Thousand Oaks,6.0,78582.0,CA,California,1779778,"Thousand Oaks, CA","Thousand Oaks, California",False,True
+872,39780,"Red Bluff, CA",Micropolitan Statistical Area,Red Bluff,6.0,59892.0,CA,California,1779778,"Red Bluff, CA","Red Bluff, California",False,False
+873,39820,"Redding, CA",Metropolitan Statistical Area,Redding,6.0,59920.0,CA,California,1779778,"Redding, CA","Redding, California",False,False
+874,40140,"Riverside-San Bernardino-Ontario, CA",Metropolitan Statistical Area,Chino,6.0,13210.0,CA,California,1779778,"Chino, CA","Chino, California",False,False
+875,40140,"Riverside-San Bernardino-Ontario, CA",Metropolitan Statistical Area,Corona,6.0,16350.0,CA,California,1779778,"Corona, CA","Corona, California",False,False
+876,40140,"Riverside-San Bernardino-Ontario, CA",Metropolitan Statistical Area,Ontario,6.0,53896.0,CA,California,1779778,"Ontario, CA","Ontario, California",False,False
+877,40140,"Riverside-San Bernardino-Ontario, CA",Metropolitan Statistical Area,Palm Desert,6.0,55184.0,CA,California,1779778,"Palm Desert, CA","Palm Desert, California",False,False
+878,40140,"Riverside-San Bernardino-Ontario, CA",Metropolitan Statistical Area,Redlands,6.0,59962.0,CA,California,1779778,"Redlands, CA","Redlands, California",False,False
+879,40140,"Riverside-San Bernardino-Ontario, CA",Metropolitan Statistical Area,Riverside,6.0,62000.0,CA,California,1779778,"Riverside, CA","Riverside, California",False,False
+880,40140,"Riverside-San Bernardino-Ontario, CA",Metropolitan Statistical Area,San Bernardino,6.0,65000.0,CA,California,1779778,"San Bernardino, CA","San Bernardino, California",False,False
+881,40140,"Riverside-San Bernardino-Ontario, CA",Metropolitan Statistical Area,Temecula,6.0,78120.0,CA,California,1779778,"Temecula, CA","Temecula, California",False,False
+882,40900,"Sacramento-Roseville-Folsom, CA",Metropolitan Statistical Area,Folsom,6.0,24638.0,CA,California,1779778,"Folsom, CA","Folsom, California",False,False
+883,40900,"Sacramento-Roseville-Folsom, CA",Metropolitan Statistical Area,Rancho Cordova,6.0,59444.0,CA,California,1779778,"Rancho Cordova, CA","Rancho Cordova, California",False,False
+884,40900,"Sacramento-Roseville-Folsom, CA",Metropolitan Statistical Area,Roseville,6.0,62938.0,CA,California,1779778,"Roseville, CA","Roseville, California",False,False
+885,40900,"Sacramento-Roseville-Folsom, CA",Metropolitan Statistical Area,Sacramento,6.0,64000.0,CA,California,1779778,"Sacramento, CA","Sacramento, California",False,False
+886,40900,"Sacramento-Roseville-Folsom, CA",Metropolitan Statistical Area,West Sacramento,6.0,84816.0,CA,California,1779778,"West Sacramento, CA","West Sacramento, California",False,False
+887,41500,"Salinas, CA",Metropolitan Statistical Area,Salinas,6.0,64224.0,CA,California,1779778,"Salinas, CA","Salinas, California",False,False
+888,41740,"San Diego-Chula Vista-Carlsbad, CA",Metropolitan Statistical Area,Carlsbad,6.0,11194.0,CA,California,1779778,"Carlsbad, CA","Carlsbad, California",False,True
+889,41740,"San Diego-Chula Vista-Carlsbad, CA",Metropolitan Statistical Area,Chula Vista,6.0,13392.0,CA,California,1779778,"Chula Vista, CA","Chula Vista, California",False,False
+890,41740,"San Diego-Chula Vista-Carlsbad, CA",Metropolitan Statistical Area,Poway,6.0,58520.0,CA,California,1779778,"Poway, CA","Poway, California",False,False
+891,41740,"San Diego-Chula Vista-Carlsbad, CA",Metropolitan Statistical Area,San Diego,6.0,66000.0,CA,California,1779778,"San Diego, CA","San Diego, California",False,True
+892,41860,"San Francisco-Oakland-Berkeley, CA",Metropolitan Statistical Area,Berkeley,6.0,6000.0,CA,California,1779778,"Berkeley, CA","Berkeley, California",False,False
+893,41860,"San Francisco-Oakland-Berkeley, CA",Metropolitan Statistical Area,Livermore,6.0,41992.0,CA,California,1779778,"Livermore, CA","Livermore, California",False,False
+894,41860,"San Francisco-Oakland-Berkeley, CA",Metropolitan Statistical Area,Oakland,6.0,53000.0,CA,California,1779778,"Oakland, CA","Oakland, California",False,True
+895,41860,"San Francisco-Oakland-Berkeley, CA",Metropolitan Statistical Area,Pleasanton,6.0,57792.0,CA,California,1779778,"Pleasanton, CA","Pleasanton, California",False,False
+896,41860,"San Francisco-Oakland-Berkeley, CA",Metropolitan Statistical Area,Redwood City,6.0,60102.0,CA,California,1779778,"Redwood City, CA","Redwood City, California",False,False
+897,41860,"San Francisco-Oakland-Berkeley, CA",Metropolitan Statistical Area,San Francisco,6.0,67000.0,CA,California,1779778,"San Francisco, CA","San Francisco, California",False,True
+898,41860,"San Francisco-Oakland-Berkeley, CA",Metropolitan Statistical Area,San Mateo,6.0,68252.0,CA,California,1779778,"San Mateo, CA","San Mateo, California",False,False
+899,41860,"San Francisco-Oakland-Berkeley, CA",Metropolitan Statistical Area,San Rafael,6.0,68364.0,CA,California,1779778,"San Rafael, CA","San Rafael, California",False,False
+900,41860,"San Francisco-Oakland-Berkeley, CA",Metropolitan Statistical Area,San Ramon,6.0,68378.0,CA,California,1779778,"San Ramon, CA","San Ramon, California",False,False
+901,41860,"San Francisco-Oakland-Berkeley, CA",Metropolitan Statistical Area,South San Francisco,6.0,73262.0,CA,California,1779778,"South San Francisco, CA","South San Francisco, California",False,False
+902,41860,"San Francisco-Oakland-Berkeley, CA",Metropolitan Statistical Area,Walnut Creek,6.0,83346.0,CA,California,1779778,"Walnut Creek, CA","Walnut Creek, California",False,False
+903,41940,"San Jose-Sunnyvale-Santa Clara, CA",Metropolitan Statistical Area,Cupertino,6.0,17610.0,CA,California,1779778,"Cupertino, CA","Cupertino, California",False,False
+904,41940,"San Jose-Sunnyvale-Santa Clara, CA",Metropolitan Statistical Area,Milpitas,6.0,47766.0,CA,California,1779778,"Milpitas, CA","Milpitas, California",False,False
+905,41940,"San Jose-Sunnyvale-Santa Clara, CA",Metropolitan Statistical Area,Mountain View,6.0,49670.0,CA,California,1779778,"Mountain View, CA","Mountain View, California",False,False
+906,41940,"San Jose-Sunnyvale-Santa Clara, CA",Metropolitan Statistical Area,Palo Alto,6.0,55282.0,CA,California,1779778,"Palo Alto, CA","Palo Alto, California",False,False
+907,41940,"San Jose-Sunnyvale-Santa Clara, CA",Metropolitan Statistical Area,San Jose,6.0,68000.0,CA,California,1779778,"San Jose, CA","San Jose, California",False,True
+908,41940,"San Jose-Sunnyvale-Santa Clara, CA",Metropolitan Statistical Area,Santa Clara,6.0,69084.0,CA,California,1779778,"Santa Clara, CA","Santa Clara, California",False,False
+909,41940,"San Jose-Sunnyvale-Santa Clara, CA",Metropolitan Statistical Area,Sunnyvale,6.0,77000.0,CA,California,1779778,"Sunnyvale, CA","Sunnyvale, California",False,False
+910,42020,"San Luis Obispo-Paso Robles, CA",Metropolitan Statistical Area,El Paso de Robles (Paso Robles),6.0,22300.0,CA,California,1779778,"El Paso de Robles (Paso Robles), CA","El Paso de Robles (Paso Robles), California",False,False
+911,42020,"San Luis Obispo-Paso Robles, CA",Metropolitan Statistical Area,San Luis Obispo,6.0,68154.0,CA,California,1779778,"San Luis Obispo, CA","San Luis Obispo, California",False,True
+912,42100,"Santa Cruz-Watsonville, CA",Metropolitan Statistical Area,Santa Cruz,6.0,69112.0,CA,California,1779778,"Santa Cruz, CA","Santa Cruz, California",False,True
+913,42100,"Santa Cruz-Watsonville, CA",Metropolitan Statistical Area,Watsonville,6.0,83668.0,CA,California,1779778,"Watsonville, CA","Watsonville, California",False,True
+914,42200,"Santa Maria-Santa Barbara, CA",Metropolitan Statistical Area,Santa Barbara,6.0,69070.0,CA,California,1779778,"Santa Barbara, CA","Santa Barbara, California",False,True
+915,42200,"Santa Maria-Santa Barbara, CA",Metropolitan Statistical Area,Santa Maria,6.0,69196.0,CA,California,1779778,"Santa Maria, CA","Santa Maria, California",False,True
+916,42220,"Santa Rosa-Petaluma, CA",Metropolitan Statistical Area,Petaluma,6.0,56784.0,CA,California,1779778,"Petaluma, CA","Petaluma, California",False,False
+917,42220,"Santa Rosa-Petaluma, CA",Metropolitan Statistical Area,Santa Rosa,6.0,70098.0,CA,California,1779778,"Santa Rosa, CA","Santa Rosa, California",False,False
+918,43760,"Sonora, CA",Micropolitan Statistical Area,Sonora,6.0,72674.0,CA,California,1779778,"Sonora, CA","Sonora, California",False,False
+919,44700,"Stockton, CA",Metropolitan Statistical Area,Stockton,6.0,75000.0,CA,California,1779778,"Stockton, CA","Stockton, California",False,False
+920,45000,"Susanville, CA",Micropolitan Statistical Area,Susanville,6.0,77364.0,CA,California,1779778,"Susanville, CA","Susanville, California",False,False
+921,46020,"Truckee-Grass Valley, CA",Micropolitan Statistical Area,Grass Valley,6.0,30798.0,CA,California,1779778,"Grass Valley, CA","Grass Valley, California",False,False
+922,46020,"Truckee-Grass Valley, CA",Micropolitan Statistical Area,Truckee,6.0,80588.0,CA,California,1779778,"Truckee, CA","Truckee, California",False,False
+923,46380,"Ukiah, CA",Micropolitan Statistical Area,Ukiah,6.0,81134.0,CA,California,1779778,"Ukiah, CA","Ukiah, California",False,False
+924,46700,"Vallejo, CA",Metropolitan Statistical Area,Vallejo,6.0,81666.0,CA,California,1779778,"Vallejo, CA","Vallejo, California",False,False
+925,47300,"Visalia, CA",Metropolitan Statistical Area,Visalia,6.0,82954.0,CA,California,1779778,"Visalia, CA","Visalia, California",False,False
+926,49700,"Yuba City, CA",Metropolitan Statistical Area,Yuba City,6.0,86972.0,CA,California,1779778,"Yuba City, CA","Yuba City, California",False,False
+927,12580,"Baltimore-Columbia-Towson, MD",Metropolitan Statistical Area,Baltimore,24.0,4000.0,MD,Maryland,1714934,"Baltimore, MD","Baltimore, Maryland",False,False
+928,12580,"Baltimore-Columbia-Towson, MD",Metropolitan Statistical Area,Columbia,24.0,19125.0,MD,Maryland,1714934,"Columbia, MD","Columbia, Maryland",False,False
+929,12580,"Baltimore-Columbia-Towson, MD",Metropolitan Statistical Area,Towson,24.0,78425.0,MD,Maryland,1714934,"Towson, MD","Towson, Maryland",False,False
+930,15680,"California-Lexington Park, MD",Metropolitan Statistical Area,California,24.0,12150.0,MD,Maryland,1714934,"California, MD","California, Maryland",False,False
+931,15680,"California-Lexington Park, MD",Metropolitan Statistical Area,Lexington Park,24.0,46725.0,MD,Maryland,1714934,"Lexington Park, MD","Lexington Park, Maryland",False,False
+932,15700,"Cambridge, MD",Micropolitan Statistical Area,Cambridge,24.0,12400.0,MD,Maryland,1714934,"Cambridge, MD","Cambridge, Maryland",False,False
+933,19060,"Cumberland, MD-WV",Metropolitan Statistical Area,Cumberland,24.0,21325.0,MD,Maryland,1714934,"Cumberland, MD","Cumberland, Maryland",False,False
+934,20660,"Easton, MD",Micropolitan Statistical Area,Easton,24.0,24475.0,MD,Maryland,1714934,"Easton, MD","Easton, Maryland",False,False
+935,25180,"Hagerstown-Martinsburg, MD-WV",Metropolitan Statistical Area,Hagerstown,24.0,36075.0,MD,Maryland,1714934,"Hagerstown, MD","Hagerstown, Maryland",False,False
+936,41540,"Salisbury, MD-DE",Metropolitan Statistical Area,Salisbury,24.0,69925.0,MD,Maryland,1714934,"Salisbury, MD","Salisbury, Maryland",False,False
+937,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Bethesda,24.0,7125.0,MD,Maryland,1714934,"Bethesda, MD","Bethesda, Maryland",False,False
+938,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Frederick,24.0,30325.0,MD,Maryland,1714934,"Frederick, MD","Frederick, Maryland",False,False
+939,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Gaithersburg,24.0,31175.0,MD,Maryland,1714934,"Gaithersburg, MD","Gaithersburg, Maryland",False,False
+940,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Rockville,24.0,67675.0,MD,Maryland,1714934,"Rockville, MD","Rockville, Maryland",False,False
+941,12680,"Bardstown, KY",Micropolitan Statistical Area,Bardstown,21.0,3628.0,KY,Kentucky,1779786,"Bardstown, KY","Bardstown, Kentucky",False,False
+942,14540,"Bowling Green, KY",Metropolitan Statistical Area,Bowling Green,21.0,8902.0,KY,Kentucky,1779786,"Bowling Green, KY","Bowling Green, Kentucky",False,False
+943,15820,"Campbellsville, KY",Micropolitan Statistical Area,Campbellsville,21.0,12160.0,KY,Kentucky,1779786,"Campbellsville, KY","Campbellsville, Kentucky",False,False
+944,16420,"Central City, KY",Micropolitan Statistical Area,Central City,21.0,13978.0,KY,Kentucky,1779786,"Central City, KY","Central City, Kentucky",False,False
+945,19220,"Danville, KY",Micropolitan Statistical Area,Danville,21.0,19882.0,KY,Kentucky,1779786,"Danville, KY","Danville, Kentucky",False,False
+946,21060,"Elizabethtown-Fort Knox, KY",Metropolitan Statistical Area,Elizabethtown,21.0,24274.0,KY,Kentucky,1779786,"Elizabethtown, KY","Elizabethtown, Kentucky",False,False
+947,21060,"Elizabethtown-Fort Knox, KY",Metropolitan Statistical Area,Fort Knox,21.0,28540.0,KY,Kentucky,1779786,"Fort Knox, KY","Fort Knox, Kentucky",False,False
+948,23180,"Frankfort, KY",Micropolitan Statistical Area,Frankfort,21.0,28900.0,KY,Kentucky,1779786,"Frankfort, KY","Frankfort, Kentucky",False,False
+949,23980,"Glasgow, KY",Micropolitan Statistical Area,Glasgow,21.0,31114.0,KY,Kentucky,1779786,"Glasgow, KY","Glasgow, Kentucky",False,False
+950,26580,"Huntington-Ashland, WV-KY-OH",Metropolitan Statistical Area,Ashland,21.0,2368.0,KY,Kentucky,1779786,"Ashland, KY","Ashland, Kentucky",False,False
+951,30460,"Lexington-Fayette, KY",Metropolitan Statistical Area,Lexington-Fayette,21.0,46027.0,KY,Kentucky,1779786,"Lexington-Fayette, KY","Lexington-Fayette, Kentucky",False,False
+952,30940,"London, KY",Micropolitan Statistical Area,London,21.0,47476.0,KY,Kentucky,1779786,"London, KY","London, Kentucky",False,False
+953,31140,"Louisville/Jefferson County, KY-IN",Metropolitan Statistical Area,Louisville/Jefferson County metro government (balance),21.0,48006.0,KY,Kentucky,1779786,"Louisville/Jefferson County metro government (balance), KY","Louisville/Jefferson County metro government (balance), Kentucky",False,False
+954,31580,"Madisonville, KY",Micropolitan Statistical Area,Madisonville,21.0,49368.0,KY,Kentucky,1779786,"Madisonville, KY","Madisonville, Kentucky",False,False
+955,32460,"Mayfield, KY",Micropolitan Statistical Area,Mayfield,21.0,50898.0,KY,Kentucky,1779786,"Mayfield, KY","Mayfield, Kentucky",False,False
+956,32500,"Maysville, KY",Micropolitan Statistical Area,Maysville,21.0,51024.0,KY,Kentucky,1779786,"Maysville, KY","Maysville, Kentucky",False,False
+957,33180,"Middlesborough, KY",Micropolitan Statistical Area,Middlesborough,21.0,51924.0,KY,Kentucky,1779786,"Middlesborough, KY","Middlesborough, Kentucky",False,False
+958,34460,"Mount Sterling, KY",Micropolitan Statistical Area,Mount Sterling,21.0,54084.0,KY,Kentucky,1779786,"Mount Sterling, KY","Mount Sterling, Kentucky",False,False
+959,34660,"Murray, KY",Micropolitan Statistical Area,Murray,21.0,54642.0,KY,Kentucky,1779786,"Murray, KY","Murray, Kentucky",False,False
+960,36980,"Owensboro, KY",Metropolitan Statistical Area,Owensboro,21.0,58620.0,KY,Kentucky,1779786,"Owensboro, KY","Owensboro, Kentucky",False,False
+961,37140,"Paducah, KY-IL",Micropolitan Statistical Area,Paducah,21.0,58836.0,KY,Kentucky,1779786,"Paducah, KY","Paducah, Kentucky",False,False
+962,40080,"Richmond-Berea, KY",Micropolitan Statistical Area,Berea,21.0,5842.0,KY,Kentucky,1779786,"Berea, KY","Berea, Kentucky",False,False
+963,40080,"Richmond-Berea, KY",Micropolitan Statistical Area,Richmond,21.0,65226.0,KY,Kentucky,1779786,"Richmond, KY","Richmond, Kentucky",False,False
+964,43700,"Somerset, KY",Micropolitan Statistical Area,Somerset,21.0,71688.0,KY,Kentucky,1779786,"Somerset, KY","Somerset, Kentucky",False,False
+965,12700,"Barnstable Town, MA",Metropolitan Statistical Area,Barnstable Town,25.0,3690.0,MA,Massachusetts,606926,"Barnstable Town, MA","Barnstable Town, Massachusetts",False,True
+966,14460,"Boston-Cambridge-Newton, MA-NH",Metropolitan Statistical Area,Boston,25.0,7000.0,MA,Massachusetts,606926,"Boston, MA","Boston, Massachusetts",False,False
+967,14460,"Boston-Cambridge-Newton, MA-NH",Metropolitan Statistical Area,Cambridge,25.0,11000.0,MA,Massachusetts,606926,"Cambridge, MA","Cambridge, Massachusetts",False,False
+968,14460,"Boston-Cambridge-Newton, MA-NH",Metropolitan Statistical Area,Framingham,25.0,24960.0,MA,Massachusetts,606926,"Framingham, MA","Framingham, Massachusetts",False,False
+969,14460,"Boston-Cambridge-Newton, MA-NH",Metropolitan Statistical Area,Newton,25.0,45560.0,MA,Massachusetts,606926,"Newton, MA","Newton, Massachusetts",False,False
+970,14460,"Boston-Cambridge-Newton, MA-NH",Metropolitan Statistical Area,Waltham,25.0,72600.0,MA,Massachusetts,606926,"Waltham, MA","Waltham, Massachusetts",False,False
+971,38340,"Pittsfield, MA",Metropolitan Statistical Area,Pittsfield,25.0,53960.0,MA,Massachusetts,606926,"Pittsfield, MA","Pittsfield, Massachusetts",False,False
+972,44140,"Springfield, MA",Metropolitan Statistical Area,Springfield,25.0,67000.0,MA,Massachusetts,606926,"Springfield, MA","Springfield, Massachusetts",True,False
+973,47240,"Vineyard Haven, MA",Micropolitan Statistical Area,Vineyard Haven,25.0,71970.0,MA,Massachusetts,606926,"Vineyard Haven, MA","Vineyard Haven, Massachusetts",False,False
+974,49340,"Worcester, MA-CT",Metropolitan Statistical Area,Worcester,25.0,82000.0,MA,Massachusetts,606926,"Worcester, MA","Worcester, Massachusetts",False,False
+975,12740,"Barre, VT",Micropolitan Statistical Area,Barre,50.0,3175.0,VT,Vermont,1779802,"Barre, VT","Barre, Vermont",False,False
+976,13540,"Bennington, VT",Micropolitan Statistical Area,Bennington,50.0,4750.0,VT,Vermont,1779802,"Bennington, VT","Bennington, Vermont",False,False
+977,15540,"Burlington-South Burlington, VT",Metropolitan Statistical Area,Burlington,50.0,10675.0,VT,Vermont,1779802,"Burlington, VT","Burlington, Vermont",False,False
+978,15540,"Burlington-South Burlington, VT",Metropolitan Statistical Area,South Burlington,50.0,66175.0,VT,Vermont,1779802,"South Burlington, VT","South Burlington, Vermont",False,False
+979,40860,"Rutland, VT",Micropolitan Statistical Area,Rutland,50.0,61225.0,VT,Vermont,1779802,"Rutland, VT","Rutland, Vermont",False,False
+980,13100,"Beatrice, NE",Micropolitan Statistical Area,Beatrice,31.0,3390.0,NE,Nebraska,1779792,"Beatrice, NE","Beatrice, Nebraska",False,False
+981,18100,"Columbus, NE",Micropolitan Statistical Area,Columbus,31.0,10110.0,NE,Nebraska,1779792,"Columbus, NE","Columbus, Nebraska",False,False
+982,23340,"Fremont, NE",Micropolitan Statistical Area,Fremont,31.0,17670.0,NE,Nebraska,1779792,"Fremont, NE","Fremont, Nebraska",False,False
+983,24260,"Grand Island, NE",Metropolitan Statistical Area,Grand Island,31.0,19595.0,NE,Nebraska,1779792,"Grand Island, NE","Grand Island, Nebraska",False,False
+984,25580,"Hastings, NE",Micropolitan Statistical Area,Hastings,31.0,21415.0,NE,Nebraska,1779792,"Hastings, NE","Hastings, Nebraska",False,False
+985,28260,"Kearney, NE",Micropolitan Statistical Area,Kearney,31.0,25055.0,NE,Nebraska,1779792,"Kearney, NE","Kearney, Nebraska",False,False
+986,30420,"Lexington, NE",Micropolitan Statistical Area,Lexington,31.0,26910.0,NE,Nebraska,1779792,"Lexington, NE","Lexington, Nebraska",False,False
+987,30700,"Lincoln, NE",Metropolitan Statistical Area,Lincoln,31.0,28000.0,NE,Nebraska,1779792,"Lincoln, NE","Lincoln, Nebraska",False,False
+988,35740,"Norfolk, NE",Micropolitan Statistical Area,Norfolk,31.0,34615.0,NE,Nebraska,1779792,"Norfolk, NE","Norfolk, Nebraska",False,False
+989,35820,"North Platte, NE",Micropolitan Statistical Area,North Platte,31.0,35000.0,NE,Nebraska,1779792,"North Platte, NE","North Platte, Nebraska",False,False
+990,36540,"Omaha-Council Bluffs, NE-IA",Metropolitan Statistical Area,Omaha,31.0,37000.0,NE,Nebraska,1779792,"Omaha, NE","Omaha, Nebraska",False,False
+991,42420,"Scottsbluff, NE",Micropolitan Statistical Area,Scottsbluff,31.0,44245.0,NE,Nebraska,1779792,"Scottsbluff, NE","Scottsbluff, Nebraska",False,False
+992,13220,"Beckley, WV",Metropolitan Statistical Area,Beckley,54.0,5332.0,WV,West Virginia,1779805,"Beckley, WV","Beckley, West Virginia",False,False
+993,14140,"Bluefield, WV-VA",Micropolitan Statistical Area,Bluefield,54.0,8524.0,WV,West Virginia,1779805,"Bluefield, WV","Bluefield, West Virginia",False,False
+994,16620,"Charleston, WV",Metropolitan Statistical Area,Charleston,54.0,14600.0,WV,West Virginia,1779805,"Charleston, WV","Charleston, West Virginia",False,False
+995,17220,"Clarksburg, WV",Micropolitan Statistical Area,Clarksburg,54.0,15628.0,WV,West Virginia,1779805,"Clarksburg, WV","Clarksburg, West Virginia",False,False
+996,21180,"Elkins, WV",Micropolitan Statistical Area,Elkins,54.0,24580.0,WV,West Virginia,1779805,"Elkins, WV","Elkins, West Virginia",False,False
+997,21900,"Fairmont, WV",Micropolitan Statistical Area,Fairmont,54.0,26452.0,WV,West Virginia,1779805,"Fairmont, WV","Fairmont, West Virginia",False,False
+998,25180,"Hagerstown-Martinsburg, MD-WV",Metropolitan Statistical Area,Martinsburg,54.0,52060.0,WV,West Virginia,1779805,"Martinsburg, WV","Martinsburg, West Virginia",False,False
+999,26580,"Huntington-Ashland, WV-KY-OH",Metropolitan Statistical Area,Huntington,54.0,39460.0,WV,West Virginia,1779805,"Huntington, WV","Huntington, West Virginia",False,False
+1000,34060,"Morgantown, WV",Metropolitan Statistical Area,Morgantown,54.0,55756.0,WV,West Virginia,1779805,"Morgantown, WV","Morgantown, West Virginia",False,False
+1001,34350,"Mount Gay-Shamrock, WV",Micropolitan Statistical Area,Mount Gay-Shamrock,54.0,56342.0,WV,West Virginia,1779805,"Mount Gay-Shamrock, WV","Mount Gay-Shamrock, West Virginia",False,False
+1002,37620,"Parkersburg-Vienna, WV",Metropolitan Statistical Area,Parkersburg,54.0,62140.0,WV,West Virginia,1779805,"Parkersburg, WV","Parkersburg, West Virginia",False,False
+1003,37620,"Parkersburg-Vienna, WV",Metropolitan Statistical Area,Vienna,54.0,83500.0,WV,West Virginia,1779805,"Vienna, WV","Vienna, West Virginia",False,False
+1004,38580,"Point Pleasant, WV-OH",Micropolitan Statistical Area,Point Pleasant,54.0,64708.0,WV,West Virginia,1779805,"Point Pleasant, WV","Point Pleasant, West Virginia",False,False
+1005,48260,"Weirton-Steubenville, WV-OH",Metropolitan Statistical Area,Weirton,54.0,85156.0,WV,West Virginia,1779805,"Weirton, WV","Weirton, West Virginia",False,False
+1006,48540,"Wheeling, WV-OH",Metropolitan Statistical Area,Wheeling,54.0,86452.0,WV,West Virginia,1779805,"Wheeling, WV","Wheeling, West Virginia",False,False
+1007,13500,"Bennettsville, SC",Micropolitan Statistical Area,Bennettsville,45.0,5680.0,SC,South Carolina,1779799,"Bennettsville, SC","Bennettsville, South Carolina",False,False
+1008,16700,"Charleston-North Charleston, SC",Metropolitan Statistical Area,Charleston,45.0,13330.0,SC,South Carolina,1779799,"Charleston, SC","Charleston, South Carolina",False,False
+1009,16700,"Charleston-North Charleston, SC",Metropolitan Statistical Area,North Charleston,45.0,50875.0,SC,South Carolina,1779799,"North Charleston, SC","North Charleston, South Carolina",False,False
+1010,16740,"Charlotte-Concord-Gastonia, NC-SC",Metropolitan Statistical Area,Rock Hill,45.0,61405.0,SC,South Carolina,1779799,"Rock Hill, SC","Rock Hill, South Carolina",False,False
+1011,17900,"Columbia, SC",Metropolitan Statistical Area,Columbia,45.0,16000.0,SC,South Carolina,1779799,"Columbia, SC","Columbia, South Carolina",False,False
+1012,22500,"Florence, SC",Metropolitan Statistical Area,Florence,45.0,25810.0,SC,South Carolina,1779799,"Florence, SC","Florence, South Carolina",False,False
+1013,23500,"Gaffney, SC",Micropolitan Statistical Area,Gaffney,45.0,28060.0,SC,South Carolina,1779799,"Gaffney, SC","Gaffney, South Carolina",False,False
+1014,23860,"Georgetown, SC",Micropolitan Statistical Area,Georgetown,45.0,28870.0,SC,South Carolina,1779799,"Georgetown, SC","Georgetown, South Carolina",False,False
+1015,24860,"Greenville-Anderson, SC",Metropolitan Statistical Area,Anderson,45.0,1360.0,SC,South Carolina,1779799,"Anderson, SC","Anderson, South Carolina",False,False
+1016,24860,"Greenville-Anderson, SC",Metropolitan Statistical Area,Greenville,45.0,30850.0,SC,South Carolina,1779799,"Greenville, SC","Greenville, South Carolina",False,False
+1017,24940,"Greenwood, SC",Micropolitan Statistical Area,Greenwood,45.0,30895.0,SC,South Carolina,1779799,"Greenwood, SC","Greenwood, South Carolina",False,False
+1018,25940,"Hilton Head Island-Bluffton, SC",Metropolitan Statistical Area,Bluffton,45.0,7210.0,SC,South Carolina,1779799,"Bluffton, SC","Bluffton, South Carolina",False,False
+1019,25940,"Hilton Head Island-Bluffton, SC",Metropolitan Statistical Area,Hilton Head Island,45.0,34045.0,SC,South Carolina,1779799,"Hilton Head Island, SC","Hilton Head Island, South Carolina",False,False
+1020,34820,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Metropolitan Statistical Area,Conway,45.0,16405.0,SC,South Carolina,1779799,"Conway, SC","Conway, South Carolina",False,False
+1021,34820,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Metropolitan Statistical Area,Myrtle Beach,45.0,49075.0,SC,South Carolina,1779799,"Myrtle Beach, SC","Myrtle Beach, South Carolina",False,False
+1022,34820,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Metropolitan Statistical Area,North Myrtle Beach,45.0,51280.0,SC,South Carolina,1779799,"North Myrtle Beach, SC","North Myrtle Beach, South Carolina",False,False
+1023,35140,"Newberry, SC",Micropolitan Statistical Area,Newberry,45.0,49570.0,SC,South Carolina,1779799,"Newberry, SC","Newberry, South Carolina",False,False
+1024,36700,"Orangeburg, SC",Micropolitan Statistical Area,Orangeburg,45.0,53080.0,SC,South Carolina,1779799,"Orangeburg, SC","Orangeburg, South Carolina",False,False
+1025,42860,"Seneca, SC",Micropolitan Statistical Area,Seneca,45.0,65095.0,SC,South Carolina,1779799,"Seneca, SC","Seneca, South Carolina",False,False
+1026,43900,"Spartanburg, SC",Metropolitan Statistical Area,Spartanburg,45.0,68290.0,SC,South Carolina,1779799,"Spartanburg, SC","Spartanburg, South Carolina",False,False
+1027,44940,"Sumter, SC",Metropolitan Statistical Area,Sumter,45.0,70405.0,SC,South Carolina,1779799,"Sumter, SC","Sumter, South Carolina",False,False
+1028,46420,"Union, SC",Micropolitan Statistical Area,Union,45.0,73105.0,SC,South Carolina,1779799,"Union, SC","Union, South Carolina",False,False
+1029,13620,"Berlin, NH",Micropolitan Statistical Area,Berlin,33.0,5140.0,NH,New Hampshire,1779794,"Berlin, NH","Berlin, New Hampshire",False,False
+1030,18180,"Concord, NH",Micropolitan Statistical Area,Concord,33.0,14200.0,NH,New Hampshire,1779794,"Concord, NH","Concord, New Hampshire",False,False
+1031,28300,"Keene, NH",Micropolitan Statistical Area,Keene,33.0,39300.0,NH,New Hampshire,1779794,"Keene, NH","Keene, New Hampshire",False,False
+1032,29060,"Laconia, NH",Micropolitan Statistical Area,Laconia,33.0,40180.0,NH,New Hampshire,1779794,"Laconia, NH","Laconia, New Hampshire",False,False
+1033,30100,"Lebanon, NH-VT",Micropolitan Statistical Area,Lebanon,33.0,41300.0,NH,New Hampshire,1779794,"Lebanon, NH","Lebanon, New Hampshire",False,False
+1034,31700,"Manchester-Nashua, NH",Metropolitan Statistical Area,Manchester,33.0,45140.0,NH,New Hampshire,1779794,"Manchester, NH","Manchester, New Hampshire",False,True
+1035,31700,"Manchester-Nashua, NH",Metropolitan Statistical Area,Nashua,33.0,50260.0,NH,New Hampshire,1779794,"Nashua, NH","Nashua, New Hampshire",False,True
+1036,13720,"Big Stone Gap, VA",Micropolitan Statistical Area,Big Stone Gap,51.0,7480.0,VA,Virginia,1779803,"Big Stone Gap, VA","Big Stone Gap, Virginia",False,False
+1037,13980,"Blacksburg-Christiansburg, VA",Metropolitan Statistical Area,Blacksburg,51.0,7784.0,VA,Virginia,1779803,"Blacksburg, VA","Blacksburg, Virginia",False,False
+1038,13980,"Blacksburg-Christiansburg, VA",Metropolitan Statistical Area,Christiansburg,51.0,16608.0,VA,Virginia,1779803,"Christiansburg, VA","Christiansburg, Virginia",False,False
+1039,16820,"Charlottesville, VA",Metropolitan Statistical Area,Charlottesville,51.0,14968.0,VA,Virginia,1779803,"Charlottesville, VA","Charlottesville, Virginia",False,True
+1040,19260,"Danville, VA",Micropolitan Statistical Area,Danville,51.0,21344.0,VA,Virginia,1779803,"Danville, VA","Danville, Virginia",False,False
+1041,25500,"Harrisonburg, VA",Metropolitan Statistical Area,Harrisonburg,51.0,35624.0,VA,Virginia,1779803,"Harrisonburg, VA","Harrisonburg, Virginia",False,False
+1042,31340,"Lynchburg, VA",Metropolitan Statistical Area,Lynchburg,51.0,47672.0,VA,Virginia,1779803,"Lynchburg, VA","Lynchburg, Virginia",False,False
+1043,32300,"Martinsville, VA",Micropolitan Statistical Area,Martinsville,51.0,49784.0,VA,Virginia,1779803,"Martinsville, VA","Martinsville, Virginia",False,False
+1044,40060,"Richmond, VA",Metropolitan Statistical Area,Richmond,51.0,67000.0,VA,Virginia,1779803,"Richmond, VA","Richmond, Virginia",False,False
+1045,40220,"Roanoke, VA",Metropolitan Statistical Area,Roanoke,51.0,68000.0,VA,Virginia,1779803,"Roanoke, VA","Roanoke, Virginia",False,False
+1046,44420,"Staunton, VA",Metropolitan Statistical Area,Staunton,51.0,75216.0,VA,Virginia,1779803,"Staunton, VA","Staunton, Virginia",False,False
+1047,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metropolitan Statistical Area,Hampton,51.0,35000.0,VA,Virginia,1779803,"Hampton, VA","Hampton, Virginia",False,False
+1048,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metropolitan Statistical Area,Newport News,51.0,56000.0,VA,Virginia,1779803,"Newport News, VA","Newport News, Virginia",False,False
+1049,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metropolitan Statistical Area,Norfolk,51.0,57000.0,VA,Virginia,1779803,"Norfolk, VA","Norfolk, Virginia",False,False
+1050,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metropolitan Statistical Area,Portsmouth,51.0,64000.0,VA,Virginia,1779803,"Portsmouth, VA","Portsmouth, Virginia",False,False
+1051,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Metropolitan Statistical Area,Virginia Beach,51.0,82000.0,VA,Virginia,1779803,"Virginia Beach, VA","Virginia Beach, Virginia",False,False
+1052,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Alexandria,51.0,1000.0,VA,Virginia,1779803,"Alexandria, VA","Alexandria, Virginia",False,True
+1053,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Arlington,51.0,3000.0,VA,Virginia,1779803,"Arlington, VA","Arlington, Virginia",False,True
+1054,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Reston,51.0,66672.0,VA,Virginia,1779803,"Reston, VA","Reston, Virginia",False,False
+1055,49020,"Winchester, VA-WV",Metropolitan Statistical Area,Winchester,51.0,86720.0,VA,Virginia,1779803,"Winchester, VA","Winchester, Virginia",False,False
+1056,13740,"Billings, MT",Metropolitan Statistical Area,Billings,30.0,6550.0,MT,Montana,767982,"Billings, MT","Billings, Montana",False,False
+1057,14580,"Bozeman, MT",Micropolitan Statistical Area,Bozeman,30.0,8950.0,MT,Montana,767982,"Bozeman, MT","Bozeman, Montana",False,False
+1058,15580,"Butte-Silver Bow, MT",Micropolitan Statistical Area,Butte-Silver Bow (balance),30.0,11397.0,MT,Montana,767982,"Butte-Silver Bow (balance), MT","Butte-Silver Bow (balance), Montana",False,False
+1059,24500,"Great Falls, MT",Metropolitan Statistical Area,Great Falls,30.0,32800.0,MT,Montana,767982,"Great Falls, MT","Great Falls, Montana",False,False
+1060,25740,"Helena, MT",Micropolitan Statistical Area,Helena,30.0,35600.0,MT,Montana,767982,"Helena, MT","Helena, Montana",False,False
+1061,28060,"Kalispell, MT",Micropolitan Statistical Area,Kalispell,30.0,40075.0,MT,Montana,767982,"Kalispell, MT","Kalispell, Montana",False,False
+1062,33540,"Missoula, MT",Metropolitan Statistical Area,Missoula,30.0,50200.0,MT,Montana,767982,"Missoula, MT","Missoula, Montana",False,False
+1063,13900,"Bismarck, ND",Metropolitan Statistical Area,Bismarck,38.0,7200.0,ND,North Dakota,1779797,"Bismarck, ND","Bismarck, North Dakota",False,False
+1064,19860,"Dickinson, ND",Micropolitan Statistical Area,Dickinson,38.0,19620.0,ND,North Dakota,1779797,"Dickinson, ND","Dickinson, North Dakota",False,False
+1065,22020,"Fargo, ND-MN",Metropolitan Statistical Area,Fargo,38.0,25700.0,ND,North Dakota,1779797,"Fargo, ND","Fargo, North Dakota",False,False
+1066,24220,"Grand Forks, ND-MN",Metropolitan Statistical Area,Grand Forks,38.0,32060.0,ND,North Dakota,1779797,"Grand Forks, ND","Grand Forks, North Dakota",False,False
+1067,27420,"Jamestown, ND",Micropolitan Statistical Area,Jamestown,38.0,40580.0,ND,North Dakota,1779797,"Jamestown, ND","Jamestown, North Dakota",False,False
+1068,33500,"Minot, ND",Micropolitan Statistical Area,Minot,38.0,53380.0,ND,North Dakota,1779797,"Minot, ND","Minot, North Dakota",False,False
+1069,47420,"Wahpeton, ND-MN",Micropolitan Statistical Area,Wahpeton,38.0,82660.0,ND,North Dakota,1779797,"Wahpeton, ND","Wahpeton, North Dakota",False,False
+1070,48780,"Williston, ND",Micropolitan Statistical Area,Williston,38.0,86220.0,ND,North Dakota,1779797,"Williston, ND","Williston, North Dakota",False,False
+1071,13940,"Blackfoot, ID",Micropolitan Statistical Area,Blackfoot,16.0,7840.0,ID,Idaho,1779783,"Blackfoot, ID","Blackfoot, Idaho",False,False
+1072,14260,"Boise City, ID",Metropolitan Statistical Area,Boise City,16.0,8830.0,ID,Idaho,1779783,"Boise City, ID","Boise City, Idaho",False,False
+1073,15420,"Burley, ID",Micropolitan Statistical Area,Burley,16.0,11260.0,ID,Idaho,1779783,"Burley, ID","Burley, Idaho",False,False
+1074,17660,"Coeur d'Alene, ID",Metropolitan Statistical Area,Coeur d'Alene,16.0,16750.0,ID,Idaho,1779783,"Coeur d'Alene, ID","Coeur d'Alene, Idaho",False,False
+1075,25200,"Hailey, ID",Micropolitan Statistical Area,Hailey,16.0,34390.0,ID,Idaho,1779783,"Hailey, ID","Hailey, Idaho",False,False
+1076,26820,"Idaho Falls, ID",Metropolitan Statistical Area,Idaho Falls,16.0,39700.0,ID,Idaho,1779783,"Idaho Falls, ID","Idaho Falls, Idaho",False,False
+1077,30300,"Lewiston, ID-WA",Metropolitan Statistical Area,Lewiston,16.0,46540.0,ID,Idaho,1779783,"Lewiston, ID","Lewiston, Idaho",False,False
+1078,34140,"Moscow, ID",Micropolitan Statistical Area,Moscow,16.0,54550.0,ID,Idaho,1779783,"Moscow, ID","Moscow, Idaho",False,False
+1079,34300,"Mountain Home, ID",Micropolitan Statistical Area,Mountain Home,16.0,54730.0,ID,Idaho,1779783,"Mountain Home, ID","Mountain Home, Idaho",False,False
+1080,38540,"Pocatello, ID",Metropolitan Statistical Area,Pocatello,16.0,64090.0,ID,Idaho,1779783,"Pocatello, ID","Pocatello, Idaho",False,False
+1081,39940,"Rexburg, ID",Micropolitan Statistical Area,Rexburg,16.0,67420.0,ID,Idaho,1779783,"Rexburg, ID","Rexburg, Idaho",False,False
+1082,41760,"Sandpoint, ID",Micropolitan Statistical Area,Sandpoint,16.0,72100.0,ID,Idaho,1779783,"Sandpoint, ID","Sandpoint, Idaho",False,False
+1083,46300,"Twin Falls, ID",Metropolitan Statistical Area,Twin Falls,16.0,82810.0,ID,Idaho,1779783,"Twin Falls, ID","Twin Falls, Idaho",False,False
+1084,14010,"Bloomington, IL",Metropolitan Statistical Area,Bloomington,17.0,6613.0,IL,Illinois,1779784,"Bloomington, IL","Bloomington, Illinois",False,False
+1085,16060,"Carbondale-Marion, IL",Metropolitan Statistical Area,Carbondale,17.0,11163.0,IL,Illinois,1779784,"Carbondale, IL","Carbondale, Illinois",False,False
+1086,16060,"Carbondale-Marion, IL",Metropolitan Statistical Area,Marion,17.0,46916.0,IL,Illinois,1779784,"Marion, IL","Marion, Illinois",False,False
+1087,16460,"Centralia, IL",Micropolitan Statistical Area,Centralia,17.0,12164.0,IL,Illinois,1779784,"Centralia, IL","Centralia, Illinois",False,False
+1088,16580,"Champaign-Urbana, IL",Metropolitan Statistical Area,Champaign,17.0,12385.0,IL,Illinois,1779784,"Champaign, IL","Champaign, Illinois",False,False
+1089,16580,"Champaign-Urbana, IL",Metropolitan Statistical Area,Urbana,17.0,77005.0,IL,Illinois,1779784,"Urbana, IL","Urbana, Illinois",False,False
+1090,16660,"Charleston-Mattoon, IL",Micropolitan Statistical Area,Charleston,17.0,12567.0,IL,Illinois,1779784,"Charleston, IL","Charleston, Illinois",False,False
+1091,16660,"Charleston-Mattoon, IL",Micropolitan Statistical Area,Mattoon,17.0,47553.0,IL,Illinois,1779784,"Mattoon, IL","Mattoon, Illinois",False,False
+1092,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metropolitan Statistical Area,Bolingbrook,17.0,7133.0,IL,Illinois,1779784,"Bolingbrook, IL","Bolingbrook, Illinois",False,False
+1093,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metropolitan Statistical Area,Chicago,17.0,14000.0,IL,Illinois,1779784,"Chicago, IL","Chicago, Illinois",False,False
+1094,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metropolitan Statistical Area,Des Plaines,17.0,19642.0,IL,Illinois,1779784,"Des Plaines, IL","Des Plaines, Illinois",False,False
+1095,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metropolitan Statistical Area,Elgin,17.0,23074.0,IL,Illinois,1779784,"Elgin, IL","Elgin, Illinois",False,False
+1096,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metropolitan Statistical Area,Evanston,17.0,24582.0,IL,Illinois,1779784,"Evanston, IL","Evanston, Illinois",False,False
+1097,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metropolitan Statistical Area,Hoffman Estates,17.0,35411.0,IL,Illinois,1779784,"Hoffman Estates, IL","Hoffman Estates, Illinois",False,False
+1098,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metropolitan Statistical Area,Naperville,17.0,51622.0,IL,Illinois,1779784,"Naperville, IL","Naperville, Illinois",False,False
+1099,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metropolitan Statistical Area,Schaumburg,17.0,68003.0,IL,Illinois,1779784,"Schaumburg, IL","Schaumburg, Illinois",False,False
+1100,16980,"Chicago-Naperville-Elgin, IL-IN-WI",Metropolitan Statistical Area,Skokie,17.0,70122.0,IL,Illinois,1779784,"Skokie, IL","Skokie, Illinois",False,False
+1101,19180,"Danville, IL",Metropolitan Statistical Area,Danville,17.0,18563.0,IL,Illinois,1779784,"Danville, IL","Danville, Illinois",False,False
+1102,19340,"Davenport-Moline-Rock Island, IA-IL",Metropolitan Statistical Area,Moline,17.0,49867.0,IL,Illinois,1779784,"Moline, IL","Moline, Illinois",False,False
+1103,19340,"Davenport-Moline-Rock Island, IA-IL",Metropolitan Statistical Area,Rock Island,17.0,65078.0,IL,Illinois,1779784,"Rock Island, IL","Rock Island, Illinois",False,False
+1104,19500,"Decatur, IL",Metropolitan Statistical Area,Decatur,17.0,18823.0,IL,Illinois,1779784,"Decatur, IL","Decatur, Illinois",False,False
+1105,19940,"Dixon, IL",Micropolitan Statistical Area,Dixon,17.0,20162.0,IL,Illinois,1779784,"Dixon, IL","Dixon, Illinois",False,False
+1106,20820,"Effingham, IL",Micropolitan Statistical Area,Effingham,17.0,22736.0,IL,Illinois,1779784,"Effingham, IL","Effingham, Illinois",False,False
+1107,23300,"Freeport, IL",Micropolitan Statistical Area,Freeport,17.0,27884.0,IL,Illinois,1779784,"Freeport, IL","Freeport, Illinois",False,False
+1108,23660,"Galesburg, IL",Micropolitan Statistical Area,Galesburg,17.0,28326.0,IL,Illinois,1779784,"Galesburg, IL","Galesburg, Illinois",False,False
+1109,27300,"Jacksonville, IL",Micropolitan Statistical Area,Jacksonville,17.0,38115.0,IL,Illinois,1779784,"Jacksonville, IL","Jacksonville, Illinois",False,False
+1110,28100,"Kankakee, IL",Metropolitan Statistical Area,Kankakee,17.0,38934.0,IL,Illinois,1779784,"Kankakee, IL","Kankakee, Illinois",False,False
+1111,30660,"Lincoln, IL",Micropolitan Statistical Area,Lincoln,17.0,43536.0,IL,Illinois,1779784,"Lincoln, IL","Lincoln, Illinois",False,False
+1112,31380,"Macomb, IL",Micropolitan Statistical Area,Macomb,17.0,45889.0,IL,Illinois,1779784,"Macomb, IL","Macomb, Illinois",False,False
+1113,34500,"Mount Vernon, IL",Micropolitan Statistical Area,Mount Vernon,17.0,51180.0,IL,Illinois,1779784,"Mount Vernon, IL","Mount Vernon, Illinois",False,False
+1114,36837,"Ottawa, IL",Micropolitan Statistical Area,Ottawa,17.0,56926.0,IL,Illinois,1779784,"Ottawa, IL","Ottawa, Illinois",False,False
+1115,37900,"Peoria, IL",Metropolitan Statistical Area,Peoria,17.0,59000.0,IL,Illinois,1779784,"Peoria, IL","Peoria, Illinois",False,False
+1116,38700,"Pontiac, IL",Micropolitan Statistical Area,Pontiac,17.0,61015.0,IL,Illinois,1779784,"Pontiac, IL","Pontiac, Illinois",False,False
+1117,39500,"Quincy, IL-MO",Micropolitan Statistical Area,Quincy,17.0,62367.0,IL,Illinois,1779784,"Quincy, IL","Quincy, Illinois",False,False
+1118,40300,"Rochelle, IL",Micropolitan Statistical Area,Rochelle,17.0,64746.0,IL,Illinois,1779784,"Rochelle, IL","Rochelle, Illinois",False,False
+1119,40420,"Rockford, IL",Metropolitan Statistical Area,Rockford,17.0,65000.0,IL,Illinois,1779784,"Rockford, IL","Rockford, Illinois",True,False
+1120,44100,"Springfield, IL",Metropolitan Statistical Area,Springfield,17.0,72000.0,IL,Illinois,1779784,"Springfield, IL","Springfield, Illinois",False,False
+1121,44580,"Sterling, IL",Micropolitan Statistical Area,Sterling,17.0,72546.0,IL,Illinois,1779784,"Sterling, IL","Sterling, Illinois",False,False
+1122,45380,"Taylorville, IL",Micropolitan Statistical Area,Taylorville,17.0,74574.0,IL,Illinois,1779784,"Taylorville, IL","Taylorville, Illinois",False,False
+1123,14500,"Boulder, CO",Metropolitan Statistical Area,Boulder,8.0,7850.0,CO,Colorado,1779779,"Boulder, CO","Boulder, Colorado",False,True
+1124,14720,"Breckenridge, CO",Micropolitan Statistical Area,Breckenridge,8.0,8400.0,CO,Colorado,1779779,"Breckenridge, CO","Breckenridge, Colorado",False,False
+1125,15860,"Cañon City, CO",Micropolitan Statistical Area,Cañon City,8.0,11810.0,CO,Colorado,1779779,"Cañon City, CO","Cañon City, Colorado",False,False
+1126,17820,"Colorado Springs, CO",Metropolitan Statistical Area,Colorado Springs,8.0,16000.0,CO,Colorado,1779779,"Colorado Springs, CO","Colorado Springs, Colorado",False,True
+1127,18780,"Craig, CO",Micropolitan Statistical Area,Craig,8.0,17760.0,CO,Colorado,1779779,"Craig, CO","Craig, Colorado",False,False
+1128,19740,"Denver-Aurora-Lakewood, CO",Metropolitan Statistical Area,Aurora,8.0,4000.0,CO,Colorado,1779779,"Aurora, CO","Aurora, Colorado",False,False
+1129,19740,"Denver-Aurora-Lakewood, CO",Metropolitan Statistical Area,Broomfield,8.0,9280.0,CO,Colorado,1779779,"Broomfield, CO","Broomfield, Colorado",False,False
+1130,19740,"Denver-Aurora-Lakewood, CO",Metropolitan Statistical Area,Centennial,8.0,12815.0,CO,Colorado,1779779,"Centennial, CO","Centennial, Colorado",False,False
+1131,19740,"Denver-Aurora-Lakewood, CO",Metropolitan Statistical Area,Commerce City,8.0,16495.0,CO,Colorado,1779779,"Commerce City, CO","Commerce City, Colorado",False,False
+1132,19740,"Denver-Aurora-Lakewood, CO",Metropolitan Statistical Area,Denver,8.0,20000.0,CO,Colorado,1779779,"Denver, CO","Denver, Colorado",False,False
+1133,19740,"Denver-Aurora-Lakewood, CO",Metropolitan Statistical Area,Lakewood,8.0,43000.0,CO,Colorado,1779779,"Lakewood, CO","Lakewood, Colorado",False,False
+1134,20420,"Durango, CO",Micropolitan Statistical Area,Durango,8.0,22035.0,CO,Colorado,1779779,"Durango, CO","Durango, Colorado",False,False
+1135,20780,"Edwards, CO",Micropolitan Statistical Area,Edwards,8.0,23300.0,CO,Colorado,1779779,"Edwards, CO","Edwards, Colorado",False,False
+1136,22660,"Fort Collins, CO",Metropolitan Statistical Area,Fort Collins,8.0,27425.0,CO,Colorado,1779779,"Fort Collins, CO","Fort Collins, Colorado",False,True
+1137,22820,"Fort Morgan, CO",Micropolitan Statistical Area,Fort Morgan,8.0,27810.0,CO,Colorado,1779779,"Fort Morgan, CO","Fort Morgan, Colorado",False,False
+1138,24060,"Glenwood Springs, CO",Micropolitan Statistical Area,Glenwood Springs,8.0,30780.0,CO,Colorado,1779779,"Glenwood Springs, CO","Glenwood Springs, Colorado",False,False
+1139,24300,"Grand Junction, CO",Metropolitan Statistical Area,Grand Junction,8.0,31660.0,CO,Colorado,1779779,"Grand Junction, CO","Grand Junction, Colorado",False,False
+1140,24540,"Greeley, CO",Metropolitan Statistical Area,Greeley,8.0,32155.0,CO,Colorado,1779779,"Greeley, CO","Greeley, Colorado",False,False
+1141,33940,"Montrose, CO",Micropolitan Statistical Area,Montrose,8.0,51745.0,CO,Colorado,1779779,"Montrose, CO","Montrose, Colorado",False,False
+1142,39380,"Pueblo, CO",Metropolitan Statistical Area,Pueblo,8.0,62000.0,CO,Colorado,1779779,"Pueblo, CO","Pueblo, Colorado",False,False
+1143,44460,"Steamboat Springs, CO",Micropolitan Statistical Area,Steamboat Springs,8.0,73825.0,CO,Colorado,1779779,"Steamboat Springs, CO","Steamboat Springs, Colorado",False,False
+1144,44540,"Sterling, CO",Micropolitan Statistical Area,Sterling,8.0,73935.0,CO,Colorado,1779779,"Sterling, CO","Sterling, Colorado",False,False
+1145,14700,"Branson, MO",Micropolitan Statistical Area,Branson,29.0,7966.0,MO,Missouri,1779791,"Branson, MO","Branson, Missouri",False,False
+1146,16020,"Cape Girardeau, MO-IL",Metropolitan Statistical Area,Cape Girardeau,29.0,11242.0,MO,Missouri,1779791,"Cape Girardeau, MO","Cape Girardeau, Missouri",False,False
+1147,17860,"Columbia, MO",Metropolitan Statistical Area,Columbia,29.0,15670.0,MO,Missouri,1779791,"Columbia, MO","Columbia, Missouri",False,False
+1148,22100,"Farmington, MO",Micropolitan Statistical Area,Farmington,29.0,23752.0,MO,Missouri,1779791,"Farmington, MO","Farmington, Missouri",False,False
+1149,22780,"Fort Leonard Wood, MO",Micropolitan Statistical Area,Fort Leonard Wood,29.0,25264.0,MO,Missouri,1779791,"Fort Leonard Wood, MO","Fort Leonard Wood, Missouri",False,False
+1150,25300,"Hannibal, MO",Micropolitan Statistical Area,Hannibal,29.0,30214.0,MO,Missouri,1779791,"Hannibal, MO","Hannibal, Missouri",False,False
+1151,27620,"Jefferson City, MO",Metropolitan Statistical Area,Jefferson City,29.0,37000.0,MO,Missouri,1779791,"Jefferson City, MO","Jefferson City, Missouri",False,False
+1152,27900,"Joplin, MO",Metropolitan Statistical Area,Joplin,29.0,37592.0,MO,Missouri,1779791,"Joplin, MO","Joplin, Missouri",False,False
+1153,28140,"Kansas City, MO-KS",Metropolitan Statistical Area,Kansas City,29.0,38000.0,MO,Missouri,1779791,"Kansas City, MO","Kansas City, Missouri",False,False
+1154,28380,"Kennett, MO",Micropolitan Statistical Area,Kennett,29.0,38306.0,MO,Missouri,1779791,"Kennett, MO","Kennett, Missouri",False,False
+1155,28860,"Kirksville, MO",Micropolitan Statistical Area,Kirksville,29.0,39026.0,MO,Missouri,1779791,"Kirksville, MO","Kirksville, Missouri",False,False
+1156,30060,"Lebanon, MO",Micropolitan Statistical Area,Lebanon,29.0,41168.0,MO,Missouri,1779791,"Lebanon, MO","Lebanon, Missouri",False,False
+1157,32180,"Marshall, MO",Micropolitan Statistical Area,Marshall,29.0,46316.0,MO,Missouri,1779791,"Marshall, MO","Marshall, Missouri",False,False
+1158,32340,"Maryville, MO",Micropolitan Statistical Area,Maryville,29.0,46640.0,MO,Missouri,1779791,"Maryville, MO","Maryville, Missouri",False,False
+1159,33020,"Mexico, MO",Micropolitan Statistical Area,Mexico,29.0,47648.0,MO,Missouri,1779791,"Mexico, MO","Mexico, Missouri",False,False
+1160,33620,"Moberly, MO",Micropolitan Statistical Area,Moberly,29.0,49034.0,MO,Missouri,1779791,"Moberly, MO","Moberly, Missouri",False,False
+1161,38740,"Poplar Bluff, MO",Micropolitan Statistical Area,Poplar Bluff,29.0,59096.0,MO,Missouri,1779791,"Poplar Bluff, MO","Poplar Bluff, Missouri",False,False
+1162,40620,"Rolla, MO",Micropolitan Statistical Area,Rolla,29.0,62912.0,MO,Missouri,1779791,"Rolla, MO","Rolla, Missouri",False,False
+1163,41140,"St. Joseph, MO-KS",Metropolitan Statistical Area,St. Joseph,29.0,64550.0,MO,Missouri,1779791,"St. Joseph, MO","St. Joseph, Missouri",False,False
+1164,41180,"St. Louis, MO-IL",Metropolitan Statistical Area,St. Charles,29.0,64082.0,MO,Missouri,1779791,"St. Charles, MO","St. Charles, Missouri",False,False
+1165,41180,"St. Louis, MO-IL",Metropolitan Statistical Area,St. Louis,29.0,65000.0,MO,Missouri,1779791,"St. Louis, MO","St. Louis, Missouri",False,False
+1166,42740,"Sedalia, MO",Micropolitan Statistical Area,Sedalia,29.0,66440.0,MO,Missouri,1779791,"Sedalia, MO","Sedalia, Missouri",False,False
+1167,43460,"Sikeston, MO",Micropolitan Statistical Area,Sikeston,29.0,67790.0,MO,Missouri,1779791,"Sikeston, MO","Sikeston, Missouri",False,False
+1168,44180,"Springfield, MO",Metropolitan Statistical Area,Springfield,29.0,70000.0,MO,Missouri,1779791,"Springfield, MO","Springfield, Missouri",False,False
+1169,47660,"Warrensburg, MO",Micropolitan Statistical Area,Warrensburg,29.0,77092.0,MO,Missouri,1779791,"Warrensburg, MO","Warrensburg, Missouri",False,False
+1170,48460,"West Plains, MO",Micropolitan Statistical Area,West Plains,29.0,78928.0,MO,Missouri,1779791,"West Plains, MO","West Plains, Missouri",False,False
+1171,14860,"Bridgeport-Stamford-Norwalk, CT",Metropolitan Statistical Area,Bridgeport,9.0,8000.0,CT,Connecticut,1779780,"Bridgeport, CT","Bridgeport, Connecticut",False,True
+1172,14860,"Bridgeport-Stamford-Norwalk, CT",Metropolitan Statistical Area,Danbury,9.0,18430.0,CT,Connecticut,1779780,"Danbury, CT","Danbury, Connecticut",False,False
+1173,14860,"Bridgeport-Stamford-Norwalk, CT",Metropolitan Statistical Area,Norwalk,9.0,55990.0,CT,Connecticut,1779780,"Norwalk, CT","Norwalk, Connecticut",False,True
+1174,14860,"Bridgeport-Stamford-Norwalk, CT",Metropolitan Statistical Area,Stamford,9.0,73000.0,CT,Connecticut,1779780,"Stamford, CT","Stamford, Connecticut",False,True
+1175,14860,"Bridgeport-Stamford-Norwalk, CT",Metropolitan Statistical Area,Stratford,9.0,74260.0,CT,Connecticut,1779780,"Stratford, CT","Stratford, Connecticut",False,False
+1176,25540,"Hartford-East Hartford-Middletown, CT",Metropolitan Statistical Area,East Hartford,9.0,22700.0,CT,Connecticut,1779780,"East Hartford, CT","East Hartford, Connecticut",False,False
+1177,25540,"Hartford-East Hartford-Middletown, CT",Metropolitan Statistical Area,Hartford,9.0,37000.0,CT,Connecticut,1779780,"Hartford, CT","Hartford, Connecticut",False,False
+1178,25540,"Hartford-East Hartford-Middletown, CT",Metropolitan Statistical Area,Middletown,9.0,47290.0,CT,Connecticut,1779780,"Middletown, CT","Middletown, Connecticut",False,False
+1179,35300,"New Haven-Milford, CT",Metropolitan Statistical Area,Milford city (balance),9.0,47515.0,CT,Connecticut,1779780,"Milford city (balance), CT","Milford city (balance), Connecticut",False,False
+1180,35300,"New Haven-Milford, CT",Metropolitan Statistical Area,New Haven,9.0,52000.0,CT,Connecticut,1779780,"New Haven, CT","New Haven, Connecticut",False,False
+1181,35980,"Norwich-New London, CT",Metropolitan Statistical Area,New London,9.0,52280.0,CT,Connecticut,1779780,"New London, CT","New London, Connecticut",False,False
+1182,35980,"Norwich-New London, CT",Metropolitan Statistical Area,Norwich,9.0,56200.0,CT,Connecticut,1779780,"Norwich, CT","Norwich, Connecticut",False,False
+1183,45860,"Torrington, CT",Micropolitan Statistical Area,Torrington,9.0,76500.0,CT,Connecticut,1779780,"Torrington, CT","Torrington, Connecticut",False,False
+1184,15020,"Brookhaven, MS",Micropolitan Statistical Area,Brookhaven,28.0,8820.0,MS,Mississippi,1779790,"Brookhaven, MS","Brookhaven, Mississippi",False,False
+1185,17260,"Clarksdale, MS",Micropolitan Statistical Area,Clarksdale,28.0,13820.0,MS,Mississippi,1779790,"Clarksdale, MS","Clarksdale, Mississippi",False,False
+1186,17380,"Cleveland, MS",Micropolitan Statistical Area,Cleveland,28.0,14260.0,MS,Mississippi,1779790,"Cleveland, MS","Cleveland, Mississippi",False,False
+1187,18060,"Columbus, MS",Micropolitan Statistical Area,Columbus,28.0,15380.0,MS,Mississippi,1779790,"Columbus, MS","Columbus, Mississippi",False,False
+1188,18420,"Corinth, MS",Micropolitan Statistical Area,Corinth,28.0,15700.0,MS,Mississippi,1779790,"Corinth, MS","Corinth, Mississippi",False,False
+1189,24740,"Greenville, MS",Micropolitan Statistical Area,Greenville,28.0,29180.0,MS,Mississippi,1779790,"Greenville, MS","Greenville, Mississippi",False,False
+1190,24900,"Greenwood, MS",Micropolitan Statistical Area,Greenwood,28.0,29340.0,MS,Mississippi,1779790,"Greenwood, MS","Greenwood, Mississippi",False,False
+1191,24980,"Grenada, MS",Micropolitan Statistical Area,Grenada,28.0,29460.0,MS,Mississippi,1779790,"Grenada, MS","Grenada, Mississippi",False,False
+1192,25060,"Gulfport-Biloxi, MS",Metropolitan Statistical Area,Biloxi,28.0,6220.0,MS,Mississippi,1779790,"Biloxi, MS","Biloxi, Mississippi",False,False
+1193,25060,"Gulfport-Biloxi, MS",Metropolitan Statistical Area,Gulfport,28.0,29700.0,MS,Mississippi,1779790,"Gulfport, MS","Gulfport, Mississippi",False,False
+1194,25620,"Hattiesburg, MS",Metropolitan Statistical Area,Hattiesburg,28.0,31020.0,MS,Mississippi,1779790,"Hattiesburg, MS","Hattiesburg, Mississippi",False,False
+1195,26940,"Indianola, MS",Micropolitan Statistical Area,Indianola,28.0,34740.0,MS,Mississippi,1779790,"Indianola, MS","Indianola, Mississippi",False,False
+1196,27140,"Jackson, MS",Metropolitan Statistical Area,Jackson,28.0,36000.0,MS,Mississippi,1779790,"Jackson, MS","Jackson, Mississippi",False,False
+1197,29860,"Laurel, MS",Micropolitan Statistical Area,Laurel,28.0,39640.0,MS,Mississippi,1779790,"Laurel, MS","Laurel, Mississippi",False,False
+1198,32620,"McComb, MS",Micropolitan Statistical Area,McComb,28.0,43280.0,MS,Mississippi,1779790,"McComb, MS","McComb, Mississippi",False,False
+1199,32940,"Meridian, MS",Micropolitan Statistical Area,Meridian,28.0,46640.0,MS,Mississippi,1779790,"Meridian, MS","Meridian, Mississippi",False,False
+1200,35020,"Natchez, MS-LA",Micropolitan Statistical Area,Natchez,28.0,50440.0,MS,Mississippi,1779790,"Natchez, MS","Natchez, Mississippi",False,False
+1201,37060,"Oxford, MS",Micropolitan Statistical Area,Oxford,28.0,54840.0,MS,Mississippi,1779790,"Oxford, MS","Oxford, Mississippi",False,False
+1202,38100,"Picayune, MS",Micropolitan Statistical Area,Picayune,28.0,57160.0,MS,Mississippi,1779790,"Picayune, MS","Picayune, Mississippi",False,False
+1203,44260,"Starkville, MS",Micropolitan Statistical Area,Starkville,28.0,70240.0,MS,Mississippi,1779790,"Starkville, MS","Starkville, Mississippi",False,False
+1204,46180,"Tupelo, MS",Micropolitan Statistical Area,Tupelo,28.0,74840.0,MS,Mississippi,1779790,"Tupelo, MS","Tupelo, Mississippi",False,False
+1205,46980,"Vicksburg, MS",Micropolitan Statistical Area,Vicksburg,28.0,76720.0,MS,Mississippi,1779790,"Vicksburg, MS","Vicksburg, Mississippi",False,False
+1206,48500,"West Point, MS",Micropolitan Statistical Area,West Point,28.0,79120.0,MS,Mississippi,1779790,"West Point, MS","West Point, Mississippi",False,False
+1207,16180,"Carson City, NV",Metropolitan Statistical Area,Carson City,32.0,9700.0,NV,Nevada,1779793,"Carson City, NV","Carson City, Nevada",False,False
+1208,21220,"Elko, NV",Micropolitan Statistical Area,Elko,32.0,22500.0,NV,Nevada,1779793,"Elko, NV","Elko, Nevada",False,False
+1209,21980,"Fallon, NV",Micropolitan Statistical Area,Fallon,32.0,24100.0,NV,Nevada,1779793,"Fallon, NV","Fallon, Nevada",False,False
+1210,22280,"Fernley, NV",Micropolitan Statistical Area,Fernley,32.0,24900.0,NV,Nevada,1779793,"Fernley, NV","Fernley, Nevada",False,False
+1211,23820,"Gardnerville Ranchos, NV",Micropolitan Statistical Area,Gardnerville Ranchos,32.0,26500.0,NV,Nevada,1779793,"Gardnerville Ranchos, NV","Gardnerville Ranchos, Nevada",False,False
+1212,29820,"Las Vegas-Henderson-Paradise, NV",Metropolitan Statistical Area,Henderson,32.0,31900.0,NV,Nevada,1779793,"Henderson, NV","Henderson, Nevada",False,False
+1213,29820,"Las Vegas-Henderson-Paradise, NV",Metropolitan Statistical Area,Las Vegas,32.0,40000.0,NV,Nevada,1779793,"Las Vegas, NV","Las Vegas, Nevada",True,False
+1214,29820,"Las Vegas-Henderson-Paradise, NV",Metropolitan Statistical Area,Paradise,32.0,54600.0,NV,Nevada,1779793,"Paradise, NV","Paradise, Nevada",False,False
+1215,37220,"Pahrump, NV",Micropolitan Statistical Area,Pahrump,32.0,53800.0,NV,Nevada,1779793,"Pahrump, NV","Pahrump, Nevada",False,False
+1216,39900,"Reno, NV",Metropolitan Statistical Area,Reno,32.0,60600.0,NV,Nevada,1779793,"Reno, NV","Reno, Nevada",False,False
+1217,49080,"Winnemucca, NV",Micropolitan Statistical Area,Winnemucca,32.0,84800.0,NV,Nevada,1779793,"Winnemucca, NV","Winnemucca, Nevada",False,False
+1218,16220,"Casper, WY",Metropolitan Statistical Area,Casper,56.0,13150.0,WY,Wyoming,1779807,"Casper, WY","Casper, Wyoming",False,False
+1219,16940,"Cheyenne, WY",Metropolitan Statistical Area,Cheyenne,56.0,13900.0,WY,Wyoming,1779807,"Cheyenne, WY","Cheyenne, Wyoming",False,False
+1220,21740,"Evanston, WY",Micropolitan Statistical Area,Evanston,56.0,25620.0,WY,Wyoming,1779807,"Evanston, WY","Evanston, Wyoming",False,False
+1221,23940,"Gillette, WY",Micropolitan Statistical Area,Gillette,56.0,31855.0,WY,Wyoming,1779807,"Gillette, WY","Gillette, Wyoming",False,False
+1222,27220,"Jackson, WY-ID",Micropolitan Statistical Area,Jackson,56.0,40120.0,WY,Wyoming,1779807,"Jackson, WY","Jackson, Wyoming",False,False
+1223,29660,"Laramie, WY",Micropolitan Statistical Area,Laramie,56.0,45050.0,WY,Wyoming,1779807,"Laramie, WY","Laramie, Wyoming",False,False
+1224,40180,"Riverton, WY",Micropolitan Statistical Area,Riverton,56.0,66220.0,WY,Wyoming,1779807,"Riverton, WY","Riverton, Wyoming",False,False
+1225,40540,"Rock Springs, WY",Micropolitan Statistical Area,Rock Springs,56.0,67235.0,WY,Wyoming,1779807,"Rock Springs, WY","Rock Springs, Wyoming",False,False
+1226,43260,"Sheridan, WY",Micropolitan Statistical Area,Sheridan,56.0,69845.0,WY,Wyoming,1779807,"Sheridan, WY","Sheridan, Wyoming",False,False
+1227,16260,"Cedar City, UT",Micropolitan Statistical Area,Cedar City,49.0,11320.0,UT,Utah,1455989,"Cedar City, UT","Cedar City, Utah",False,False
+1228,25720,"Heber, UT",Micropolitan Statistical Area,Heber,49.0,34200.0,UT,Utah,1455989,"Heber, UT","Heber, Utah",False,False
+1229,30860,"Logan, UT-ID",Metropolitan Statistical Area,Logan,49.0,45860.0,UT,Utah,1455989,"Logan, UT","Logan, Utah",False,False
+1230,36260,"Ogden-Clearfield, UT",Metropolitan Statistical Area,Clearfield,49.0,13850.0,UT,Utah,1455989,"Clearfield, UT","Clearfield, Utah",False,False
+1231,36260,"Ogden-Clearfield, UT",Metropolitan Statistical Area,Ogden,49.0,55980.0,UT,Utah,1455989,"Ogden, UT","Ogden, Utah",False,False
+1232,39220,"Price, UT",Micropolitan Statistical Area,Price,49.0,62030.0,UT,Utah,1455989,"Price, UT","Price, Utah",False,False
+1233,39340,"Provo-Orem, UT",Metropolitan Statistical Area,Orem,49.0,57300.0,UT,Utah,1455989,"Orem, UT","Orem, Utah",False,False
+1234,39340,"Provo-Orem, UT",Metropolitan Statistical Area,Provo,49.0,62470.0,UT,Utah,1455989,"Provo, UT","Provo, Utah",False,True
+1235,41100,"St. George, UT",Metropolitan Statistical Area,St. George,49.0,65330.0,UT,Utah,1455989,"St. George, UT","St. George, Utah",False,False
+1236,41620,"Salt Lake City, UT",Metropolitan Statistical Area,Salt Lake City,49.0,67000.0,UT,Utah,1455989,"Salt Lake City, UT","Salt Lake City, Utah",False,False
+1237,46860,"Vernal, UT",Micropolitan Statistical Area,Vernal,49.0,80090.0,UT,Utah,1455989,"Vernal, UT","Vernal, Utah",False,False
+1238,20100,"Dover, DE",Metropolitan Statistical Area,Dover,10.0,21200.0,DE,Delaware,1779781,"Dover, DE","Dover, Delaware",False,False
+1239,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Wilmington,10.0,77580.0,DE,Delaware,1779781,"Wilmington, DE","Wilmington, Delaware",False,False
+1240,22380,"Flagstaff, AZ",Metropolitan Statistical Area,Flagstaff,4.0,23620.0,AZ,Arizona,1779777,"Flagstaff, AZ","Flagstaff, Arizona",False,False
+1241,29420,"Lake Havasu City-Kingman, AZ",Metropolitan Statistical Area,Kingman,4.0,37620.0,AZ,Arizona,1779777,"Kingman, AZ","Kingman, Arizona",False,False
+1242,29420,"Lake Havasu City-Kingman, AZ",Metropolitan Statistical Area,Lake Havasu City,4.0,39370.0,AZ,Arizona,1779777,"Lake Havasu City, AZ","Lake Havasu City, Arizona",False,False
+1243,35700,"Nogales, AZ",Micropolitan Statistical Area,Nogales,4.0,49640.0,AZ,Arizona,1779777,"Nogales, AZ","Nogales, Arizona",False,False
+1244,37740,"Payson, AZ",Micropolitan Statistical Area,Payson,4.0,53700.0,AZ,Arizona,1779777,"Payson, AZ","Payson, Arizona",False,False
+1245,38060,"Phoenix-Mesa-Chandler, AZ",Metropolitan Statistical Area,Casa Grande,4.0,10530.0,AZ,Arizona,1779777,"Casa Grande, AZ","Casa Grande, Arizona",False,False
+1246,38060,"Phoenix-Mesa-Chandler, AZ",Metropolitan Statistical Area,Chandler,4.0,12000.0,AZ,Arizona,1779777,"Chandler, AZ","Chandler, Arizona",False,False
+1247,38060,"Phoenix-Mesa-Chandler, AZ",Metropolitan Statistical Area,Mesa,4.0,46000.0,AZ,Arizona,1779777,"Mesa, AZ","Mesa, Arizona",False,False
+1248,38060,"Phoenix-Mesa-Chandler, AZ",Metropolitan Statistical Area,Phoenix,4.0,55000.0,AZ,Arizona,1779777,"Phoenix, AZ","Phoenix, Arizona",False,False
+1249,38060,"Phoenix-Mesa-Chandler, AZ",Metropolitan Statistical Area,Scottsdale,4.0,65000.0,AZ,Arizona,1779777,"Scottsdale, AZ","Scottsdale, Arizona",False,False
+1250,38060,"Phoenix-Mesa-Chandler, AZ",Metropolitan Statistical Area,Tempe,4.0,73000.0,AZ,Arizona,1779777,"Tempe, AZ","Tempe, Arizona",False,False
+1251,39150,"Prescott Valley-Prescott, AZ",Metropolitan Statistical Area,Prescott,4.0,57380.0,AZ,Arizona,1779777,"Prescott, AZ","Prescott, Arizona",False,False
+1252,39150,"Prescott Valley-Prescott, AZ",Metropolitan Statistical Area,Prescott Valley,4.0,57450.0,AZ,Arizona,1779777,"Prescott Valley, AZ","Prescott Valley, Arizona",False,False
+1253,40940,"Safford, AZ",Micropolitan Statistical Area,Safford,4.0,62000.0,AZ,Arizona,1779777,"Safford, AZ","Safford, Arizona",False,False
+1254,43320,"Show Low, AZ",Micropolitan Statistical Area,Show Low,4.0,66470.0,AZ,Arizona,1779777,"Show Low, AZ","Show Low, Arizona",False,False
+1255,43420,"Sierra Vista-Douglas, AZ",Metropolitan Statistical Area,Douglas,4.0,20050.0,AZ,Arizona,1779777,"Douglas, AZ","Douglas, Arizona",False,False
+1256,43420,"Sierra Vista-Douglas, AZ",Metropolitan Statistical Area,Sierra Vista,4.0,66820.0,AZ,Arizona,1779777,"Sierra Vista, AZ","Sierra Vista, Arizona",False,False
+1257,46060,"Tucson, AZ",Metropolitan Statistical Area,Tucson,4.0,77000.0,AZ,Arizona,1779777,"Tucson, AZ","Tucson, Arizona",True,False
+1258,49740,"Yuma, AZ",Metropolitan Statistical Area,Yuma,4.0,85540.0,AZ,Arizona,1779777,"Yuma, AZ","Yuma, Arizona",False,False
+1259,25900,"Hilo, HI",Micropolitan Statistical Area,Hilo,15.0,14650.0,HI,Hawaii,1779782,"Hilo, HI","Hilo, Hawaii",False,False
+1260,27980,"Kahului-Wailuku-Lahaina, HI",Metropolitan Statistical Area,Kahului,15.0,22700.0,HI,Hawaii,1779782,"Kahului, HI","Kahului, Hawaii",False,False
+1261,27980,"Kahului-Wailuku-Lahaina, HI",Metropolitan Statistical Area,Lahaina,15.0,42950.0,HI,Hawaii,1779782,"Lahaina, HI","Lahaina, Hawaii",False,False
+1262,27980,"Kahului-Wailuku-Lahaina, HI",Metropolitan Statistical Area,Wailuku,15.0,77450.0,HI,Hawaii,1779782,"Wailuku, HI","Wailuku, Hawaii",False,False
+1263,28180,"Kapaa, HI",Micropolitan Statistical Area,Kapaa,15.0,28850.0,HI,Hawaii,1779782,"Kapaa, HI","Kapaa, Hawaii",False,False
+1264,46520,"Urban Honolulu, HI",Metropolitan Statistical Area,Urban Honolulu,15.0,71550.0,HI,Hawaii,1779782,"Urban Honolulu, HI","Urban Honolulu, Hawaii",False,False
+1265,39300,"Providence-Warwick, RI-MA",Metropolitan Statistical Area,Providence,44.0,59000.0,RI,Rhode Island,1219835,"Providence, RI","Providence, Rhode Island",False,False
+1266,39300,"Providence-Warwick, RI-MA",Metropolitan Statistical Area,Warwick,44.0,74300.0,RI,Rhode Island,1219835,"Warwick, RI","Warwick, Rhode Island",False,False
+1267,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Washington,11.0,50000.0,DC,District of Columbia,1702382,"Washington, DC","Washington, District of Columbia",False,True
